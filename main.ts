@@ -14,41 +14,31 @@ enum KVG {
   T = "kvg:type"
 }
 
-let skip = 1
-
-function _walk(e: INode) {
-  const te = e.attributes[KVG.E]
-  const r = rad[te]
-  if (r) {
-    return [r]
-  }
-  let s: string[] = []
-  for (const c of e.children) {
-    if (parseInt(c.attributes[KVG.PT]) > 1) {
-      continue
-    }
-    const e = c.attributes[KVG.E] ?? c.attributes[KVG.T]?.substring(0, 1)
-    const pos = c.attributes[KVG.P]
-    let found = true
-    if (e) {
-      let rd = rad[e]
-      if (rd == null) {
-        if (e && strokes.includes(e)) {
-          rd = `stroke ${e}`
-        } else {
-          found  = false
-        }
-
+function _walk(k: INode): string[] {
+  const e = k.attributes[KVG.E] ?? k.attributes[KVG.T]?.substring(0, 1)
+  if (rad[e]) {
+    return [`${rad[e]} (${e})`]
+  } else if (strokes.includes(e)) {
+    return [`stroke ${e}`]
+  } else {
+    let s: string[] = []
+    for (let c of k.children) {
+      if (parseInt(c.attributes[KVG.PT]) > 1) {
+        continue
       }
-      s.push(pos, rd ?? e)
-    }
-    if (!found) {
+      const pos = c.attributes[KVG.P]
       const rest = _walk(c)
-      s.push(pos, "block", ...rest, "end")
+      s.push(pos)
+      if (rest.length > 1) {
+        s.push("block", ...rest, "end")
+      } else {
+        s.push(rest[0])
+      }
     }
+    return s
   }
-  return s
 }
+
 function walk(e: INode) {
   const s = _walk(e)
   return s.filter(_ => _).join(" ")
