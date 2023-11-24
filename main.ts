@@ -1,7 +1,12 @@
 // import { parse, ElementNode } from 'svg-parser'
 import { xml2js } from 'xml-js'
 import { INode, parseSync } from 'svgson'
+import JSZip from "jszip";
 import * as fs from 'fs'
+import { readFile } from 'fs/promises';
+
+const zip = new JSZip();
+
 
 const rad = JSON.parse(fs.readFileSync('r3.json', 'utf8'))
 
@@ -44,22 +49,28 @@ function walk(e: INode) {
   return s.filter(_ => _).join(" ")
 }
 
-function kanjiDesc(i: string) {
+async function kanjiDesc(f: JSZip, i: string) {
   const u = i.charCodeAt(0).toString(16).padStart(5, "0")
-  const x = fs.readFileSync(`kanji/${u}.svg`, 'utf8')
-  console.log(u)
+  const x = await f.file(`kanji/${u}.svg`)?.async("string")!
 
   const b = parseSync(x)
   const k = b.children[0].children[0]
   return walk(k)
 }
 
-const joyo = fs.readFileSync('joyo.txt', 'utf8').split(" ")
+async function main() {
 
-for (let j of joyo) {
-  const desc = kanjiDesc(j)
-  console.log(j, desc)
+  const f = await zip.loadAsync(readFile("kanjivg.zip"))
+
+  const joyo = fs.readFileSync('joyo.txt', 'utf8').split(" ")
+
+  for (let j of joyo) {
+    const desc = await kanjiDesc(f, j)
+    console.log(j, desc)
+  }
 }
+
+main()
 
 // const j = '二'
 // const desc = kanjiDesc(j)
