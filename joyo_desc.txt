@@ -1,0 +1,5835 @@
+04e00
+04e00
+一 いち (一)
+04e5d
+04e5d
+九 の (丿) おつ (乙)
+04e03
+04e03
+七 いち (一) おつ (乙)
+04e8c
+04e8c
+二 に (二)
+04eba
+04eba
+人 ひと (人)
+05165
+05165
+入 いる (入)
+0516b
+0516b
+八 はちがしら (八)
+0529b
+0529b
+力 ちから (力)
+05341
+05341
+十 じゅう (十)
+04e0b
+04e0b
+下 いち (一) ぼくのと (卜)
+04e09
+04e09
+三 top いち (一) bottom block いち (一) いち (一) end
+05343
+05343
+千 top の (丿) bottom じゅう (十)
+04e0a
+04e0a
+上 ぼくのと (卜) いち (一)
+053e3
+053e3
+口 くち (口)
+0571f
+0571f
+土 つち (土)
+05915
+05915
+夕 ゆうべ (夕)
+05927
+05927
+大 だい (大)
+05973
+05973
+女 お (女)
+05b50
+05b50
+子 こ (子)
+05c0f
+05c0f
+小 ちいさい (小)
+05c71
+05c71
+山 やま (山)
+05ddd
+05ddd
+川 かわ (川)
+04e94
+04e94
+五 に (二) stroke ㇑ stroke ㇕
+05929
+05929
+天 いち (一) だい (大)
+04e2d
+04e2d
+中 くち (口) ぼう (丨)
+0516d
+0516d
+六 top なべぶた (亠) bottom はちがしら (八)
+05186
+05186
+円 まきがまえ (冂) block stroke ㇑ stroke ㇐ end
+0624b
+0624b
+手 て (手)
+06587
+06587
+文 ぶ (文)
+065e5
+065e5
+日 にち (日)
+06708
+06708
+月 にく (月)
+06728
+06728
+木 き (木)
+06c34
+06c34
+水 みず (水)
+0706b
+0706b
+火 ひ (火)
+072ac
+072ac
+犬 いぬ (犬)
+0738b
+0738b
+王 おう (王)
+06b63
+06b63
+正 いち (一) とめる (止)
+051fa
+051fa
+出 やま (山) うけばこ (凵)
+0672c
+0672c
+本 き (木) stroke ㇐
+053f3
+053f3
+右 stroke ㇒ stroke ㇐ くち (口)
+056db
+056db
+四 kamae くにがまえ (囗) に (儿)
+05de6
+05de6
+左 kamae block stroke ㇐ stroke ㇒ end たくみ (工)
+07389
+07389
+玉 おう (玉)
+0751f
+0751f
+生 うまれる (生)
+07530
+07530
+田 た (田)
+0767d
+0767d
+白 しろ (白)
+076ee
+076ee
+目 め (目)
+077f3
+077f3
+石 いし (石)
+07acb
+07acb
+立 たつ (立)
+0767e
+0767e
+百 top いち (一) bottom しろ (白)
+05e74
+05e74
+年 の (丿) ほし (干) stroke ㇑ stroke ㇐
+04f11
+04f11
+休 left ひと (亻) right き (木)
+05148
+05148
+先 top block stroke ㇒ stroke ㇐ stroke ㇑ stroke ㇐ end bottom に (儿)
+0540d
+0540d
+名 top ゆうべ (夕) bottom くち (口)
+05b57
+05b57
+字 top うか (宀) bottom こ (子)
+065e9
+065e9
+早 top にち (日) bottom じゅう (十)
+06c17
+06c17
+気 kamae きがまえ (气) block の (丿) stroke ㇔ end SHORT kamae きがまえ (气) 乂
+07af9
+07af9
+竹 たけ (竹)
+07cf8
+07cf8
+糸 いと (糸)
+08033
+08033
+耳 みみ (耳)
+0866b
+0866b
+虫 むし (虫)
+06751
+06751
+村 left き (木) right す (寸)
+07537
+07537
+男 top た (田) bottom ちから (力)
+0753a
+0753a
+町 left た (田) right block いち (一) はねぼう (亅) end SHORT left た (田) right 丁
+082b1
+082b1
+花 top くさ (艹) bottom block ひと (亻) さじのひ (匕) end SHORT top くさ (艹) bottom 化
+0898b
+0898b
+見 みる (見)
+08c9d
+08c9d
+貝 かい (貝)
+08d64
+08d64
+赤 あか (赤)
+08db3
+08db3
+足 あし (足)
+08eca
+08eca
+車 くるま (車)
+05b66
+05b66
+学 top block ちいさい (⺍) わか (冖) end bottom こ (子)
+06797
+06797
+林 left き (木) right き (木)
+07a7a
+07a7a
+空 top あな (穴) bottom たくみ (工)
+091d1
+091d1
+金 かね (金)
+096e8
+096e8
+雨 あめ (雨)
+09752
+09752
+青 あお (青)
+08349
+08349
+草 top くさ (艹) bottom block にち (日) じゅう (十) end SHORT top くさ (艹) bottom 早
+097f3
+097f3
+音 おと (音)
+06821
+06821
+校 left き (木) right block なべぶた (亠) ちち (父) end SHORT left き (木) right 交
+068ee
+068ee
+森 top き (木) bottom block き (木) き (木) end SHORT top き (木) bottom 林
+05200
+05200
+刀 かたな (刀)
+04e07
+04e07
+万 いち (一) stroke ㇆ stroke ㇒
+04e38
+04e38
+丸 block の (丿) おつ (乙) end て (丶) SHORT 九 て (丶)
+0624d
+0624d
+才 て (扌)
+05de5
+05de5
+工 たくみ (工)
+05f13
+05f13
+弓 ゆみ (弓)
+05185
+05185
+内 まきがまえ (冂) ひと (人)
+05348
+05348
+午 top block の (丿) ほし (干) end
+05c11
+05c11
+少 ちいさい (小) の (丿)
+05143
+05143
+元 top に (二) bottom に (儿)
+04eca
+04eca
+今 top ひと (人) bottom block いち (一) stroke ㇇ end
+0516c
+0516c
+公 top はちがしら (八) bottom む (厶)
+05206
+05206
+分 top はちがしら (八) bottom かたな (刀)
+05207
+05207
+切 left block いち (一) stroke ㇟ end right かたな (刀) SHORT left 七 right かたな (刀)
+053cb
+053cb
+友 stroke ㇐ stroke ㇒ また (又)
+0592a
+0592a
+太 top だい (大) bottom て (丶)
+05f15
+05f15
+引 left ゆみ (弓) right ぼう (丨)
+05fc3
+05fc3
+心 りっし (心)
+06238
+06238
+戸 とびらのと (戸)
+065b9
+065b9
+方 ほう (方)
+06b62
+06b62
+止 とめる (止)
+06bdb
+06bdb
+毛 け (毛)
+07236
+07236
+父 ちち (父)
+0725b
+0725b
+牛 うし (牛)
+0534a
+0534a
+半 て (丶) stroke ㇒ に (二) じゅう (十)
+05e02
+05e02
+市 top なべぶた (亠) bottom はば (巾)
+05317
+05317
+北 left block stroke ㇐ stroke ㇑ stroke ㇀ end right さじのひ (匕)
+053e4
+053e4
+古 top じゅう (十) bottom くち (口)
+053f0
+053f0
+台 top む (厶) bottom くち (口)
+05144
+05144
+兄 top くち (口) bottom に (儿)
+051ac
+051ac
+冬 top ふゆがしら (夂) bottom にすい (冫)
+05916
+05916
+外 left ゆうべ (夕) right ぼくのと (卜)
+05e83
+05e83
+広 tare まだれ (广) tarec む (厶)
+06bcd
+06bcd
+母 なかれ (母)
+07528
+07528
+用 もちいる (用)
+077e2
+077e2
+矢 や (矢)
+04ea4
+04ea4
+交 top なべぶた (亠) bottom ちち (父)
+04f1a
+04f1a
+会 top ひと (人) bottom block に (二) む (厶) end SHORT top ひと (人) bottom 云
+05408
+05408
+合 top block ひと (人) いち (一) end bottom くち (口)
+0540c
+0540c
+同 kamae まきがまえ (冂) いち (一) くち (口)
+056de
+056de
+回 kamae くにがまえ (囗) くち (口)
+05bfa
+05bfa
+寺 top つち (土) bottom す (寸)
+05730
+05730
+地 left つち (土) right block stroke ㇆ stroke ㇑ おつ (乙) end SHORT left つち (土) right 也
+0591a
+0591a
+多 top ゆうべ (夕) bottom ゆうべ (夕)
+05149
+05149
+光 top ちいさい (⺌) bottom block いち (一) に (儿) end SHORT top ちいさい (⺌) bottom 兀
+05f53
+05f53
+当 top ちいさい (⺌) bottom けいがしら (⺕)
+06bce
+06bce
+毎 top block の (丿) stroke ㇐ end bottom なかれ (毋) SHORT top 𠂉 bottom なかれ (毋)
+06c60
+06c60
+池 left みず (氵) right block stroke ㇆ stroke ㇑ おつ (乙) end SHORT left みず (氵) right 也
+07c73
+07c73
+米 こめ (米)
+07fbd
+07fbd
+羽 はね (羽)
+08003
+08003
+考 tare ろう (耂) tarec block の (丿) stroke ㇉ end SHORT tare ろう (耂) tarec 丂
+08089
+08089
+肉 にく (肉)
+081ea
+081ea
+自 みずから (自)
+08272
+08272
+色 いろ (色)
+0884c
+0884c
+行 ぎょう (行)
+0897f
+0897f
+西 にし (西)
+06765
+06765
+来 stroke ㇐ こめ (米)
+04f55
+04f55
+何 left ひと (亻) right block block いち (一) end くち (口) end SHORT left ひと (亻) right 可
+04f5c
+04f5c
+作 left ひと (亻) right block の (丿) stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end SHORT left ひと (亻) right 乍
+04f53
+04f53
+体 left ひと (亻) right block き (木) stroke ㇐ end SHORT left ひと (亻) right 本
+05f1f
+05f1f
+弟 top はちがしら (八) bottom block block ゆみ (弓) ぼう (丨) end の (丿) end SHORT top はちがしら (八) bottom block 弔 の (丿) end
+056f3
+056f3
+図 kamae くにがまえ (囗) ちいさい (⺍) block stroke ㇔ end SHORT kamae くにがまえ (囗) ちいさい (⺍) 乂
+058f0
+058f0
+声 top さむらい (士) bottom block stroke ㇕ stroke ㇑ stroke ㇐ stroke ㇒ end
+058f2
+058f2
+売 top さむらい (士) bottom block わか (冖) に (儿) end
+05f62
+05f62
+形 left block ほし (干) ほし (干) end right さ (彡) SHORT left 开 right さ (彡)
+06c7d
+06c7d
+汽 left みず (氵) right きがまえ (气)
+0793e
+0793e
+社 left しめす (礻) right つち (土)
+089d2
+089d2
+角 つの (角)
+08a00
+08a00
+言 こと (言)
+08c37
+08c37
+谷 たに (谷)
+08d70
+08d70
+走 はしる (走)
+08fd1
+08fd1
+近 nyoc おの (斤) nyo し (⻌)
+091cc
+091cc
+里 さと (里)
+09ea6
+09ea6
+麦 むぎ (麦)
+0753b
+0753b
+画 いち (一) block た (田) end うけばこ (凵) SHORT いち (一) 由 うけばこ (凵)
+06771
+06771
+東 き (木) にち (日)
+04eac
+04eac
+京 top なべぶた (亠) bottom block くち (口) ちいさい (小) end
+0591c
+0591c
+夜 top なべぶた (亠) bottom block ひと (亻) ゆうべ (夕) block stroke ㇏ end end
+076f4
+076f4
+直 じゅう (十) め (目) stroke ㇗
+056fd
+056fd
+国 kamae くにがまえ (囗) おう (玉)
+059c9
+059c9
+姉 left お (女) right block なべぶた (亠) はば (巾) end SHORT left お (女) right 市
+059b9
+059b9
+妹 left お (女) right block stroke ㇐ き (木) end SHORT left お (女) right 未
+05ca9
+05ca9
+岩 top やま (山) bottom いし (石)
+05e97
+05e97
+店 tare まだれ (广) tarec block top ぼくのと (卜) bottom くち (口) end SHORT tare まだれ (广) tarec 占
+0660e
+0660e
+明 left にち (日) right にく (月)
+06b69
+06b69
+歩 top とめる (止) bottom block ちいさい (小) の (丿) end SHORT top とめる (止) bottom 少
+077e5
+077e5
+知 left や (矢) right くち (口)
+09577
+09577
+長 ながい (長)
+09580
+09580
+門 も (門)
+0663c
+0663c
+昼 block しかばね (尸) end block にち (日) いち (一) end SHORT 尺 旦
+0524d
+0524d
+前 top block はちがしら (八) stroke ㇐ end bottom block にく (月) かたな (刂) end
+05357
+05357
+南 top じゅう (十) bottom block まきがまえ (冂) stroke ㇔ stroke ㇒ ほし (干) end
+070b9
+070b9
+点 top block ぼくのと (卜) くち (口) end bottom ひ (灬) SHORT top 占 bottom ひ (灬)
+05ba4
+05ba4
+室 top うか (宀) bottom いたる (至)
+05f8c
+05f8c
+後 left ぎょうに (彳) right block いとがしら (幺) ふゆがしら (夂) end
+06625
+06625
+春 top block block top いち (一) bottom block いち (一) だい (大) end end end bottom にち (日) SHORT top 𡗗 bottom にち (日)
+0661f
+0661f
+星 top にち (日) bottom うまれる (生)
+06d77
+06d77
+海 left みず (氵) right block top block の (丿) stroke ㇐ end bottom なかれ (毋) end SHORT left みず (氵) right 毎
+06d3b
+06d3b
+活 left みず (氵) right した (舌)
+0601d
+0601d
+思 top た (田) bottom りっし (心)
+079d1
+079d1
+科 left のぎ (禾) right とます (斗)
+079cb
+079cb
+秋 left のぎ (禾) right ひ (火)
+08336
+08336
+茶 top くさ (艹) bottom block ひと (人) き (木) end
+08a08
+08a08
+計 left こと (言) right じゅう (十)
+098a8
+098a8
+風 かぜ (風)
+098df
+098df
+食 しょく (食)
+09996
+09996
+首 くび (首)
+0590f
+0590f
+夏 top block いち (一) みずから (自) end bottom ふゆがしら (夂)
+05f31
+05f31
+弱 left ゆみ (弓) right block にすい (冫) ゆみ (弓) にすい (冫) end
+0539f
+0539f
+原 tare が (厂) tarec block しろ (白) ちいさい (小) end SHORT tare が (厂) tarec CDP-8BC4
+05bb6
+05bb6
+家 top うか (宀) bottom いのこ (豕)
+05e30
+05e30
+帰 left かたな (刂) right block けいがしら (⺕) わか (冖) はば (巾) end SHORT left かたな (刂) right 帚
+06642
+06642
+時 left にち (日) right block つち (土) す (寸) end SHORT left にち (日) right 寺
+07d19
+07d19
+紙 left いと (糸) right うじ (氏)
+066f8
+066f8
+書 top ふでづくり (聿) bottom にち (日)
+08a18
+08a18
+記 left こと (言) right おのれ (己)
+0901a
+0901a
+通 nyoc block top block stroke ㇇ stroke ㇔ end bottom もちいる (用) end nyo し (⻌) SHORT nyoc 甬 nyo し (⻌)
+099ac
+099ac
+馬 うま (馬)
+09ad8
+09ad8
+高 たかい (高)
+05f37
+05f37
+強 left ゆみ (弓) right block top む (厶) bottom むし (虫) end
+06559
+06559
+教 left block ろう (耂) こ (子) end right のぶ (攵) SHORT left 孝 right のぶ (攵)
+07406
+07406
+理 left おう (王) right さと (里)
+07d30
+07d30
+細 left いと (糸) right た (田)
+07d44
+07d44
+組 left いと (糸) right block にく (月) いち (一) end SHORT left いと (糸) right 且
+08239
+08239
+船 left ふね (舟) right block はちがしら (八) くち (口) end SHORT left ふね (舟) right 㕣
+09031
+09031
+週 nyoc block まきがまえ (冂) block さむらい (士) くち (口) end end nyo し (⻌) SHORT nyoc 周 nyo し (⻌)
+091ce
+091ce
+野 left さと (里) right block stroke ㇇ stroke ㇔ block stroke ㇇ はねぼう (亅) end end SHORT left さと (里) right 予
+096ea
+096ea
+雪 top あめ (雨) bottom けいがしら (⺕)
+09b5a
+09b5a
+魚 うお (魚)
+09ce5
+09ce5
+鳥 とり (鳥)
+09ec4
+09ec4
+黄 きいろ (黄)
+09ed2
+09ed2
+黒 くろ (黒)
+05834
+05834
+場 left つち (土) right block block にち (日) いち (一) end block つつみがまえ (勹) stroke ㇒ stroke ㇒ end end SHORT left つち (土) right 昜
+06674
+06674
+晴 left にち (日) right あお (青)
+07b54
+07b54
+答 top たけ (竹) bottom block ひと (人) いち (一) くち (口) end SHORT top たけ (竹) bottom 合
+07d75
+07d75
+絵 left いと (糸) right block ひと (人) block に (二) む (厶) end end SHORT left いと (糸) right 会
+08cb7
+08cb7
+買 top あみがしら (罒) bottom かい (貝)
+0671d
+0671d
+朝 left block top じゅう (十) bottom block にち (日) じゅう (十) end end right にく (月) SHORT left 𠦝 right にく (月)
+09053
+09053
+道 nyoc くび (首) nyo し (⻌)
+0756a
+0756a
+番 top のごめ (釆) bottom た (田)
+09593
+09593
+間 kamae も (門) にち (日)
+096f2
+096f2
+雲 top あめ (雨) bottom block に (二) む (厶) end SHORT top あめ (雨) bottom 云
+05712
+05712
+園 kamae くにがまえ (囗) block top つち (土) bottom block くち (口) end end SHORT kamae くにがまえ (囗) 袁
+06570
+06570
+数 left block こめ (米) お (女) end right のぶ (攵) SHORT left 娄 right のぶ (攵)
+065b0
+065b0
+新 left block たつ (立) き (木) end right おの (斤)
+0697d
+0697d
+楽 top block しろ (白) にすい (冫) stroke ㇒ stroke ㇔ end bottom き (木)
+08a71
+08a71
+話 left こと (言) right した (舌)
+09060
+09060
+遠 nyoc block top つち (土) bottom block くち (口) end end nyo し (⻌) SHORT nyoc 袁 nyo し (⻌)
+096fb
+096fb
+電 top あめ (雨) bottom block にち (日) stroke ㇟ end
+09cf4
+09cf4
+鳴 left くち (口) right とり (鳥)
+06b4c
+06b4c
+歌 left block top block block block いち (一) end くち (口) end block block いち (一) end くち (口) end end end right あくび (欠) SHORT left block top 哥 end right あくび (欠)
+07b97
+07b97
+算 top たけ (竹) bottom block め (目) にじゅうあし (廾) end
+08a9e
+08a9e
+語 left こと (言) right block block に (二) stroke ㇑ stroke ㇕ end くち (口) end SHORT left こと (言) right 吾
+08aad
+08aad
+読 left こと (言) right block top さむらい (士) bottom block わか (冖) に (儿) end end SHORT left こと (言) right 売
+0805e
+0805e
+聞 kamae も (門) みみ (耳)
+07dda
+07dda
+線 left いと (糸) right block top しろ (白) bottom みず (水) end SHORT left いと (糸) right 泉
+089aa
+089aa
+親 left block たつ (立) き (木) end right みる (見)
+0982d
+0982d
+頭 left まめ (豆) right おおがい (頁)
+066dc
+066dc
+曜 left にち (日) right block top はね (羽) bottom ふるとり (隹) end
+09854
+09854
+顔 left block たつ (立) さ (彡) end right おおがい (頁) SHORT left 彦 right おおがい (頁)
+04e01
+04e01
+丁 いち (一) はねぼう (亅)
+04e88
+04e88
+予 top block stroke ㇇ stroke ㇔ end bottom block stroke ㇇ はねぼう (亅) end SHORT top マ bottom 了
+05316
+05316
+化 left ひと (亻) right さじのひ (匕)
+0533a
+0533a
+区 kamae かくしがまえ (匸) block の (丿) stroke ㇔ end SHORT kamae かくしがまえ (匸) 乂
+053cd
+053cd
+反 が (厂) また (又)
+0592e
+0592e
+央 ぼう (丨) stroke ㇕ だい (大)
+05e73
+05e73
+平 ほし (干) stroke ㇔ stroke ㇒
+07533
+07533
+申 にち (日) ぼう (丨)
+04e16
+04e16
+世 block じゅう (十) stroke ㇑ stroke ㇐ end stroke ㇗ SHORT 廿 stroke ㇗
+07531
+07531
+由 にち (日) ぼう (丨)
+06c37
+06c37
+氷 みず (水) て (丶)
+04e3b
+04e3b
+主 top なべぶた (亠) bottom おう (王)
+04ed5
+04ed5
+仕 left ひと (亻) right さむらい (士)
+04ed6
+04ed6
+他 left ひと (亻) right block stroke ㇆ stroke ㇑ おつ (乙) end SHORT left ひと (亻) right 也
+04ee3
+04ee3
+代 left ひと (亻) right しきがまえ (弋)
+05199
+05199
+写 top わか (冖) bottom block stroke ㇐ stroke ㇉ いち (一) end SHORT top わか (冖) bottom 与
+053f7
+053f7
+号 top くち (口) bottom block いち (一) stroke ㇉ end
+053bb
+053bb
+去 top つち (土) bottom む (厶)
+06253
+06253
+打 left て (扌) right block いち (一) はねぼう (亅) end SHORT left て (扌) right 丁
+076ae
+076ae
+皮 けがわ (皮)
+076bf
+076bf
+皿 さら (皿)
+0793c
+0793c
+礼 left しめす (礻) right おつ (乙)
+04e21
+04e21
+両 いち (一) まきがまえ (冂) やま (山)
+066f2
+066f2
+曲 にち (日) にじゅうあし (廾)
+05411
+05411
+向 の (丿) kamae まきがまえ (冂) くち (口)
+05dde
+05dde
+州 て (丶) かわ (川) て (丶) て (丶)
+05168
+05168
+全 top ひと (人) bottom おう (王)
+06b21
+06b21
+次 left にすい (冫) right あくび (欠)
+05b89
+05b89
+安 top うか (宀) bottom お (女)
+05b88
+05b88
+守 top うか (宀) bottom す (寸)
+05f0f
+05f0f
+式 kamae しきがまえ (弋) たくみ (工)
+06b7b
+06b7b
+死 がつへ (歹) さじのひ (匕)
+05217
+05217
+列 left がつへ (歹) right かたな (刂)
+07f8a
+07f8a
+羊 ひつじ (羊)
+06709
+06709
+有 stroke ㇒ stroke ㇐ にく (月)
+08840
+08840
+血 ち (血)
+04f4f
+04f4f
+住 left ひと (亻) right block top て (丶) bottom おう (王) end SHORT left ひと (亻) right 主
+052a9
+052a9
+助 left block にく (月) いち (一) end right ちから (力) SHORT left 且 right ちから (力)
+0533b
+0533b
+医 kamae かくしがまえ (匸) や (矢)
+0541b
+0541b
+君 tare block けいがしら (⺕) end tarec くち (口) SHORT tare 尹 tarec くち (口)
+05742
+05742
+坂 left つち (土) right block が (厂) また (又) end SHORT left つち (土) right 反
+05c40
+05c40
+局 しかばね (尸) block つつみがまえ (勹) くち (口) end SHORT しかばね (尸) 句
+05f79
+05f79
+役 left ぎょうに (彳) right ほこつくり (殳)
+06295
+06295
+投 left て (扌) right ほこつくり (殳)
+05bfe
+05bfe
+対 left ぶ (文) right す (寸)
+06c7a
+06c7a
+決 left みず (氵) right block stroke ㇕ だい (大) end SHORT left みず (氵) right 夬
+07a76
+07a76
+究 top あな (穴) bottom block stroke ㇒ おつ (乙) end SHORT top あな (穴) bottom 九
+08c46
+08c46
+豆 まめ (豆)
+08eab
+08eab
+身 み (身)
+08fd4
+08fd4
+返 nyoc block が (厂) また (又) end nyo し (⻌) SHORT nyoc 反 nyo し (⻌)
+08868
+08868
+表 top block に (二) ぼう (丨) end bottom ころも (衣)
+04e8b
+04e8b
+事 stroke ㇐ くち (口) けいがしら (⺕) はねぼう (亅)
+080b2
+080b2
+育 top block なべぶた (亠) む (厶) end bottom にく (月)
+04f7f
+04f7f
+使 left ひと (亻) right block block いち (一) end くち (口) end SHORT left ひと (亻) right 吏
+0547d
+0547d
+命 top block ひと (人) いち (一) end bottom block left くち (口) right ふしづくり (卩) end
+05473
+05473
+味 left くち (口) right block stroke ㇐ き (木) end SHORT left くち (口) right 未
+05e78
+05e78
+幸 top つち (土) block くさ (䒑) bottom ほし (干) end SHORT top つち (土) 𢆉
+059cb
+059cb
+始 left お (女) right block む (厶) くち (口) end SHORT left お (女) right 台
+05b9f
+05b9f
+実 top うか (宀) bottom block block いち (一) いち (一) いち (一) end ひと (人) end SHORT top うか (宀) bottom 𡗗
+05b9a
+05b9a
+定 top うか (宀) bottom ひき (疋)
+05cb8
+05cb8
+岸 top やま (山) bottom block が (厂) ほし (干) end
+06240
+06240
+所 left とびらのと (戸) right おの (斤)
+0653e
+0653e
+放 left ほう (方) right のぶ (攵)
+06614
+06614
+昔 top block にじゅうあし (廾) stroke ㇐ end bottom にち (日)
+0677f
+0677f
+板 left き (木) right block が (厂) また (又) end SHORT left き (木) right 反
+06cf3
+06cf3
+泳 left みず (氵) right block て (丶) みず (水) end SHORT left みず (氵) right 永
+06ce8
+06ce8
+注 left みず (氵) right block top て (丶) bottom おう (王) end SHORT left みず (氵) right 主
+06ce2
+06ce2
+波 left みず (氵) right けがわ (皮)
+06cb9
+06cb9
+油 left みず (氵) right block にち (日) ぼう (丨) end SHORT left みず (氵) right 由
+053d7
+053d7
+受 top block つめ (⺤) わか (冖) end bottom また (又)
+07269
+07269
+物 left うし (牛) right block つつみがまえ (勹) stroke ㇒ stroke ㇒ end SHORT left うし (牛) right 勿
+05177
+05177
+具 top め (目) bottom block stroke ㇐ はちがしら (八) end
+059d4
+059d4
+委 top のぎ (禾) bottom お (女)
+0548c
+0548c
+和 left のぎ (禾) right くち (口)
+08005
+08005
+者 tare ろう (耂) tarec にち (日)
+053d6
+053d6
+取 left みみ (耳) right また (又)
+0670d
+0670d
+服 left にく (月) right block ふしづくり (卩) また (又) end
+082e6
+082e6
+苦 top くさ (艹) bottom block じゅう (十) くち (口) end SHORT top くさ (艹) bottom 古
+091cd
+091cd
+重 block の (丿) じゅう (十) end さと (里) SHORT 千 さと (里)
+04e57
+04e57
+乗 block の (丿) じゅう (十) end stroke ㇐ stroke ㇑ stroke ㇑ き (木) SHORT 千 stroke ㇐ stroke ㇑ stroke ㇑ き (木)
+04fc2
+04fc2
+係 left ひと (亻) right block top の (丿) bottom いと (糸) end SHORT left ひと (亻) right 系
+054c1
+054c1
+品 top くち (口) bottom block left くち (口) right くち (口) end
+05ba2
+05ba2
+客 top うか (宀) bottom block ふゆがしら (夂) くち (口) end SHORT top うか (宀) bottom 各
+0770c
+0770c
+県 top block め (目) stroke ㇗ end bottom ちいさい (小)
+05c4b
+05c4b
+屋 tare しかばね (尸) tarec いたる (至)
+070ad
+070ad
+炭 top やま (山) bottom block tare が (厂) tarec ひ (火) end SHORT top やま (山) bottom 灰
+05ea6
+05ea6
+度 tare まだれ (广) tarec block block じゅう (十) stroke ㇑ stroke ㇐ end また (又) end SHORT tare まだれ (广) tarec block 廿 また (又) end
+05f85
+05f85
+待 left ぎょうに (彳) right block top つち (土) bottom す (寸) end SHORT left ぎょうに (彳) right 寺
+06025
+06025
+急 top block block stroke ㇒ stroke ㇇ end けいがしら (⺕) end bottom りっし (心) SHORT top block 𠂊 けいがしら (⺕) end bottom りっし (心)
+06307
+06307
+指 left て (扌) right block さじのひ (匕) にち (日) end SHORT left て (扌) right 旨
+06301
+06301
+持 left て (扌) right block つち (土) す (寸) end SHORT left て (扌) right 寺
+062fe
+062fe
+拾 left て (扌) right block ひと (人) いち (一) くち (口) end SHORT left て (扌) right 合
+0662d
+0662d
+昭 left にち (日) right block かたな (刀) くち (口) end SHORT left にち (日) right 召
+076f8
+076f8
+相 left き (木) right め (目)
+067f1
+067f1
+柱 left き (木) right block top て (丶) bottom おう (王) end SHORT left き (木) right 主
+06d0b
+06d0b
+洋 left みず (氵) right ひつじ (羊)
+07551
+07551
+畑 left ひ (火) right た (田)
+0754c
+0754c
+界 top た (田) bottom block top ひと (人) bottom block の (丿) ぼう (丨) end end SHORT top た (田) bottom 介
+0767a
+0767a
+発 top はつがしら (癶) bottom block に (二) に (儿) end
+07814
+07814
+研 left いし (石) right block ほし (干) ほし (干) end SHORT left いし (石) right 开
+0795e
+0795e
+神 left しめす (礻) right block にち (日) ぼう (丨) end SHORT left しめす (礻) right 申
+079d2
+079d2
+秒 left のぎ (禾) right block ちいさい (小) の (丿) end SHORT left のぎ (禾) right 少
+07d1a
+07d1a
+級 left いと (糸) right block の (丿) また (又) end SHORT left いと (糸) right 及
+07f8e
+07f8e
+美 top ひつじ (⺷) bottom だい (大)
+08ca0
+08ca0
+負 top block stroke ㇒ stroke ㇇ end bottom かい (貝) SHORT top 𠂊 bottom かい (貝)
+09001
+09001
+送 nyoc block stroke ㇔ stroke ㇒ block stroke ㇐ だい (大) end end nyo し (⻌) SHORT nyoc block stroke ㇔ stroke ㇒ 天 end nyo し (⻌)
+08ffd
+08ffd
+追 nyoc block の (丿) stroke ㇑ stroke ㇕ stroke ㇐ stroke ㇕ stroke ㇐ end nyo し (⻌) SHORT nyoc 𠂤 nyo し (⻌)
+09762
+09762
+面 め (面)
+05cf6
+05cf6
+島 とり (鳥) やま (山)
+052c9
+052c9
+勉 nyo block top block block stroke ㇒ stroke ㇇ end stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ end bottom に (儿) end nyoc ちから (力) SHORT nyo 免 nyoc ちから (力)
+0500d
+0500d
+倍 left ひと (亻) right block top たつ (立) bottom くち (口) end SHORT left ひと (亻) right 咅
+0771f
+0771f
+真 top じゅう (十) bottom block top め (目) bottom block stroke ㇐ はちがしら (八) end end SHORT top じゅう (十) bottom 具
+054e1
+054e1
+員 top くち (口) bottom かい (貝)
+05bae
+05bae
+宮 top うか (宀) bottom block top くち (口) bottom block の (丿) くち (口) end end SHORT top うか (宀) bottom 呂
+05eab
+05eab
+庫 tare まだれ (广) tarec くるま (車)
+05ead
+05ead
+庭 tare まだれ (广) tarec block nyoc block の (丿) さむらい (士) end nyo い (廴) end SHORT tare まだれ (广) tarec 廷
+065c5
+065c5
+旅 left ほう (方) right block block stroke ㇒ stroke ㇐ end ひと (亻) stroke ㇒ stroke ㇏ end SHORT left ほう (方) right block 𠂉 ひと (亻) stroke ㇒ stroke ㇏ end
+06839
+06839
+根 left き (木) right うしとら (艮)
+09152
+09152
+酒 left みず (氵) right とり (酉)
+06d88
+06d88
+消 left みず (氵) right block ちいさい (⺌) にく (月) end SHORT left みず (氵) right 肖
+06d41
+06d41
+流 left みず (氵) right block top block なべぶた (亠) む (厶) end bottom かわ (川) end SHORT left みず (氵) right 㐬
+075c5
+075c5
+病 tare やまいだれ (疒) tarec block いち (一) block まきがまえ (冂) ひと (人) end end SHORT tare やまいだれ (疒) tarec 丙
+0606f
+0606f
+息 top みずから (自) bottom りっし (心)
+08377
+08377
+荷 top くさ (艹) bottom block ひと (亻) block block いち (一) end くち (口) end end SHORT top くさ (艹) bottom 何
+08d77
+08d77
+起 nyo はしる (走) nyoc おのれ (己)
+0901f
+0901f
+速 nyoc block き (木) くち (口) end nyo し (⻌) SHORT nyoc 束 nyo し (⻌)
+0914d
+0914d
+配 left とり (酉) right おのれ (己)
+09662
+09662
+院 left ぎふのふ (⻖) right block うか (宀) block top に (二) bottom に (儿) end end SHORT left ぎふのふ (⻖) right 完
+060aa
+060aa
+悪 top block に (二) くち (口) stroke ㇑ stroke ㇑ end bottom りっし (心) SHORT top 亜 bottom りっし (心)
+05546
+05546
+商 top たつ (立) bottom block まきがまえ (冂) に (儿) くち (口) end SHORT top たつ (立) bottom 冏
+052d5
+052d5
+動 left block block の (丿) じゅう (十) end さと (里) end right ちから (力) SHORT left 重 right ちから (力)
+05bbf
+05bbf
+宿 top うか (宀) bottom block ひと (亻) block stroke ㇐ しろ (白) end end SHORT top うか (宀) bottom 佰
+05e33
+05e33
+帳 left はば (巾) right ながい (長)
+065cf
+065cf
+族 left ほう (方) right block block stroke ㇒ stroke ㇐ end や (矢) end SHORT left ほう (方) right block 𠂉 や (矢) end
+06df1
+06df1
+深 left みず (氵) right block top block あみがしら (㓁) bottom き (木) end end
+07403
+07403
+球 left おう (王) right block stroke ㇐ みず (氺) て (丶) end SHORT left おう (王) right 求
+0796d
+0796d
+祭 top block にく (月) stroke ㇇ stroke ㇏ end bottom しめす (示)
+07b2c
+07b2c
+第 top たけ (竹) bottom block block ゆみ (弓) ぼう (丨) end の (丿) end SHORT top たけ (竹) bottom block 弔 の (丿) end
+07b1b
+07b1b
+笛 top たけ (竹) bottom block stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ stroke ㇐ end SHORT top たけ (竹) bottom 由
+07d42
+07d42
+終 left いと (糸) right block ふゆがしら (夂) にすい (冫) end SHORT left いと (糸) right 冬
+07fd2
+07fd2
+習 top はね (羽) bottom しろ (白)
+08ee2
+08ee2
+転 left くるま (車) right block top に (二) bottom む (厶) end SHORT left くるま (車) right 云
+09032
+09032
+進 nyoc ふるとり (隹) nyo し (⻌)
+090fd
+090fd
+都 left block ろう (耂) にち (日) end right むら (⻏) SHORT left 者 right むら (⻏)
+090e8
+090e8
+部 left block top たつ (立) bottom くち (口) end right むら (⻏) SHORT left 咅 right むら (⻏)
+0554f
+0554f
+問 kamae も (門) くち (口)
+07ae0
+07ae0
+章 top おと (音) bottom block じゅう (十) end SHORT top おと (音) bottom 早
+05bd2
+05bd2
+寒 top うか (宀) bottom block block いち (一) end stroke ㇑ stroke ㇑ はちがしら (八) にすい (冫) end SHORT top うか (宀) bottom block 三 stroke ㇑ stroke ㇑ はちがしら (八) にすい (冫) end
+06691
+06691
+暑 top にち (日) bottom block ろう (耂) にち (日) end SHORT top にち (日) bottom 者
+0690d
+0690d
+植 left き (木) right block じゅう (十) め (目) stroke ㇗ end SHORT left き (木) right 直
+06e29
+06e29
+温 left みず (氵) right block にち (日) さら (皿) end
+06e56
+06e56
+湖 left みず (氵) right block block じゅう (十) くち (口) end にく (月) end SHORT left みず (氵) right 胡
+06e2f
+06e2f
+港 left みず (氵) right block block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ はちがしら (八) end おのれ (己) end SHORT left みず (氵) right 巷
+06e6f
+06e6f
+湯 left みず (氵) right block top block にち (日) いち (一) end bottom block つつみがまえ (勹) stroke ㇒ stroke ㇒ end end SHORT left みず (氵) right 昜
+0767b
+0767b
+登 top はつがしら (癶) bottom まめ (豆)
+077ed
+077ed
+短 left や (矢) right まめ (豆)
+07ae5
+07ae5
+童 top たつ (立) bottom さと (里)
+07b49
+07b49
+等 top たけ (竹) bottom block top つち (土) bottom す (寸) end SHORT top たけ (竹) bottom 寺
+07b46
+07b46
+筆 top たけ (竹) bottom ふでづくり (聿)
+07740
+07740
+着 tare block ひつじ (羊) の (丿) end tarec め (目)
+0671f
+0671f
+期 left block あまい (甘) stroke ㇐ はちがしら (八) end right にく (月) SHORT left 其 right にく (月)
+052dd
+052dd
+勝 left にく (月) right block stroke ㇔ stroke ㇒ に (二) ひと (人) ちから (力) end SHORT left にく (月) right 劵
+08449
+08449
+葉 top くさ (艹) bottom block top block block じゅう (十) stroke ㇑ stroke ㇐ end stroke ㇗ end bottom き (木) end SHORT top くさ (艹) bottom 枼
+0843d
+0843d
+落 top くさ (艹) bottom block left みず (氵) right block top ふゆがしら (夂) bottom くち (口) end end SHORT top くさ (艹) bottom 洛
+08efd
+08efd
+軽 left くるま (車) right block top また (又) bottom つち (土) end SHORT left くるま (車) right 圣
+0904b
+0904b
+運 nyoc block わか (冖) くるま (車) end nyo し (⻌) SHORT nyoc 軍 nyo し (⻌)
+0904a
+0904a
+遊 nyoc block ほう (方) block stroke ㇒ stroke ㇐ end こ (子) end nyo し (⻌) SHORT nyoc 斿 nyo し (⻌)
+0958b
+0958b
+開 kamae も (門) block ほし (干) ほし (干) end SHORT kamae も (門) 开
+0968e
+0968e
+階 left ぎふのふ (⻖) right block top くらべる (比) bottom しろ (白) end SHORT left ぎふのふ (⻖) right 皆
+0967d
+0967d
+陽 left ぎふのふ (⻖) right block top block にち (日) いち (一) end bottom block つつみがまえ (勹) stroke ㇒ stroke ㇒ end end SHORT left ぎふのふ (⻖) right 昜
+096c6
+096c6
+集 top ふるとり (隹) bottom き (木)
+060b2
+060b2
+悲 top あらず (非) bottom りっし (心)
+098f2
+098f2
+飲 left しょく (飠) right あくび (欠)
+06b6f
+06b6f
+歯 は (歯)
+0696d
+0696d
+業 top block stroke ㇑ stroke ㇑ て (丶) stroke ㇒ stroke ㇐ end bottom block ひつじ (羊) き (木) end SHORT top 业 bottom block ひつじ (羊) き (木) end
+0611f
+0611f
+感 top block block が (厂) かのほこ (戈) いち (一) end くち (口) end bottom りっし (心) SHORT top 咸 bottom りっし (心)
+060f3
+060f3
+想 top block left き (木) right め (目) end bottom りっし (心) SHORT top 相 bottom りっし (心)
+06697
+06697
+暗 left にち (日) right おと (音)
+06f22
+06f22
+漢 left みず (氵) right block top くさ (艹) bottom block くち (口) block stroke ㇐ だい (大) end end end SHORT left みず (氵) right block top くさ (艹) bottom block くち (口) 夫 end end
+0798f
+0798f
+福 left しめす (礻) right block いち (一) くち (口) た (田) end SHORT left しめす (礻) right 畐
+08a69
+08a69
+詩 left こと (言) right block つち (土) す (寸) end SHORT left こと (言) right 寺
+08def
+08def
+路 left あし (足) right block top ふゆがしら (夂) bottom くち (口) end SHORT left あし (足) right 各
+08fb2
+08fb2
+農 top block にち (日) にじゅうあし (廾) end bottom し (辰) SHORT top 曲 bottom し (辰)
+09244
+09244
+鉄 left かね (金) right block の (丿) block stroke ㇐ だい (大) end end SHORT left かね (金) right 失
+0610f
+0610f
+意 top おと (音) bottom りっし (心)
+069d8
+069d8
+様 left き (木) right block ひつじ (羊) みず (氺) end
+07dd1
+07dd1
+緑 left いと (糸) right block けいがしら (⺕) みず (氺) end SHORT left いと (糸) right 彔
+07df4
+07df4
+練 left いと (糸) right block き (木) にち (日) end SHORT left いと (糸) right 東
+09280
+09280
+銀 left かね (金) right うしとら (艮)
+099c5
+099c5
+駅 left うま (馬) right block しかばね (尸) end SHORT left うま (馬) right 尺
+09f3b
+09f3b
+鼻 はな (鼻)
+06a2a
+06a2a
+横 left き (木) right きいろ (黄)
+07bb1
+07bb1
+箱 top たけ (竹) bottom block left き (木) right め (目) end SHORT top たけ (竹) bottom 相
+08ac7
+08ac7
+談 left こと (言) right block top ひ (火) bottom ひ (火) end SHORT left こと (言) right 炎
+08abf
+08abf
+調 left こと (言) right block まきがまえ (冂) block さむらい (士) くち (口) end end SHORT left こと (言) right 周
+06a4b
+06a4b
+橋 left き (木) right block top block block の (丿) だい (大) end くち (口) end bottom block まきがまえ (冂) くち (口) end end SHORT left き (木) right 喬
+06574
+06574
+整 top block left block き (木) くち (口) end right のぶ (攵) end bottom block stroke ㇐ とめる (止) end SHORT top 敕 bottom 正
+085ac
+085ac
+薬 top くさ (艹) bottom block top block しろ (白) にすい (冫) stroke ㇒ stroke ㇔ end bottom き (木) end SHORT top くさ (艹) bottom 楽
+09928
+09928
+館 left しょく (飠) right block top うか (宀) bottom block くち (口) stroke ㇕ stroke ㇐ end end SHORT left しょく (飠) right 官
+0984c
+0984c
+題 nyo block top にち (日) bottom ひき (疋) end nyoc おおがい (頁) SHORT nyo 是 nyoc おおがい (頁)
+058eb
+058eb
+士 さむらい (士)
+04e0d
+04e0d
+不 いち (一) の (丿) ぼう (丨) stroke ㇔
+0592b
+0592b
+夫 stroke ㇐ だい (大)
+06b20
+06b20
+欠 あくび (欠)
+06c0f
+06c0f
+氏 うじ (氏)
+06c11
+06c11
+民 stroke ㇕ うじ (氏)
+053f2
+053f2
+史 くち (口) block の (丿) stroke ㇏ end SHORT くち (口) 乂
+05fc5
+05fc5
+必 りっし (心) の (丿)
+05931
+05931
+失 の (丿) block stroke ㇐ だい (大) end SHORT の (丿) 夫
+05305
+05305
+包 kamae つつみがまえ (勹) おのれ (己)
+0672b
+0672b
+末 stroke ㇐ き (木)
+0672a
+0672a
+未 stroke ㇐ き (木)
+04ee5
+04ee5
+以 left block stroke ㇑ stroke ㇀ て (丶) end right ひと (人)
+04ed8
+04ed8
+付 left ひと (亻) right す (寸)
+04ee4
+04ee4
+令 top ひと (人) bottom block いち (一) block stroke ㇇ stroke ㇔ end end SHORT top ひと (人) bottom block いち (一) マ end
+052a0
+052a0
+加 left ちから (力) right くち (口)
+053f8
+053f8
+司 stroke ㇆ いち (一) くち (口)
+0529f
+0529f
+功 left たくみ (工) right ちから (力)
+0672d
+0672d
+札 left き (木) right おつ (乙)
+08fba
+08fba
+辺 nyoc かたな (刀) nyo し (⻌)
+05370
+05370
+印 left block の (丿) ぼう (丨) stroke ㇐ stroke ㇐ end right ふしづくり (卩)
+04e89
+04e89
+争 top block の (丿) stroke ㇇ end bottom block けいがしら (⺕) はねぼう (亅) end SHORT top 𠂊 bottom block けいがしら (⺕) はねぼう (亅) end
+04ef2
+04ef2
+仲 left ひと (亻) right block くち (口) ぼう (丨) end SHORT left ひと (亻) right 中
+04f1d
+04f1d
+伝 left ひと (亻) right block top に (二) bottom む (厶) end SHORT left ひと (亻) right 云
+05171
+05171
+共 top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八)
+05146
+05146
+兆 left に (儿) にすい (冫) right block stroke ㇒ stroke ㇔ end
+05404
+05404
+各 top ふゆがしら (夂) bottom くち (口)
+0597d
+0597d
+好 left お (女) right こ (子)
+06210
+06210
+成 block の (丿) end かのほこ (戈) SHORT 𠂊 かのほこ (戈)
+0706f
+0706f
+灯 left ひ (火) right block いち (一) はねぼう (亅) end SHORT left ひ (火) right 丁
+08001
+08001
+老 ろう (老)
+08863
+08863
+衣 ころも (衣)
+06c42
+06c42
+求 stroke ㇐ みず (氺) て (丶)
+0675f
+0675f
+束 き (木) くち (口)
+05175
+05175
+兵 top block おの (斤) いち (一) end bottom はちがしら (八) SHORT top 丘 bottom はちがしら (八)
+04f4d
+04f4d
+位 left ひと (亻) right たつ (立)
+04f4e
+04f4e
+低 left ひと (亻) right block top うじ (氏) bottom いち (一) end
+05150
+05150
+児 top block left ぼう (丨) right にち (日) end bottom に (儿) SHORT top 旧 bottom に (儿)
+051b7
+051b7
+冷 left にすい (冫) right block top ひと (人) bottom block いち (一) block stroke ㇇ stroke ㇔ end end end SHORT left にすい (冫) right 令
+05225
+05225
+別 left block くち (口) つつみがまえ (勹) end right かたな (刂)
+052aa
+052aa
+努 top block left お (女) right また (又) end bottom ちから (力) SHORT top 奴 bottom ちから (力)
+052b4
+052b4
+労 top block ちいさい (⺍) わか (冖) end bottom ちから (力)
+0544a
+0544a
+告 top うし (牛) bottom くち (口)
+056f2
+056f2
+囲 kamae くにがまえ (囗) block に (二) にじゅうあし (廾) end SHORT kamae くにがまえ (囗) 井
+05b8c
+05b8c
+完 top うか (宀) bottom block top に (二) bottom に (儿) end SHORT top うか (宀) bottom 元
+06539
+06539
+改 left おのれ (己) right のぶ (攵)
+05e0c
+05e0c
+希 top block の (丿) stroke ㇔ end bottom block stroke ㇒ stroke ㇐ はば (巾) end SHORT top 乂 bottom 布
+06298
+06298
+折 left て (扌) right おの (斤)
+06750
+06750
+材 left き (木) right block て (扌) end SHORT left き (木) right 才
+05229
+05229
+利 left のぎ (禾) right かたな (刂)
+081e3
+081e3
+臣 し (臣)
+0826f
+0826f
+良 stroke ㇑ うしとら (艮)
+082b8
+082b8
+芸 top くさ (艹) bottom block top に (二) bottom む (厶) end SHORT top くさ (艹) bottom 云
+0521d
+0521d
+初 left ころも (衤) right かたな (刀)
+0679c
+0679c
+果 にち (日) き (木)
+05237
+05237
+刷 left block しかばね (尸) はば (巾) end right かたな (刂)
+05352
+05352
+卒 top block なべぶた (亠) block left ひと (人) right ひと (人) end end bottom じゅう (十) SHORT top block なべぶた (亠) 从 end bottom じゅう (十)
+05ff5
+05ff5
+念 top block top ひと (人) bottom block いち (一) stroke ㇇ end end bottom りっし (心) SHORT top 今 bottom りっし (心)
+04f8b
+04f8b
+例 left ひと (亻) right block がつへ (歹) right かたな (刂) end SHORT left ひと (亻) right 列
+05178
+05178
+典 top block にち (日) にじゅうあし (廾) end bottom はちがしら (八) SHORT top 曲 bottom はちがしら (八)
+05468
+05468
+周 kamae まきがまえ (冂) block さむらい (士) くち (口) end SHORT kamae まきがまえ (冂) 吉
+05354
+05354
+協 left じゅう (十) right block top ちから (力) bottom block ちから (力) ちから (力) end end SHORT left じゅう (十) right 劦
+053c2
+053c2
+参 top む (厶) bottom block だい (大) さ (彡) end
+056fa
+056fa
+固 kamae くにがまえ (囗) block top じゅう (十) bottom くち (口) end SHORT kamae くにがまえ (囗) 古
+05b98
+05b98
+官 top うか (宀) bottom block くち (口) stroke ㇕ stroke ㇐ end
+05e95
+05e95
+底 tare まだれ (广) tarec block top うじ (氏) bottom いち (一) end SHORT tare まだれ (广) tarec 氐
+05e9c
+05e9c
+府 tare まだれ (广) tarec block left ひと (亻) right す (寸) end SHORT tare まだれ (广) tarec 付
+05f84
+05f84
+径 left ぎょうに (彳) right block top また (又) bottom つち (土) end SHORT left ぎょうに (彳) right 圣
+0677e
+0677e
+松 left き (木) right block top はちがしら (八) bottom む (厶) end SHORT left き (木) right 公
+06bd2
+06bd2
+毒 top block top block top いち (一) end stroke ㇑ end bottom なかれ (毋) SHORT top 龶 bottom なかれ (毋)
+06ce3
+06ce3
+泣 left みず (氵) right たつ (立)
+06cbb
+06cbb
+治 left みず (氵) right block top む (厶) bottom くち (口) end SHORT left みず (氵) right 台
+06cd5
+06cd5
+法 left みず (氵) right block top つち (土) bottom む (厶) end SHORT left みず (氵) right 去
+07267
+07267
+牧 left うし (牛) right のぶ (攵)
+07684
+07684
+的 left しろ (白) right block つつみがまえ (勹) て (丶) end SHORT left しろ (白) right 勺
+05b63
+05b63
+季 top のぎ (禾) bottom こ (子)
+082f1
+082f1
+英 top くさ (艹) bottom block stroke ㇑ stroke ㇕ だい (大) end SHORT top くさ (艹) bottom 央
+082bd
+082bd
+芽 top くさ (艹) bottom きばへ (牙)
+05358
+05358
+単 top ちいさい (⺍) bottom block にち (日) じゅう (十) end SHORT top ちいさい (⺍) bottom 甲
+07701
+07701
+省 top block ちいさい (小) の (丿) end bottom め (目) SHORT top 少 bottom め (目)
+05909
+05909
+変 top block top なべぶた (亠) bottom block の (丿) はねぼう (亅) stroke ㇒ stroke ㇔ end end bottom ふゆがしら (夂) SHORT top 亦 bottom ふゆがしら (夂)
+04fe1
+04fe1
+信 left ひと (亻) right こと (言)
+04fbf
+04fbf
+便 left ひと (亻) right block stroke ㇐ にち (日) block の (丿) stroke ㇏ end end SHORT left ひと (亻) right 更
+08ecd
+08ecd
+軍 top わか (冖) bottom くるま (車)
+052c7
+052c7
+勇 top block stroke ㇇ stroke ㇔ end bottom block top た (田) bottom ちから (力) end SHORT top マ bottom 男
+0578b
+0578b
+型 top block block ほし (干) ほし (干) end かたな (刂) end bottom つち (土) SHORT top 刑 bottom つち (土)
+05efa
+05efa
+建 nyoc ふでづくり (聿) nyo い (廴)
+06628
+06628
+昨 left にち (日) right block の (丿) stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end SHORT left にち (日) right 乍
+06804
+06804
+栄 top block ちいさい (⺍) わか (冖) end bottom き (木)
+06d45
+06d45
+浅 left みず (氵) right block block top いち (一) bottom いち (一) かのほこ (戈) end end SHORT left みず (氵) right 戋
+080c3
+080c3
+胃 top た (田) bottom にく (月)
+0795d
+0795d
+祝 left しめす (礻) right block top くち (口) bottom に (儿) end SHORT left しめす (礻) right 兄
+07d00
+07d00
+紀 left いと (糸) right おのれ (己)
+07d04
+07d04
+約 left いと (糸) right block つつみがまえ (勹) て (丶) end SHORT left いと (糸) right 勺
+08981
+08981
+要 top にし (覀) bottom お (女)
+098db
+098db
+飛 とぶ (飛)
+05019
+05019
+候 left ひと (亻) right block ぼう (丨) stroke ㇕ stroke ㇐ や (矢) end
+0501f
+0501f
+借 left ひと (亻) right block top block にじゅうあし (廾) stroke ㇐ end bottom にち (日) end SHORT left ひと (亻) right 昔
+05009
+05009
+倉 top ひと (人) bottom block stroke ㇐ stroke ㇕ stroke ㇐ stroke ㇐ stroke ㇒ くち (口) end
+05b6b
+05b6b
+孫 left こ (子) right block top の (丿) bottom いと (糸) end SHORT left こ (子) right 系
+06848
+06848
+案 top block top うか (宀) bottom お (女) end bottom き (木) SHORT top 安 bottom き (木)
+05bb3
+05bb3
+害 top うか (宀) bottom block top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end bottom くち (口) end SHORT top うか (宀) bottom block top 龶 bottom くち (口) end
+05e2f
+05e2f
+帯 top block block にじゅうあし (廾) かわ (川) end end bottom block わか (冖) はば (巾) end SHORT top 丗 bottom block わか (冖) はば (巾) end
+05e2d
+05e2d
+席 tare まだれ (广) tarec block block じゅう (十) stroke ㇑ stroke ㇐ end はば (巾) end SHORT tare まだれ (广) tarec block 廿 はば (巾) end
+05f92
+05f92
+徒 left ぎょうに (彳) right はしる (走)
+06319
+06319
+挙 top block ちいさい (⺍) stroke ㇐ はちがしら (八) end bottom て (手)
+06885
+06885
+梅 left き (木) right block top block の (丿) stroke ㇐ end bottom なかれ (毋) end SHORT left き (木) right 毎
+06b8b
+06b8b
+残 left がつへ (歹) right block block top いち (一) bottom いち (一) かのほこ (戈) end end SHORT left がつへ (歹) right 戋
+06bba
+06bba
+殺 left block top block の (丿) stroke ㇔ end bottom き (木) end right ほこつくり (殳) SHORT left block top 乂 bottom き (木) end right ほこつくり (殳)
+06d74
+06d74
+浴 left みず (氵) right たに (谷)
+07279
+07279
+特 left うし (牛) right block top つち (土) bottom す (寸) end SHORT left うし (牛) right 寺
+07b11
+07b11
+笑 top たけ (竹) bottom block の (丿) だい (大) end SHORT top たけ (竹) bottom 夭
+07c89
+07c89
+粉 left こめ (米) right block top はちがしら (八) bottom かたな (刀) end SHORT left こめ (米) right 分
+06599
+06599
+料 left こめ (米) right とます (斗)
+05dee
+05dee
+差 ひつじ (羊) block の (丿) たくみ (工) end
+08108
+08108
+脈 left にく (月) right block stroke ㇒ の (丿) ひと (亻) stroke ㇒ stroke ㇏ end SHORT left にく (月) right 𠂢
+0822a
+0822a
+航 left ふね (舟) right block top なべぶた (亠) bottom つくえ (几) end SHORT left ふね (舟) right 亢
+08a13
+08a13
+訓 left こと (言) right かわ (川)
+09023
+09023
+連 nyoc くるま (車) nyo し (⻌)
+090e1
+090e1
+郡 left block block けいがしら (⺕) end くち (口) end right むら (⻏) SHORT left 君 right むら (⻏)
+05de3
+05de3
+巣 top ちいさい (⺍) bottom block にち (日) き (木) end SHORT top ちいさい (⺍) bottom 果
+05065
+05065
+健 left ひと (亻) right block nyoc ふでづくり (聿) nyo い (廴) end SHORT left ひと (亻) right 建
+05074
+05074
+側 left ひと (亻) right block left かい (貝) right かたな (刂) end SHORT left ひと (亻) right 則
+0505c
+0505c
+停 left ひと (亻) right block top なべぶた (亠) bottom block くち (口) わか (冖) block いち (一) はねぼう (亅) end end end SHORT left ひと (亻) right 亭
+0526f
+0526f
+副 left block いち (一) くち (口) た (田) end right かたな (刂) SHORT left 畐 right かたな (刂)
+05531
+05531
+唱 left くち (口) right block top にち (日) bottom にち (日) end SHORT left くち (口) right 昌
+05802
+05802
+堂 top block top ちいさい (⺌) bottom block まきがまえ (冂) くち (口) end end bottom つち (土) SHORT top 尚 bottom つち (土)
+05eb7
+05eb7
+康 tare まだれ (广) tarec れいづくり (隶)
+05f97
+05f97
+得 left ぎょうに (彳) right block top block top にち (日) bottom いち (一) end bottom す (寸) end SHORT left ぎょうに (彳) right block top 旦 bottom す (寸) end
+06551
+06551
+救 left block stroke ㇐ みず (氺) て (丶) end right のぶ (攵) SHORT left 求 right のぶ (攵)
+068b0
+068b0
+械 left き (木) right block かのほこ (戈) にじゅうあし (廾) end SHORT left き (木) right 戒
+06e05
+06e05
+清 left みず (氵) right あお (青)
+0671b
+0671b
+望 top block left かくしがまえ (亡) right にく (月) end bottom おう (王)
+07523
+07523
+産 tare block たつ (立) end tarec うまれる (生)
+083dc
+083dc
+菜 top くさ (艹) bottom block top つめ (⺤) bottom き (木) end SHORT top くさ (艹) bottom 采
+07968
+07968
+票 top にし (覀) bottom しめす (示)
+08ca8
+08ca8
+貨 top block ひと (亻) さじのひ (匕) end bottom かい (貝) SHORT top 化 bottom かい (貝)
+06557
+06557
+敗 left かい (貝) right のぶ (攵)
+09678
+09678
+陸 left ぎふのふ (⻖) right block つち (土) に (儿) つち (土) end SHORT left ぎふのふ (⻖) right 坴
+0535a
+0535a
+博 left じゅう (十) right block top block stroke ㇐ もちいる (用) て (丶) end bottom す (寸) end SHORT left じゅう (十) right 尃
+0559c
+0559c
+喜 top block top さむらい (士) bottom くち (口) end bottom block stroke ㇔ stroke ㇒ stroke ㇐ くち (口) end SHORT top 吉 bottom block stroke ㇔ stroke ㇒ stroke ㇐ くち (口) end
+09806
+09806
+順 left かわ (川) right おおがい (頁)
+08857
+08857
+街 kamae ぎょう (行) block top つち (土) bottom つち (土) end SHORT kamae ぎょう (行) 圭
+06563
+06563
+散 left block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ にく (月) end right のぶ (攵)
+0666f
+0666f
+景 top にち (日) bottom block top なべぶた (亠) bottom block くち (口) ちいさい (小) end end SHORT top にち (日) bottom 京
+06700
+06700
+最 top にち (日) bottom block left みみ (耳) right また (又) end SHORT top にち (日) bottom 取
+091cf
+091cf
+量 top block top にち (日) bottom いち (一) end bottom さと (里) SHORT top 旦 bottom さと (里)
+06e80
+06e80
+満 left みず (氵) right block top くさ (艹) bottom block stroke ㇐ まきがまえ (冂) やま (山) end end SHORT left みず (氵) right block top くさ (艹) bottom 両 end
+0713c
+0713c
+焼 left ひ (火) right block top block top じゅう (十) bottom にじゅうあし (廾) end bottom block block いち (一) end に (儿) end end SHORT left ひ (火) right 尭
+07136
+07136
+然 top block left にく (月) right いぬ (犬) end bottom ひ (灬)
+07121
+07121
+無 top block の (丿) stroke ㇐ いち (一) stroke ㇑ stroke ㇑ stroke ㇑ stroke ㇑ stroke ㇐ end bottom ひ (灬)
+07d66
+07d66
+給 left いと (糸) right block top block ひと (人) いち (一) end bottom くち (口) end SHORT left いと (糸) right 合
+07d50
+07d50
+結 left いと (糸) right block top さむらい (士) bottom くち (口) end SHORT left いと (糸) right 吉
+0899a
+0899a
+覚 top block ちいさい (⺍) わか (冖) end bottom みる (見)
+08c61
+08c61
+象 top block stroke ㇒ stroke ㇇ end bottom block stroke ㇑ stroke ㇕ stroke ㇑ いのこ (豕) end SHORT top 𠂊 bottom block stroke ㇑ stroke ㇕ stroke ㇑ いのこ (豕) end
+08caf
+08caf
+貯 left かい (貝) right block top うか (宀) bottom block いち (一) はねぼう (亅) end end SHORT left かい (貝) right 宁
+08cbb
+08cbb
+費 top block ゆみ (弓) の (丿) ぼう (丨) end bottom かい (貝) SHORT top 弗 bottom かい (貝)
+09054
+09054
+達 nyoc block つち (土) ひつじ (羊) end nyo し (⻌)
+0968a
+0968a
+隊 left ぎふのふ (⻖) right block stroke ㇔ stroke ㇒ いのこ (豕) end
+098ef
+098ef
+飯 left しょく (飠) right block が (厂) また (又) end SHORT left しょく (飠) right 反
+050cd
+050cd
+働 left ひと (亻) right block left block block の (丿) じゅう (十) end さと (里) end right ちから (力) end SHORT left ひと (亻) right 動
+05869
+05869
+塩 left つち (土) right block block stroke ㇒ stroke ㇐ end くち (口) さら (皿) end SHORT left つち (土) right block 𠂉 くち (口) さら (皿) end
+06226
+06226
+戦 left block top ちいさい (⺍) bottom block にち (日) いち (一) end end right かのほこ (戈) SHORT left 単 right かのほこ (戈)
+06975
+06975
+極 left き (木) right block top に (二) stroke ㇉ くち (口) また (又) end SHORT left き (木) right 亟
+07167
+07167
+照 top block left にち (日) right block かたな (刀) くち (口) end end bottom ひ (灬) SHORT top 昭 bottom ひ (灬)
+0611b
+0611b
+愛 top つめ (⺤) bottom block わか (冖) りっし (心) ふゆがしら (夂) end
+07bc0
+07bc0
+節 top たけ (竹) bottom block left うしとら (艮) right ふしづくり (卩) end SHORT top たけ (竹) bottom 即
+07d9a
+07d9a
+続 left いと (糸) right block top さむらい (士) bottom block わか (冖) に (儿) end end SHORT left いと (糸) right 売
+07f6e
+07f6e
+置 top あみがしら (罒) bottom block じゅう (十) め (目) stroke ㇗ end SHORT top あみがしら (罒) bottom 直
+08178
+08178
+腸 left にく (月) right block top block にち (日) いち (一) end bottom block つつみがまえ (勹) stroke ㇒ stroke ㇒ end end SHORT left にく (月) right 昜
+08f9e
+08f9e
+辞 left した (舌) right からい (辛)
+08a66
+08a66
+試 left こと (言) right block しきがまえ (弋) たくみ (工) end SHORT left こと (言) right 式
+06b74
+06b74
+歴 block tare が (厂) tarec block left き (木) right き (木) end end とめる (止) SHORT block tare が (厂) tarec 林 end とめる (止)
+05bdf
+05bdf
+察 top うか (宀) bottom block top block にく (月) stroke ㇇ stroke ㇏ end bottom しめす (示) end SHORT top うか (宀) bottom 祭
+065d7
+065d7
+旗 left ほう (方) right block block stroke ㇒ stroke ㇐ end block top block あまい (甘) stroke ㇐ end bottom はちがしら (八) end end SHORT left ほう (方) right block 𠂉 其 end
+06f01
+06f01
+漁 left みず (氵) right うお (魚)
+07a2e
+07a2e
+種 left のぎ (禾) right block block の (丿) じゅう (十) end さと (里) end SHORT left のぎ (禾) right 重
+07ba1
+07ba1
+管 top たけ (竹) bottom block top うか (宀) bottom block くち (口) stroke ㇕ stroke ㇐ end end SHORT top たけ (竹) bottom 官
+08aac
+08aac
+説 left こと (言) right block top はちがしら (八) bottom block top くち (口) bottom に (儿) end end SHORT left こと (言) right 兌
+095a2
+095a2
+関 kamae も (門) block stroke ㇔ stroke ㇒ block stroke ㇐ だい (大) end end SHORT kamae も (門) 关
+09759
+09759
+静 left あお (青) right block top block stroke ㇒ stroke ㇇ end bottom block けいがしら (⺕) はねぼう (亅) end end SHORT left あお (青) right 争
+05104
+05104
+億 left ひと (亻) right block top おと (音) bottom りっし (心) end SHORT left ひと (亻) right 意
+05668
+05668
+器 top block left くち (口) right くち (口) end bottom block だい (大) left くち (口) right くち (口) end
+08cde
+08cde
+賞 top block top ちいさい (⺌) bottom block まきがまえ (冂) くち (口) end end bottom かい (貝) SHORT top 尚 bottom かい (貝)
+06a19
+06a19
+標 left き (木) right block top にし (覀) bottom しめす (示) end SHORT left き (木) right 票
+071b1
+071b1
+熱 top block left block つち (土) に (儿) つち (土) end right block block stroke ㇒ おつ (乙) end て (丶) end end bottom ひ (灬) SHORT top 埶 bottom ひ (灬)
+0990a
+0990a
+養 top ひつじ (羊) bottom しょく (食)
+08ab2
+08ab2
+課 left こと (言) right block にち (日) き (木) end SHORT left こと (言) right 果
+08f2a
+08f2a
+輪 left くるま (車) right block top ひと (人) bottom block いち (一) block まきがまえ (冂) にじゅうあし (廾) end end end SHORT left くるま (車) right 侖
+09078
+09078
+選 nyoc block top block left おのれ (己) right おのれ (己) end bottom block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end end nyo し (⻌) SHORT nyoc 巽 nyo し (⻌)
+06a5f
+06a5f
+機 left き (木) right block いとがしら (幺) いとがしら (幺) block かのほこ (戈) ひと (人) end end SHORT left き (木) right 幾
+07a4d
+07a4d
+積 left のぎ (禾) right block top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end bottom かい (貝) end SHORT left のぎ (禾) right 責
+09332
+09332
+録 left かね (金) right block けいがしら (⺕) みず (氺) end SHORT left かね (金) right 彔
+089b3
+089b3
+観 left block block stroke ㇒ stroke ㇐ end stroke ㇐ ふるとり (隹) end right みる (見) SHORT left block 𠂉 stroke ㇐ ふるとり (隹) end right みる (見)
+0985e
+0985e
+類 left block こめ (米) だい (大) end right おおがい (頁)
+09a13
+09a13
+験 left うま (馬) right block top ひと (人) bottom block いち (一) くち (口) ひと (人) end end SHORT left うま (馬) right 㑒
+09858
+09858
+願 left block tare が (厂) tarec block しろ (白) ちいさい (小) end end right おおがい (頁) SHORT left 原 right おおがい (頁)
+093e1
+093e1
+鏡 left かね (金) right block top たつ (立) bottom block に (儿) end end SHORT left かね (金) right 竟
+07af6
+07af6
+競 left block top たつ (立) bottom block top くち (口) bottom に (儿) end end right block top たつ (立) bottom block top くち (口) bottom に (儿) end end SHORT left block top たつ (立) bottom 兄 end right block top たつ (立) bottom 兄 end
+08b70
+08b70
+議 left こと (言) right block top ひつじ (羊) bottom block の (丿) かのほこ (戈) はねぼう (亅) stroke ㇀ end end SHORT left こと (言) right 義
+04e45
+04e45
+久 block の (丿) stroke ㇇ end stroke ㇏ SHORT 𠂊 stroke ㇏
+04ecf
+04ecf
+仏 left ひと (亻) right む (厶)
+0652f
+0652f
+支 しにょう (支)
+06bd4
+06bd4
+比 くらべる (比)
+053ef
+053ef
+可 block いち (一) end くち (口) SHORT 丁 くち (口)
+065e7
+065e7
+旧 left ぼう (丨) right にち (日)
+06c38
+06c38
+永 top て (丶) bottom みず (水)
+053e5
+053e5
+句 kamae つつみがまえ (勹) くち (口)
+05727
+05727
+圧 tare が (厂) tarec つち (土)
+05f01
+05f01
+弁 top む (厶) bottom にじゅうあし (廾)
+05e03
+05e03
+布 block stroke ㇒ stroke ㇐ end はば (巾)
+0520a
+0520a
+刊 left ほし (干) right かたな (刂)
+072af
+072af
+犯 left けものへん (⺨) right ふしづくり (㔾)
+0793a
+0793a
+示 しめす (示)
+0518d
+0518d
+再 いち (一) block まきがまえ (冂) つち (土) end SHORT いち (一) 冉
+04eee
+04eee
+仮 left ひと (亻) right block が (厂) また (又) end SHORT left ひと (亻) right 反
+04ef6
+04ef6
+件 left ひと (亻) right うし (牛)
+04efb
+04efb
+任 left ひと (亻) right block の (丿) さむらい (士) end SHORT left ひと (亻) right 壬
+056e0
+056e0
+因 kamae くにがまえ (囗) だい (大)
+056e3
+056e3
+団 kamae くにがまえ (囗) す (寸)
+05728
+05728
+在 block stroke ㇐ ひと (亻) end つち (土)
+0820c
+0820c
+舌 した (舌)
+04f3c
+04f3c
+似 left ひと (亻) right block left block stroke ㇑ stroke ㇀ て (丶) end right ひと (人) end SHORT left ひと (亻) right 以
+04f59
+04f59
+余 top ひと (人) bottom block stroke ㇐ stroke ㇐ ちいさい (小) end
+05224
+05224
+判 left block stroke ㇔ stroke ㇒ に (二) じゅう (十) end right かたな (刂) SHORT left 半 right かたな (刂)
+05747
+05747
+均 left つち (土) right block つつみがまえ (勹) にすい (冫) end SHORT left つち (土) right 匀
+05fd7
+05fd7
+志 top さむらい (士) bottom りっし (心)
+06761
+06761
+条 top ふゆがしら (夂) bottom き (木)
+0707d
+0707d
+災 top かわ (巛) bottom ひ (火)
+05fdc
+05fdc
+応 tare まだれ (广) tarec りっし (心)
+05e8f
+05e8f
+序 tare まだれ (广) tarec block top block stroke ㇇ stroke ㇔ end bottom block stroke ㇇ はねぼう (亅) end end SHORT tare まだれ (广) tarec 予
+05feb
+05feb
+快 left りっし (忄) right block stroke ㇕ だい (大) end SHORT left りっし (忄) right 夬
+06280
+06280
+技 left て (扌) right しにょう (支)
+072b6
+072b6
+状 left block stroke ㇑ stroke ㇔ stroke ㇀ end right いぬ (犬) SHORT left ⺦ right いぬ (犬)
+09632
+09632
+防 left ぎふのふ (⻖) right ほう (方)
+06b66
+06b66
+武 いち (一) kamae しきがまえ (弋) とめる (止)
+0627f
+0627f
+承 block て (手) はねぼう (亅) end block top いち (一) end みず (水) SHORT 了 三 みず (水)
+04fa1
+04fa1
+価 left ひと (亻) right にし (覀)
+0820e
+0820e
+舎 top ひと (人) bottom block top さむらい (士) bottom くち (口) end SHORT top ひと (人) bottom 吉
+05238
+05238
+券 top block stroke ㇔ stroke ㇒ に (二) end bottom かたな (刀) SHORT top 𠔉 bottom かたな (刀)
+05236
+05236
+制 left block うし (牛) はば (巾) end right かたな (刂)
+052b9
+052b9
+効 left block top なべぶた (亠) bottom ちち (父) end right ちから (力) SHORT left 交 right ちから (力)
+059bb
+059bb
+妻 top block stroke ㇐ けいがしら (⺕) stroke ㇑ end bottom お (女)
+05c45
+05c45
+居 tare しかばね (尸) tarec block top じゅう (十) bottom くち (口) end SHORT tare しかばね (尸) tarec 古
+05f80
+05f80
+往 left ぎょうに (彳) right block top て (丶) bottom おう (王) end SHORT left ぎょうに (彳) right 主
+06027
+06027
+性 left りっし (忄) right うまれる (生)
+062db
+062db
+招 left て (扌) right block top かたな (刀) bottom くち (口) end SHORT left て (扌) right 召
+06613
+06613
+易 top にち (日) bottom block つつみがまえ (勹) stroke ㇒ stroke ㇒ end SHORT top にち (日) bottom 勿
+0679d
+0679d
+枝 left き (木) right しにょう (支)
+06cb3
+06cb3
+河 left みず (氵) right block block いち (一) end くち (口) end SHORT left みず (氵) right 可
+07248
+07248
+版 left かた (片) right block が (厂) また (又) end SHORT left かた (片) right 反
+080a5
+080a5
+肥 left にく (月) right block おのれ (己) end SHORT left にく (月) right 巴
+08ff0
+08ff0
+述 nyoc block き (木) て (丶) end nyo し (⻌) SHORT nyoc 朮 nyo し (⻌)
+0975e
+0975e
+非 あらず (非)
+04fdd
+04fdd
+保 left ひと (亻) right block top くち (口) bottom き (木) end SHORT left ひと (亻) right 呆
+0539a
+0539a
+厚 tare が (厂) tarec block にち (日) こ (子) end
+06545
+06545
+故 left block top じゅう (十) bottom くち (口) end right のぶ (攵) SHORT left 古 right のぶ (攵)
+0653f
+0653f
+政 left block stroke ㇐ とめる (止) end right のぶ (攵) SHORT left 正 right のぶ (攵)
+067fb
+067fb
+査 top き (木) bottom block にく (月) いち (一) end SHORT top き (木) bottom 且
+072ec
+072ec
+独 left けものへん (⺨) right むし (虫)
+07956
+07956
+祖 left しめす (礻) right block にく (月) いち (一) end SHORT left しめす (礻) right 且
+05247
+05247
+則 left かい (貝) right かたな (刂)
+09006
+09006
+逆 nyoc block stroke ㇔ stroke ㇒ stroke ㇐ てつ (屮) end nyo し (⻌) SHORT nyoc 屰 nyo し (⻌)
+09000
+09000
+退 nyoc うしとら (艮) nyo し (⻌)
+08ff7
+08ff7
+迷 nyoc こめ (米) nyo し (⻌)
+09650
+09650
+限 left ぎふのふ (⻖) right うしとら (艮)
+05e2b
+05e2b
+師 left block の (丿) ぼう (丨) stroke ㇕ stroke ㇐ stroke ㇕ stroke ㇐ end right block stroke ㇐ はば (巾) end
+0500b
+0500b
+個 left ひと (亻) right block くにがまえ (囗) block top じゅう (十) bottom くち (口) end end SHORT left ひと (亻) right 固
+04fee
+04fee
+修 left block left ひと (亻) end right block さ (彡) end SHORT left 攸 right block さ (彡) end
+04ff5
+04ff5
+俵 left ひと (亻) right block top block に (二) stroke ㇑ end bottom ころも (衣) end SHORT left ひと (亻) right 表
+076ca
+076ca
+益 top block stroke ㇔ stroke ㇒ stroke ㇐ はちがしら (八) end bottom さら (皿)
+080fd
+080fd
+能 left block top む (厶) bottom にく (月) end right block top さじのひ (匕) bottom さじのひ (匕) end
+05bb9
+05bb9
+容 top うか (宀) bottom たに (谷)
+06069
+06069
+恩 top block くにがまえ (囗) だい (大) end bottom りっし (心) SHORT top 因 bottom りっし (心)
+0683c
+0683c
+格 left き (木) right block top ふゆがしら (夂) bottom くち (口) end SHORT left き (木) right 各
+0685c
+0685c
+桜 left き (木) right block top ちいさい (⺍) bottom お (女) end
+07559
+07559
+留 top block left block stroke ㇒ stroke ㇙ stroke ㇔ end right ふしづくり (卩) end bottom た (田) SHORT top 卯 bottom た (田)
+07834
+07834
+破 left いし (石) right けがわ (皮)
+07d20
+07d20
+素 top block block stroke ㇐ end stroke ㇑ end bottom いと (糸) SHORT top 龶 bottom いと (糸)
+08015
+08015
+耕 left らいすき (耒) right block に (二) にじゅうあし (廾) end SHORT left らいすき (耒) right 井
+08ca1
+08ca1
+財 left かい (貝) right block て (扌) end SHORT left かい (貝) right 才
+09020
+09020
+造 nyoc block top うし (牛) bottom くち (口) end nyo し (⻌) SHORT nyoc 告 nyo し (⻌)
+07387
+07387
+率 げ (玄) にすい (冫) stroke ㇒ stroke ㇔ じゅう (十)
+08ca7
+08ca7
+貧 top block top はちがしら (八) bottom かたな (刀) end bottom かい (貝) SHORT top 分 bottom かい (貝)
+057fa
+057fa
+基 top block top block あまい (甘) stroke ㇐ end bottom はちがしら (八) end bottom つち (土) SHORT top 其 bottom つち (土)
+05a66
+05a66
+婦 left お (女) right block top けいがしら (⺕) bottom block わか (冖) はば (巾) end end SHORT left お (女) right 帚
+05bc4
+05bc4
+寄 top うか (宀) bottom block top だい (大) bottom block block いち (一) end くち (口) end end SHORT top うか (宀) bottom 奇
+05e38
+05e38
+常 top block top ちいさい (⺌) bottom block まきがまえ (冂) block くち (口) end end end SHORT top 尚
+05f35
+05f35
+張 left ゆみ (弓) right ながい (長)
+08853
+08853
+術 kamae ぎょう (行) block き (木) て (丶) end kamae SHORT kamae ぎょう (行) 朮 kamae
+060c5
+060c5
+情 left りっし (忄) right あお (青)
+063a1
+063a1
+採 left て (扌) right block top つめ (⺤) bottom き (木) end SHORT left て (扌) right 采
+06388
+06388
+授 left て (扌) right block top block つめ (⺤) わか (冖) end bottom また (又) end SHORT left て (扌) right 受
+063a5
+063a5
+接 left て (扌) right block top たつ (立) bottom お (女) end SHORT left て (扌) right 妾
+065ad
+065ad
+断 left block こめ (米) stroke ㇗ end right おの (斤)
+06db2
+06db2
+液 left みず (氵) right block top なべぶた (亠) bottom block ひと (亻) ゆうべ (夕) stroke ㇏ end end SHORT left みず (氵) right 夜
+06df7
+06df7
+混 left みず (氵) right block top にち (日) bottom くらべる (比) end SHORT left みず (氵) right 昆
+073fe
+073fe
+現 left おう (王) right みる (見)
+07565
+07565
+略 left た (田) right block top ふゆがしら (夂) bottom くち (口) end SHORT left た (田) right 各
+0773c
+0773c
+眼 left め (目) right うしとら (艮)
+052d9
+052d9
+務 left むのほこ (矛) right block top のぶ (攵) bottom ちから (力) end
+079fb
+079fb
+移 left のぎ (禾) right block top ゆうべ (夕) bottom ゆうべ (夕) end SHORT left のぎ (禾) right 多
+07d4c
+07d4c
+経 left いと (糸) right block top また (又) bottom つち (土) end SHORT left いと (糸) right 圣
+0898f
+0898f
+規 left block stroke ㇐ だい (大) end right みる (見) SHORT left 夫 right みる (見)
+08a31
+08a31
+許 left こと (言) right block top block stroke ㇒ ほし (干) end end SHORT left こと (言) right 午
+08a2d
+08a2d
+設 left こと (言) right ほこつくり (殳)
+08cac
+08cac
+責 top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end bottom かい (貝) SHORT top 龶 bottom かい (貝)
+0967a
+0967a
+険 left ぎふのふ (⻖) right block top ひと (人) bottom block いち (一) くち (口) ひと (人) end end SHORT left ぎふのふ (⻖) right 㑒
+05099
+05099
+備 left ひと (亻) right block くさ (艹) が (厂) もちいる (用) end
+055b6
+055b6
+営 top block ちいさい (⺍) わか (冖) end bottom block top くち (口) bottom block の (丿) くち (口) end end SHORT top block ちいさい (⺍) わか (冖) end bottom 呂
+05831
+05831
+報 left block top つち (土) block くさ (䒑) bottom ほし (干) end end right block ふしづくり (卩) また (又) end SHORT left 幸 right block ふしづくり (卩) また (又) end
+05bcc
+05bcc
+富 top うか (宀) bottom block いち (一) くち (口) た (田) end SHORT top うか (宀) bottom 畐
+05c5e
+05c5e
+属 tare しかばね (尸) tarec block の (丿) むし (虫) ぐうのあし (禸) end SHORT tare しかばね (尸) tarec 禹
+05fa9
+05fa9
+復 left ぎょうに (彳) right block block stroke ㇒ stroke ㇐ end にち (日) ふゆがしら (夂) end SHORT left ぎょうに (彳) right 复
+063d0
+063d0
+提 left て (扌) right block top にち (日) bottom ひき (疋) end SHORT left て (扌) right 是
+0691c
+0691c
+検 left き (木) right block top ひと (人) bottom block いち (一) くち (口) ひと (人) end end SHORT left き (木) right 㑒
+06e1b
+06e1b
+減 left みず (氵) right block block が (厂) かのほこ (戈) end くち (口) end SHORT left みず (氵) right 咸
+06e2c
+06e2c
+測 left みず (氵) right block left かい (貝) right かたな (刂) end SHORT left みず (氵) right 則
+07a0e
+07a0e
+税 left のぎ (禾) right block top はちがしら (八) bottom block top くち (口) bottom に (儿) end end SHORT left のぎ (禾) right 兌
+07a0b
+07a0b
+程 left のぎ (禾) right block top くち (口) bottom おう (王) end SHORT left のぎ (禾) right 呈
+07d76
+07d76
+絶 left いと (糸) right いろ (色)
+07d71
+07d71
+統 left いと (糸) right block top block なべぶた (亠) block む (厶) end end end SHORT left いと (糸) right 充
+08a3c
+08a3c
+証 left こと (言) right block stroke ㇐ とめる (止) end SHORT left こと (言) right 正
+08a55
+08a55
+評 left こと (言) right block ほし (干) stroke ㇔ stroke ㇒ end SHORT left こと (言) right 平
+08cc0
+08cc0
+賀 top block left ちから (力) right くち (口) end bottom かい (貝) SHORT top 加 bottom かい (貝)
+08cb8
+08cb8
+貸 top block left ひと (亻) right しきがまえ (弋) end bottom かい (貝) SHORT top 代 bottom かい (貝)
+08cbf
+08cbf
+貿 top block left block stroke ㇒ stroke ㇙ stroke ㇔ end right ふしづくり (卩) end bottom かい (貝) SHORT top 卯 bottom かい (貝)
+0904e
+0904e
+過 nyoc block stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ まきがまえ (冂) くち (口) end nyo し (⻌) SHORT nyoc 咼 nyo し (⻌)
+052e2
+052e2
+勢 top block left block つち (土) に (儿) つち (土) end right block block stroke ㇒ おつ (乙) end て (丶) end end bottom ちから (力) SHORT top 埶 bottom ちから (力)
+05e79
+05e79
+幹 left block top じゅう (十) bottom block top にち (日) bottom じゅう (十) end end right block top block ひと (人) bottom ほし (干) end end SHORT left 𠦝 right block top block ひと (人) bottom ほし (干) end end
+06e96
+06e96
+準 top block みず (氵) block ふるとり (隹) end end SHORT top block みず (氵) 隼 end
+0640d
+0640d
+損 left て (扌) right block top くち (口) bottom かい (貝) end SHORT left て (扌) right 員
+07981
+07981
+禁 top block left き (木) right き (木) end bottom しめす (示) SHORT top 林 bottom しめす (示)
+07f6a
+07f6a
+罪 top あみがしら (罒) bottom あらず (非)
+07fa9
+07fa9
+義 top ひつじ (羊) bottom block の (丿) かのほこ (戈) はねぼう (亅) stroke ㇀ end SHORT top ひつじ (羊) bottom 我
+07fa4
+07fa4
+群 left block block けいがしら (⺕) end くち (口) end right ひつじ (羊) SHORT left 君 right ひつじ (羊)
+05893
+05893
+墓 top block top くさ (艹) bottom block にち (日) だい (大) end end bottom つち (土) SHORT top 莫 bottom つち (土)
+05922
+05922
+夢 top block くさ (艹) あみがしら (罒) わか (冖) end bottom ゆうべ (夕)
+089e3
+089e3
+解 left つの (角) right block top かたな (刀) bottom うし (牛) end
+08c4a
+08c4a
+豊 top block にち (日) にじゅうあし (廾) end bottom まめ (豆) SHORT top 曲 bottom まめ (豆)
+08cc7
+08cc7
+資 top block left にすい (冫) right あくび (欠) end bottom かい (貝) SHORT top 次 bottom かい (貝)
+09271
+09271
+鉱 left かね (金) right block tare まだれ (广) tarec む (厶) end SHORT left かね (金) right 広
+09810
+09810
+預 left block top block stroke ㇇ stroke ㇔ end bottom block stroke ㇇ はねぼう (亅) end end right おおがい (頁) SHORT left 予 right おおがい (頁)
+098fc
+098fc
+飼 left しょく (飠) right block stroke ㇆ いち (一) くち (口) end SHORT left しょく (飠) right 司
+050cf
+050cf
+像 left ひと (亻) right block top block stroke ㇒ stroke ㇇ end bottom block stroke ㇑ stroke ㇕ stroke ㇑ いのこ (豕) end end SHORT left ひと (亻) right 象
+05883
+05883
+境 left つち (土) right block top たつ (立) bottom block に (儿) end end SHORT left つち (土) right 竟
+05897
+05897
+増 left つち (土) right block top block stroke ㇔ stroke ㇒ た (田) end bottom にち (日) end SHORT left つち (土) right 曽
+05fb3
+05fb3
+徳 left ぎょうに (彳) right block block じゅう (十) あみがしら (罒) end りっし (心) end
+06163
+06163
+慣 left りっし (忄) right block top なかれ (毋) bottom かい (貝) end SHORT left りっし (忄) right 貫
+0614b
+0614b
+態 top block left block top む (厶) bottom にく (月) end right block top さじのひ (匕) bottom さじのひ (匕) end end bottom りっし (心) SHORT top 能 bottom りっし (心)
+069cb
+069cb
+構 left き (木) right block top block いち (一) stroke ㇑ stroke ㇑ end end SHORT left き (木) right 冓
+06f14
+06f14
+演 left みず (氵) right block top うか (宀) bottom block stroke ㇐ block にち (日) ぼう (丨) end はちがしら (八) end end SHORT left みず (氵) right 寅
+07cbe
+07cbe
+精 left こめ (米) right あお (青)
+07dcf
+07dcf
+総 left いと (糸) right block top block top はちがしら (八) bottom む (厶) end bottom りっし (心) end SHORT left いと (糸) right 忩
+07dbf
+07dbf
+綿 left いと (糸) right block top しろ (白) bottom はば (巾) end SHORT left いと (糸) right 帛
+088fd
+088fd
+製 top block left block うし (牛) はば (巾) end right かたな (刂) end bottom ころも (衣) SHORT top 制 bottom ころも (衣)
+08907
+08907
+複 left ころも (衤) right block block stroke ㇒ stroke ㇐ end にち (日) ふゆがしら (夂) end SHORT left ころも (衤) right 复
+09069
+09069
+適 nyoc block なべぶた (亠) stroke ㇔ stroke ㇒ まきがまえ (冂) block top じゅう (十) bottom くち (口) end end nyo し (⻌) SHORT nyoc 啇 nyo し (⻌)
+09178
+09178
+酸 left とり (酉) right block top block top む (厶) bottom に (儿) end bottom ふゆがしら (夂) end SHORT left とり (酉) right 夋
+092ad
+092ad
+銭 left かね (金) right block block top いち (一) bottom いち (一) かのほこ (戈) end end SHORT left かね (金) right 戋
+09285
+09285
+銅 left かね (金) right block まきがまえ (冂) いち (一) くち (口) end SHORT left かね (金) right 同
+0969b
+0969b
+際 left ぎふのふ (⻖) right block top block にく (月) stroke ㇇ stroke ㇏ end bottom しめす (示) end SHORT left ぎふのふ (⻖) right 祭
+096d1
+096d1
+雑 left block top block stroke ㇒ おつ (乙) end bottom き (木) end right ふるとり (隹) SHORT left block top 九 bottom き (木) end right ふるとり (隹)
+09818
+09818
+領 left block top ひと (人) bottom block いち (一) ふしづくり (卩) end end right おおがい (頁) SHORT left 令 right おおがい (頁)
+05c0e
+05c0e
+導 top block nyoc くび (首) nyo し (⻌) end bottom す (寸) SHORT top 道 bottom す (寸)
+06575
+06575
+敵 left block なべぶた (亠) stroke ㇔ stroke ㇒ まきがまえ (冂) block top じゅう (十) bottom くち (口) end end right のぶ (攵) SHORT left 啇 right のぶ (攵)
+066b4
+066b4
+暴 top にち (日) bottom block block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end みず (氺) end SHORT top にち (日) bottom 㳟
+06f54
+06f54
+潔 left みず (氵) right block top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇀ かたな (刀) end bottom いと (糸) end SHORT left みず (氵) right 絜
+078ba
+078ba
+確 left いし (石) right block top うか (宀) bottom ふるとり (隹) end SHORT left いし (石) right 寉
+07de8
+07de8
+編 left いと (糸) right block tare とびらのと (戸) tarec block まきがまえ (冂) にじゅうあし (廾) end end SHORT left いと (糸) right 扁
+08cdb
+08cdb
+賛 top block left block stroke ㇐ だい (大) end right block stroke ㇐ だい (大) end end bottom かい (貝) SHORT top block left 夫 right 夫 end bottom かい (貝)
+08cea
+08cea
+質 top block left おの (斤) right おの (斤) end bottom かい (貝)
+08208
+08208
+興 top block block stroke ㇒ stroke ㇑ stroke ㇐ end stroke ㇐ block まきがまえ (冂) いち (一) くち (口) end stroke ㇐ end bottom はちがしら (八) SHORT top block 𦥑 stroke ㇐ 同 stroke ㇐ end bottom はちがしら (八)
+0885b
+0885b
+衛 kamae ぎょう (行) なめしがわ (韋)
+071c3
+071c3
+燃 left ひ (火) right block top block left にく (月) right いぬ (犬) end bottom ひ (灬) end SHORT left ひ (火) right 然
+07bc9
+07bc9
+築 top block top たけ (竹) bottom block left たくみ (工) right block つくえ (几) て (丶) end end end bottom き (木) SHORT top 筑 bottom き (木)
+08f38
+08f38
+輸 left くるま (車) right block top いる (入) bottom block いち (一) にく (月) かたな (刂) end end SHORT left くるま (車) right 兪
+07e3e
+07e3e
+績 left いと (糸) right block top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end bottom かい (貝) end SHORT left いと (糸) right 責
+08b1b
+08b1b
+講 left こと (言) right block top block いち (一) stroke ㇑ stroke ㇑ end end SHORT left こと (言) right 冓
+08b1d
+08b1d
+謝 left こと (言) right block left み (身) right す (寸) end SHORT left こと (言) right 射
+07e54
+07e54
+織 left いと (糸) right block おと (音) end SHORT left いと (糸) right 戠
+08077
+08077
+職 left みみ (耳) right block おと (音) end SHORT left みみ (耳) right 戠
+0984d
+0984d
+額 left block top うか (宀) bottom block ふゆがしら (夂) くち (口) end end right おおがい (頁) SHORT left 客 right おおがい (頁)
+08b58
+08b58
+識 left こと (言) right block おと (音) end SHORT left こと (言) right 戠
+08b77
+08b77
+護 left こと (言) right block top くさ (艹) bottom block top ふるとり (隹) bottom また (又) end end SHORT left こと (言) right 蒦
+04ea1
+04ea1
+亡 かくしがまえ (亡)
+05bf8
+05bf8
+寸 す (寸)
+05df1
+05df1
+己 おのれ (己)
+05e72
+05e72
+干 ほし (干)
+04ec1
+04ec1
+仁 left ひと (亻) right に (二)
+05c3a
+05c3a
+尺 しかばね (尸)
+07247
+07247
+片 かた (片)
+0518a
+0518a
+冊 まきがまえ (冂) にじゅうあし (廾)
+053ce
+053ce
+収 left block ぼう (丨) stroke ㇙ end right また (又)
+051e6
+051e6
+処 nyo ふゆがしら (夂) nyoc つくえ (几)
+05e7c
+05e7c
+幼 left いとがしら (幺) right ちから (力)
+05e81
+05e81
+庁 tare まだれ (广) tarec block いち (一) はねぼう (亅) end SHORT tare まだれ (广) tarec 丁
+07a74
+07a74
+穴 あな (穴)
+05371
+05371
+危 top block の (丿) stroke ㇇ end bottom block tare が (厂) tarec ふしづくり (卩) end SHORT top 𠂊 bottom 厄
+0540e
+0540e
+后 kamae block が (厂) stroke ㇐ end くち (口)
+07070
+07070
+灰 tare が (厂) tarec ひ (火)
+05438
+05438
+吸 left くち (口) right block の (丿) また (又) end SHORT left くち (口) right 及
+05b58
+05b58
+存 tare block stroke ㇐ ひと (亻) end tarec こ (子)
+05b87
+05b87
+宇 top うか (宀) bottom block に (二) はねぼう (亅) end SHORT top うか (宀) bottom 于
+05b85
+05b85
+宅 top うか (宀) bottom block の (丿) block いち (一) stroke ㇟ end end SHORT top うか (宀) bottom 乇
+0673a
+0673a
+机 left き (木) right つくえ (几)
+081f3
+081f3
+至 いたる (至)
+05426
+05426
+否 top block いち (一) の (丿) ぼう (丨) stroke ㇔ end bottom くち (口) SHORT top 不 bottom くち (口)
+06211
+06211
+我 の (丿) かのほこ (戈) はねぼう (亅) stroke ㇀
+07cfb
+07cfb
+系 top の (丿) bottom いと (糸)
+05375
+05375
+卵 block left block stroke ㇒ stroke ㇙ end end て (丶) SHORT 卯 て (丶)
+05fd8
+05fd8
+忘 top かくしがまえ (亡) bottom りっし (心)
+05b5d
+05b5d
+孝 ろう (耂) こ (子)
+056f0
+056f0
+困 kamae くにがまえ (囗) き (木)
+06279
+06279
+批 left て (扌) right くらべる (比)
+079c1
+079c1
+私 left のぎ (禾) right む (厶)
+04e71
+04e71
+乱 left した (舌) right おつ (乙)
+05782
+05782
+垂 block の (丿) じゅう (十) end stroke ㇐ stroke ㇑ stroke ㇑ つち (土) SHORT 千 stroke ㇐ stroke ㇑ stroke ㇑ つち (土)
+04e73
+04e73
+乳 left block top つめ (⺤) bottom こ (子) end right おつ (乙) SHORT left 孚 right おつ (乙)
+04f9b
+04f9b
+供 left ひと (亻) right block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end SHORT left ひと (亻) right 共
+04e26
+04e26
+並 top block はちがしら (八) いち (一) end bottom block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇐ end SHORT top block はちがしら (八) いち (一) end bottom 业
+0523b
+0523b
+刻 left block top なべぶた (亠) stroke ㇜ stroke ㇒ bottom ひと (人) end right かたな (刂) SHORT left 亥 right かたな (刂)
+0547c
+0547c
+呼 left くち (口) right block の (丿) stroke ㇔ stroke ㇒ stroke ㇐ はねぼう (亅) end SHORT left くち (口) right 乎
+05b97
+05b97
+宗 top うか (宀) bottom しめす (示)
+05b99
+05b99
+宙 top うか (宀) bottom block にち (日) ぼう (丨) end SHORT top うか (宀) bottom 由
+05b9d
+05b9d
+宝 top うか (宀) bottom おう (玉)
+05c4a
+05c4a
+届 tare しかばね (尸) tarec block にち (日) ぼう (丨) end SHORT tare しかばね (尸) tarec 由
+05ef6
+05ef6
+延 nyoc block の (丿) とめる (止) end nyo い (廴) SHORT nyoc 正 nyo い (廴)
+05fe0
+05fe0
+忠 top block くち (口) ぼう (丨) end bottom りっし (心) SHORT top 中 bottom りっし (心)
+062e1
+062e1
+拡 left て (扌) right block tare まだれ (广) tarec む (厶) end SHORT left て (扌) right 広
+062c5
+062c5
+担 left て (扌) right block top にち (日) bottom いち (一) end SHORT left て (扌) right 旦
+062dd
+062dd
+拝 left て (扌) right block いち (一) block block top いち (一) bottom block いち (一) いち (一) end end ぼう (丨) end end SHORT left て (扌) right block いち (一) 丰 end
+0679a
+0679a
+枚 left き (木) right のぶ (攵)
+06cbf
+06cbf
+沿 left みず (氵) right block はちがしら (八) くち (口) end SHORT left みず (氵) right 㕣
+082e5
+082e5
+若 top くさ (艹) bottom block stroke ㇒ stroke ㇐ くち (口) end SHORT top くさ (艹) bottom 右
+0770b
+0770b
+看 て (手) め (目)
+057ce
+057ce
+城 left つち (土) right block block の (丿) end かのほこ (戈) end SHORT left つち (土) right 成
+0594f
+0594f
+奏 top block block いち (一) いち (一) いち (一) end ひと (人) end bottom block stroke ㇐ だい (大) end SHORT top 𡗗 bottom 天
+059ff
+059ff
+姿 top block left にすい (冫) right あくび (欠) end bottom お (女) SHORT top 次 bottom お (女)
+05ba3
+05ba3
+宣 top うか (宀) bottom block top に (二) bottom block top にち (日) bottom に (二) end end SHORT top うか (宀) bottom 亘
+05c02
+05c02
+専 top block stroke ㇐ block にち (日) ぼう (丨) end end bottom す (寸) SHORT top block stroke ㇐ 由 end bottom す (寸)
+05dfb
+05dfb
+巻 top block stroke ㇔ stroke ㇒ に (二) end bottom おのれ (己) SHORT top 𠔉 bottom おのれ (己)
+05f8b
+05f8b
+律 left ぎょうに (彳) right ふでづくり (聿)
+06620
+06620
+映 left にち (日) right block stroke ㇑ stroke ㇕ だい (大) end SHORT left にち (日) right 央
+067d3
+067d3
+染 top block left みず (氵) right block stroke ㇒ おつ (乙) end end bottom き (木) SHORT top block left みず (氵) right 九 end bottom き (木)
+06bb5
+06bb5
+段 left block stroke ㇒ stroke ㇑ stroke ㇐ stroke ㇐ stroke ㇀ end right ほこつくり (殳)
+06d17
+06d17
+洗 left みず (氵) right block top block stroke ㇒ stroke ㇐ stroke ㇑ stroke ㇐ end bottom に (儿) end SHORT left みず (氵) right 先
+06d3e
+06d3e
+派 left みず (氵) right block の (丿) の (丿) ひと (亻) の (丿) stroke ㇏ end SHORT left みず (氵) right 𠂢
+07687
+07687
+皇 top しろ (白) bottom おう (王)
+06cc9
+06cc9
+泉 top block top しろ (白) end bottom みず (水)
+07802
+07802
+砂 left いし (石) right block ちいさい (小) の (丿) end SHORT left いし (石) right 少
+07d05
+07d05
+紅 left いと (糸) right たくみ (工)
+080cc
+080cc
+背 top block left block stroke ㇐ stroke ㇑ stroke ㇀ end right さじのひ (匕) end bottom にく (月) SHORT top 北 bottom にく (月)
+080ba
+080ba
+肺 left にく (月) right block top なべぶた (亠) bottom はば (巾) end SHORT left にく (月) right 市
+09769
+09769
+革 かくのかわ (革)
+08695
+08695
+蚕 top block いち (一) だい (大) end bottom むし (虫) SHORT top 天 bottom むし (虫)
+05024
+05024
+値 left ひと (亻) right block じゅう (十) め (目) stroke ㇗ end SHORT left ひと (亻) right 直
+04ff3
+04ff3
+俳 left ひと (亻) right あらず (非)
+0515a
+0515a
+党 top block top ちいさい (⺌) bottom block まきがまえ (冂) block くち (口) end end end SHORT top 尚
+05c55
+05c55
+展 tare しかばね (尸) tarec block にじゅうあし (廾) stroke ㇐ stroke ㇙ stroke ㇒ stroke ㇏ end
+05ea7
+05ea7
+座 tare まだれ (广) tarec block block left ひと (人) right ひと (人) end つち (土) end SHORT tare まだれ (广) tarec 坐
+05f93
+05f93
+従 left ぎょうに (彳) right block stroke ㇔ stroke ㇒ ひき (疋) end
+0682a
+0682a
+株 left き (木) right block stroke ㇒ block stroke ㇐ き (木) end end SHORT left き (木) right 朱
+05c06
+05c06
+将 left block stroke ㇑ stroke ㇔ stroke ㇀ end right block top つめ (⺤) bottom す (寸) end SHORT left ⺦ right block top つめ (⺤) bottom す (寸) end
+073ed
+073ed
+班 left おう (王) right block かたな (刂) おう (王) end
+079d8
+079d8
+秘 left のぎ (禾) right block りっし (心) の (丿) end SHORT left のぎ (禾) right 必
+07d14
+07d14
+純 left いと (糸) right block の (丿) てつ (屮) end SHORT left いと (糸) right 屯
+07d0d
+07d0d
+納 left いと (糸) right block まきがまえ (冂) ひと (人) end SHORT left いと (糸) right 内
+080f8
+080f8
+胸 left にく (月) right block kamae つつみがまえ (勹) block block の (丿) stroke ㇔ end kamae うけばこ (凵) end end SHORT left にく (月) right 匈
+06717
+06717
+朗 left block stroke ㇑ うしとら (艮) end right にく (月) SHORT left 良 right にく (月)
+08a0e
+08a0e
+討 left こと (言) right す (寸)
+05c04
+05c04
+射 left み (身) right す (寸)
+091dd
+091dd
+針 left かね (金) right じゅう (十)
+0964d
+0964d
+降 left ぎふのふ (⻖) right block ふゆがしら (夂) block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇑ end end SHORT left ぎふのふ (⻖) right 夅
+09664
+09664
+除 left ぎふのふ (⻖) right block top ひと (人) bottom block stroke ㇐ stroke ㇐ ちいさい (小) end end SHORT left ぎふのふ (⻖) right 余
+0965b
+0965b
+陛 left ぎふのふ (⻖) right block top くらべる (比) bottom つち (土) end
+09aa8
+09aa8
+骨 ほね (骨)
+057df
+057df
+域 left つち (土) right block かのほこ (戈) くち (口) いち (一) end SHORT left つち (土) right 或
+05bc6
+05bc6
+密 top block うか (宀) block りっし (心) の (丿) end end bottom やま (山) SHORT top 宓 bottom やま (山)
+06368
+06368
+捨 left て (扌) right block top ひと (人) bottom block top さむらい (士) bottom くち (口) end end SHORT left て (扌) right 舎
+063a8
+063a8
+推 left て (扌) right ふるとり (隹)
+063a2
+063a2
+探 left て (扌) right block top block あみがしら (㓁) bottom き (木) end end
+06e08
+06e08
+済 left みず (氵) right block top ぶ (文) bottom block stroke ㇒ に (二) stroke ㇑ end end SHORT left みず (氵) right 斉
+07570
+07570
+異 top た (田) bottom block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end SHORT top た (田) bottom 共
+076db
+076db
+盛 top block block の (丿) end かのほこ (戈) end bottom さら (皿) SHORT top 成 bottom さら (皿)
+08996
+08996
+視 left しめす (礻) right みる (見)
+07a93
+07a93
+窓 top あな (穴) bottom block む (厶) りっし (心) end
+07fcc
+07fcc
+翌 top はね (羽) bottom たつ (立)
+08133
+08133
+脳 left にく (月) right block top ちいさい (⺍) bottom block block の (丿) stroke ㇔ end kamae うけばこ (凵) end end SHORT left にく (月) right block top ちいさい (⺍) bottom 凶 end
+08457
+08457
+著 top くさ (艹) bottom block ろう (耂) にち (日) end SHORT top くさ (艹) bottom 者
+08a2a
+08a2a
+訪 left こと (言) right ほう (方)
+08a33
+08a33
+訳 left こと (言) right block しかばね (尸) end SHORT left こと (言) right 尺
+06b32
+06b32
+欲 left たに (谷) right あくび (欠)
+090f7
+090f7
+郷 left block block stroke ㇜ stroke ㇜ stroke ㇒ end うしとら (艮) end right むら (⻏) SHORT left block 乡 うしとら (艮) end right むら (⻏)
+090f5
+090f5
+郵 left block block の (丿) じゅう (十) end stroke ㇐ stroke ㇑ stroke ㇑ つち (土) end right むら (⻏) SHORT left 垂 right むら (⻏)
+09589
+09589
+閉 kamae も (門) block て (扌) end SHORT kamae も (門) 才
+09802
+09802
+頂 left block いち (一) はねぼう (亅) end right おおがい (頁) SHORT left 丁 right おおがい (頁)
+05c31
+05c31
+就 left block top なべぶた (亠) bottom block くち (口) ちいさい (小) end end right まげあし (尤) SHORT left 京 right まげあし (尤)
+05584
+05584
+善 top block ひつじ (羊) stroke ㇔ stroke ㇒ stroke ㇐ end bottom くち (口)
+05c0a
+05c0a
+尊 top block top はちがしら (八) bottom とり (酉) end bottom す (寸) SHORT top 酋 bottom す (寸)
+05272
+05272
+割 left block top うか (宀) bottom block top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end bottom くち (口) end end right かたな (刂) SHORT left 害 right かたな (刂)
+05275
+05275
+創 left block top ひと (人) bottom block stroke ㇐ stroke ㇕ stroke ㇐ stroke ㇐ stroke ㇒ くち (口) end end right かたな (刂) SHORT left 倉 right かたな (刂)
+052e4
+052e4
+勤 left block top くさ (艹) bottom block stroke ㇑ stroke ㇕ stroke ㇐ stroke ㇑ block top いち (一) bottom block いち (一) いち (一) end end end end right ちから (力) SHORT left 菫 right ちから (力)
+088c1
+088c1
+裁 kamae block つち (土) end kamaec ころも (衣) kamae SHORT kamae 𢦏 kamaec ころも (衣) kamae 𢦏
+063ee
+063ee
+揮 left て (扌) right block top わか (冖) bottom くるま (車) end SHORT left て (扌) right 軍
+0656c
+0656c
+敬 left block top くさ (艹) bottom block つつみがまえ (勹) くち (口) end end right のぶ (攵) SHORT left 苟 right のぶ (攵)
+06669
+06669
+晩 left にち (日) right block top block block stroke ㇒ stroke ㇇ end stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ end bottom に (儿) end SHORT left にち (日) right 免
+068d2
+068d2
+棒 left き (木) right block top block block top いち (一) bottom block いち (一) だい (大) end end end bottom block stroke ㇐ stroke ㇐ ぼう (丨) end end SHORT left き (木) right 奉
+075db
+075db
+痛 tare やまいだれ (疒) tarec block top block stroke ㇇ stroke ㇔ end bottom もちいる (用) end SHORT tare やまいだれ (疒) tarec 甬
+07b4b
+07b4b
+筋 top たけ (竹) bottom block left にく (月) right ちから (力) end SHORT top たけ (竹) bottom 肋
+07b56
+07b56
+策 top たけ (竹) bottom block き (木) まきがまえ (冂) end SHORT top たけ (竹) bottom 朿
+08846
+08846
+衆 top ち (血) bottom block ひと (亻) stroke ㇒ stroke ㇒ stroke ㇒ stroke ㇏ end
+088c5
+088c5
+装 top block left block stroke ㇑ stroke ㇔ stroke ㇀ end right さむらい (士) end bottom ころも (衣) SHORT top 壮 bottom ころも (衣)
+088dc
+088dc
+補 left ころも (衤) right block stroke ㇐ もちいる (用) て (丶) end SHORT left ころも (衤) right 甫
+08a5e
+08a5e
+詞 left こと (言) right block stroke ㇆ いち (一) くち (口) end SHORT left こと (言) right 司
+08cb4
+08cb4
+貴 top block block くち (口) ぼう (丨) end stroke ㇐ end bottom かい (貝) SHORT top block 中 stroke ㇐ end bottom かい (貝)
+088cf
+088cf
+裏 top ころも (衣) bottom block さと (里) end
+050b7
+050b7
+傷 left ひと (亻) right block block stroke ㇒ stroke ㇐ end block top block にち (日) いち (一) end bottom block つつみがまえ (勹) stroke ㇒ stroke ㇒ end end end SHORT left ひと (亻) right block 𠂉 昜 end
+06696
+06696
+暖 left にち (日) right block top つめ (⺤) bottom block stroke ㇐ block stroke ㇐ stroke ㇒ また (又) end end end SHORT left にち (日) right 爰
+06e90
+06e90
+源 left みず (氵) right block tare が (厂) tarec block しろ (白) ちいさい (小) end end SHORT left みず (氵) right 原
+08056
+08056
+聖 top block left みみ (耳) right くち (口) end bottom おう (王)
+076df
+076df
+盟 top block left にち (日) right にく (月) end bottom さら (皿) SHORT top 明 bottom さら (皿)
+07d79
+07d79
+絹 left いと (糸) right block top くち (口) bottom にく (月) end SHORT left いと (糸) right 肙
+07f72
+07f72
+署 top あみがしら (罒) bottom block ろう (耂) にち (日) end SHORT top あみがしら (罒) bottom 者
+08179
+08179
+腹 left にく (月) right block block stroke ㇒ stroke ㇐ end にち (日) ふゆがしら (夂) end SHORT left にく (月) right 复
+084b8
+084b8
+蒸 top くさ (艹) bottom block top block top block block stroke ㇇ はねぼう (亅) end みず (水) end bottom いち (一) end bottom ひ (灬) end SHORT top くさ (艹) bottom 烝
+05e55
+05e55
+幕 top block top くさ (艹) bottom block にち (日) だい (大) end end bottom はば (巾) SHORT top 莫 bottom はば (巾)
+08aa0
+08aa0
+誠 left こと (言) right block block の (丿) end かのほこ (戈) end SHORT left こと (言) right 成
+08cc3
+08cc3
+賃 top block left ひと (亻) right block の (丿) さむらい (士) end end bottom かい (貝) SHORT top 任 bottom かい (貝)
+07591
+07591
+疑 left block さじのひ (匕) や (矢) end right block block stroke ㇇ stroke ㇔ end ひき (疋) end SHORT left block さじのひ (匕) や (矢) end right block マ ひき (疋) end
+05c64
+05c64
+層 tare しかばね (尸) tarec block top block stroke ㇔ stroke ㇒ た (田) end bottom にち (日) end SHORT tare しかばね (尸) tarec 曽
+06a21
+06a21
+模 left き (木) right block top くさ (艹) bottom block にち (日) だい (大) end end SHORT left き (木) right 莫
+07a40
+07a40
+穀 left block top block さむらい (士) わか (冖) end bottom のぎ (禾) end right ほこつくり (殳)
+078c1
+078c1
+磁 left いし (石) right block top くさ (艹) bottom block right げ (玄) end end SHORT left いし (石) right 兹
+066ae
+066ae
+暮 top block top くさ (艹) bottom block にち (日) だい (大) end end bottom にち (日) SHORT top 莫 bottom にち (日)
+08aa4
+08aa4
+誤 left こと (言) right block top block くち (口) stroke ㇞ end bottom block stroke ㇐ はちがしら (八) end end SHORT left こと (言) right 呉
+08a8c
+08a8c
+誌 left こと (言) right block top さむらい (士) bottom りっし (心) end SHORT left こと (言) right 志
+08a8d
+08a8d
+認 left こと (言) right block top block かたな (刀) て (丶) end bottom りっし (心) end SHORT left こと (言) right 忍
+095a3
+095a3
+閣 kamae も (門) block top ふゆがしら (夂) bottom くち (口) end SHORT kamae も (門) 各
+0969c
+0969c
+障 left ぎふのふ (⻖) right block top たつ (立) bottom block にち (日) じゅう (十) end end SHORT left ぎふのふ (⻖) right 章
+05287
+05287
+劇 left block tare とらか (虍) tarec いのこ (豕) end right かたな (刂) SHORT left 豦 right かたな (刂)
+06a29
+06a29
+権 left き (木) right block block stroke ㇒ stroke ㇐ end stroke ㇐ ふるとり (隹) end SHORT left き (木) right block 𠂉 stroke ㇐ ふるとり (隹) end
+06f6e
+06f6e
+潮 left みず (氵) right block left block top じゅう (十) bottom block にち (日) じゅう (十) end end right にく (月) end SHORT left みず (氵) right 朝
+0719f
+0719f
+熟 top block left block top なべぶた (亠) bottom block くち (口) こ (子) end end right block block stroke ㇒ おつ (乙) end て (丶) end end bottom ひ (灬) SHORT top 孰 bottom ひ (灬)
+08535
+08535
+蔵 top くさ (艹) bottom block が (厂) かのほこ (戈) し (臣) end
+08af8
+08af8
+諸 left こと (言) right block ろう (耂) にち (日) end SHORT left こと (言) right 者
+08a95
+08a95
+誕 left こと (言) right block nyoc block の (丿) とめる (止) end nyo い (廴) end SHORT left こと (言) right 延
+08ad6
+08ad6
+論 left こと (言) right block top ひと (人) bottom block いち (一) block まきがまえ (冂) にじゅうあし (廾) end end end SHORT left こと (言) right 侖
+0907a
+0907a
+遺 nyoc block top block block くち (口) ぼう (丨) end stroke ㇐ end bottom かい (貝) end nyo し (⻌) SHORT nyoc 貴 nyo し (⻌)
+0596e
+0596e
+奮 top だい (大) bottom block top ふるとり (隹) bottom た (田) end
+061b2
+061b2
+憲 top block うか (宀) stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ あみがしら (罒) end bottom りっし (心)
+064cd
+064cd
+操 left て (扌) right block top block top くち (口) bottom block left くち (口) right くち (口) end end bottom き (木) end SHORT left て (扌) right 喿
+06a39
+06a39
+樹 left き (木) right block left block block さむらい (士) end end right す (寸) end SHORT left き (木) right block left block 吉 end right す (寸) end
+06fc0
+06fc0
+激 left みず (氵) right block left block しろ (白) block left ほう (方) end end end SHORT left みず (氵) right 敫
+07cd6
+07cd6
+糖 left こめ (米) right block tare まだれ (广) tarec block けいがしら (⺕) stroke ㇑ くち (口) end end SHORT left こめ (米) right 唐
+07e26
+07e26
+縦 left いと (糸) right block left ぎょうに (彳) right block stroke ㇔ stroke ㇒ ひき (疋) end end SHORT left いと (糸) right 従
+092fc
+092fc
+鋼 left かね (金) right block kamae まきがまえ (冂) stroke ㇔ stroke ㇒ stroke ㇐ やま (山) end SHORT left かね (金) right 岡
+053b3
+053b3
+厳 top ちいさい (⺍) bottom block kamae が (厂) block left block stroke ㇐ stroke ㇑ みみ (耳) end right のぶ (攵) end end SHORT top ちいさい (⺍) bottom block kamae が (厂) 敢 end
+0512a
+0512a
+優 left ひと (亻) right block top block block top block stroke ㇐ end bottom block top block stroke ㇒ end bottom にち (日) end end わか (冖) end bottom block りっし (心) ふゆがしら (夂) end end SHORT left ひと (亻) right 憂
+07e2e
+07e2e
+縮 left いと (糸) right block top うか (宀) bottom block ひと (亻) block stroke ㇐ しろ (白) end end end SHORT left いと (糸) right 宿
+089a7
+089a7
+覧 top block left し (臣) right block block stroke ㇒ stroke ㇐ end stroke ㇐ end end bottom みる (見) SHORT top block left し (臣) right block 𠂉 stroke ㇐ end end bottom みる (見)
+07c21
+07c21
+簡 top たけ (竹) bottom block kamae も (門) にち (日) end SHORT top たけ (竹) bottom 間
+081e8
+081e8
+臨 left し (臣) right block block stroke ㇒ stroke ㇐ end block top くち (口) bottom block left block くち (口) right くち (口) end end end end SHORT left し (臣) right block 𠂉 品 end
+096e3
+096e3
+難 left block くさ (艹) くち (口) block stroke ㇐ だい (大) end end right ふるとり (隹) SHORT left block くさ (艹) くち (口) 夫 end right ふるとり (隹)
+081d3
+081d3
+臓 left にく (月) right block top くさ (艹) bottom block が (厂) かのほこ (戈) end end SHORT left にく (月) right 蔵
+08b66
+08b66
+警 top block left block top くさ (艹) bottom block つつみがまえ (勹) くち (口) end end right のぶ (攵) end bottom こと (言) SHORT top 敬 bottom こと (言)
+04e59
+04e59
+乙 おつ (乙)
+04e86
+04e86
+了 stroke ㇇ はねぼう (亅)
+053c8
+053c8
+又 また (又)
+04e0e
+04e0e
+与 stroke ㇐ stroke ㇉ いち (一)
+053ca
+053ca
+及 の (丿) また (又)
+04e08
+04e08
+丈 いち (一) block の (丿) stroke ㇏ end SHORT いち (一) 乂
+05203
+05203
+刃 かたな (刀) て (丶)
+051e1
+051e1
+凡 つくえ (几) て (丶)
+052fa
+052fa
+勺 kamae つつみがまえ (勹) て (丶)
+04e92
+04e92
+互 に (二) けいがしら (彑)
+05f14
+05f14
+弔 ゆみ (弓) ぼう (丨)
+04e95
+04e95
+井 に (二) にじゅうあし (廾)
+05347
+05347
+升 の (丿) にじゅうあし (廾)
+04e39
+04e39
+丹 まきがまえ (冂) て (丶) stroke ㇐
+04e4f
+04e4f
+乏 top の (丿) bottom block て (丶) stroke ㇇ stroke ㇏ end SHORT top の (丿) bottom 之
+05301
+05301
+匁 つつみがまえ (勹) block の (丿) stroke ㇏ end SHORT つつみがまえ (勹) 乂
+05c6f
+05c6f
+屯 の (丿) てつ (屮)
+04ecb
+04ecb
+介 top ひと (人) bottom block の (丿) ぼう (丨) end
+05197
+05197
+冗 top わか (冖) bottom つくえ (几)
+051f6
+051f6
+凶 block の (丿) stroke ㇔ end kamae うけばこ (凵) SHORT 乂 kamae うけばこ (凵)
+05208
+05208
+刈 left block の (丿) stroke ㇔ end right かたな (刂) SHORT left 乂 right かたな (刂)
+05339
+05339
+匹 kamae かくしがまえ (匸) に (儿)
+05384
+05384
+厄 tare が (厂) tarec ふしづくり (卩)
+053cc
+053cc
+双 left また (又) right また (又)
+05b54
+05b54
+孔 left こ (子) right おつ (乙)
+05e7b
+05e7b
+幻 left いとがしら (幺) right block stroke ㇆ end
+06597
+06597
+斗 とます (斗)
+065a4
+065a4
+斤 おの (斤)
+04e14
+04e14
+且 にく (月) いち (一)
+04e19
+04e19
+丙 いち (一) block まきがまえ (冂) ひと (人) end SHORT いち (一) 内
+07532
+07532
+甲 にち (日) ぼう (丨)
+051f8
+051f8
+凸 block stroke ㇐ end stroke ㇑ stroke ㇅ うけばこ (凵) SHORT ㇐ stroke ㇑ stroke ㇅ うけばこ (凵)
+04e18
+04e18
+丘 おの (斤) いち (一)
+065a5
+065a5
+斥 おの (斤) て (丶)
+04ed9
+04ed9
+仙 left ひと (亻) right やま (山)
+051f9
+051f9
+凹 stroke ㇅ stroke ㇑ stroke ㇐ うけばこ (凵)
+053ec
+053ec
+召 top かたな (刀) bottom くち (口)
+05de8
+05de8
+巨 はこがまえ (匚) stroke ㇕ stroke ㇐
+05360
+05360
+占 top ぼくのと (卜) bottom くち (口)
+056da
+056da
+囚 kamae くにがまえ (囗) ひと (人)
+05974
+05974
+奴 left お (女) right また (又)
+05c3c
+05c3c
+尼 tare しかばね (尸) tarec さじのひ (匕)
+05de7
+05de7
+巧 left たくみ (工) right block stroke ㇐ stroke ㇉ end SHORT left たくみ (工) right 丂
+06255
+06255
+払 left て (扌) right む (厶)
+06c41
+06c41
+汁 left みず (氵) right じゅう (十)
+07384
+07384
+玄 げ (玄)
+07518
+07518
+甘 あまい (甘)
+077db
+077db
+矛 むのほこ (矛)
+08fbc
+08fbc
+込 nyoc いる (入) nyo し (⻌)
+05f10
+05f10
+弐 いち (一) しきがまえ (弋) に (二)
+06731
+06731
+朱 の (丿) block stroke ㇐ き (木) end SHORT の (丿) 未
+0540f
+0540f
+吏 block いち (一) end くち (口) SHORT 丈 くち (口)
+052a3
+052a3
+劣 top block ちいさい (小) の (丿) end bottom ちから (力) SHORT top 少 bottom ちから (力)
+05145
+05145
+充 top block なべぶた (亠) block む (厶) end end SHORT top block なべぶた (亠) 允 end
+05984
+05984
+妄 top かくしがまえ (亡) bottom お (女)
+04f01
+04f01
+企 top ひと (人) bottom とめる (止)
+04ef0
+04ef0
+仰 left ひと (亻) right block left block stroke ㇒ stroke ㇙ end right ふしづくり (卩) end SHORT left ひと (亻) right 卬
+04f10
+04f10
+伐 left ひと (亻) right かのほこ (戈)
+04f0f
+04f0f
+伏 left ひと (亻) right いぬ (犬)
+05211
+05211
+刑 left block ほし (干) ほし (干) end right かたな (刂) SHORT left 开 right かたな (刂)
+065ec
+065ec
+旬 kamae つつみがまえ (勹) にち (日)
+065e8
+065e8
+旨 top さじのひ (匕) bottom にち (日)
+05320
+05320
+匠 kamae はこがまえ (匚) おの (斤)
+053eb
+053eb
+叫 left くち (口) right block stroke ㇑ stroke ㇐ ぼう (丨) end SHORT left くち (口) right 丩
+05410
+05410
+吐 left くち (口) right つち (土)
+05409
+05409
+吉 top さむらい (士) bottom くち (口)
+05982
+05982
+如 left お (女) right くち (口)
+05983
+05983
+妃 left お (女) right おのれ (己)
+05c3d
+05c3d
+尽 top block しかばね (尸) end bottom にすい (冫) SHORT top 尺 bottom にすい (冫)
+05e06
+05e06
+帆 left はば (巾) right block つくえ (几) て (丶) end SHORT left はば (巾) right 凡
+05fd9
+05fd9
+忙 left りっし (忄) right かくしがまえ (亡)
+06271
+06271
+扱 left て (扌) right block の (丿) また (又) end SHORT left て (扌) right 及
+0673d
+0673d
+朽 left き (木) right block stroke ㇐ stroke ㇉ end SHORT left き (木) right 丂
+06734
+06734
+朴 left き (木) right ぼくのと (卜)
+06c5a
+06c5a
+汚 left みず (氵) right block に (二) stroke ㇉ end
+06c57
+06c57
+汗 left みず (氵) right ほし (干)
+06c5f
+06c5f
+江 left みず (氵) right たくみ (工)
+058ee
+058ee
+壮 left block stroke ㇑ stroke ㇔ stroke ㇀ end right さむらい (士) SHORT left ⺦ right さむらい (士)
+07f36
+07f36
+缶 か (缶)
+0808c
+0808c
+肌 left にく (月) right つくえ (几)
+0821f
+0821f
+舟 ふね (舟)
+0828b
+0828b
+芋 top くさ (艹) bottom block に (二) はねぼう (亅) end SHORT top くさ (艹) bottom 于
+0829d
+0829d
+芝 top くさ (艹) bottom block て (丶) stroke ㇇ stroke ㇏ end SHORT top くさ (艹) bottom 之
+05de1
+05de1
+巡 nyoc かわ (巛) nyo し (⻌)
+08fc5
+08fc5
+迅 nyoc block おつ (乙) じゅう (十) end nyo し (⻌) SHORT nyoc 卂 nyo し (⻌)
+04e9c
+04e9c
+亜 に (二) くち (口) stroke ㇑ stroke ㇑
+066f4
+066f4
+更 いち (一) にち (日) block の (丿) stroke ㇏ end SHORT いち (一) にち (日) 乂
+05bff
+05bff
+寿 block top いち (一) bottom block いち (一) いち (一) end end の (丿) す (寸) SHORT 三 の (丿) す (寸)
+052b1
+052b1
+励 left block が (厂) block いち (一) stroke ㇆ stroke ㇒ end end right ちから (力) SHORT left block が (厂) 万 end right ちから (力)
+0542b
+0542b
+含 top block top ひと (人) bottom block いち (一) stroke ㇇ end end bottom くち (口) SHORT top 今 bottom くち (口)
+04f50
+04f50
+佐 left ひと (亻) right block kamae block stroke ㇐ stroke ㇒ end たくみ (工) end SHORT left ひと (亻) right 左
+04f3a
+04f3a
+伺 left ひと (亻) right block stroke ㇆ いち (一) くち (口) end SHORT left ひと (亻) right 司
+04f38
+04f38
+伸 left ひと (亻) right block にち (日) ぼう (丨) end SHORT left ひと (亻) right 申
+04f46
+04f46
+但 left ひと (亻) right block top にち (日) bottom いち (一) end SHORT left ひと (亻) right 旦
+04f2f
+04f2f
+伯 left ひと (亻) right しろ (白)
+04f34
+04f34
+伴 left ひと (亻) right block stroke ㇔ stroke ㇒ に (二) じゅう (十) end SHORT left ひと (亻) right 半
+05449
+05449
+呉 top block くち (口) stroke ㇞ end bottom block stroke ㇐ はちがしら (八) end
+0514b
+0514b
+克 top block top じゅう (十) block bottom くち (口) end end SHORT top 古
+05374
+05374
+却 left block top つち (土) bottom む (厶) end right ふしづくり (卩) SHORT left 去 right ふしづくり (卩)
+0541f
+0541f
+吟 left くち (口) right block top ひと (人) bottom block いち (一) stroke ㇇ end end SHORT left くち (口) right 今
+05439
+05439
+吹 left くち (口) right あくび (欠)
+05448
+05448
+呈 top くち (口) bottom おう (王)
+058f1
+058f1
+壱 top さむらい (士) bottom block わか (冖) さじのひ (匕) end
+05751
+05751
+坑 left つち (土) right block top なべぶた (亠) bottom つくえ (几) end SHORT left つち (土) right 亢
+0574a
+0574a
+坊 left つち (土) right ほう (方)
+0598a
+0598a
+妊 left お (女) right block の (丿) さむらい (士) end SHORT left お (女) right 壬
+059a8
+059a8
+妨 left お (女) right ほう (方)
+05999
+05999
+妙 left お (女) right block ちいさい (小) の (丿) end SHORT left お (女) right 少
+08096
+08096
+肖 top ちいさい (⺌) bottom にく (月)
+05c3f
+05c3f
+尿 tare しかばね (尸) tarec みず (水)
+05c3e
+05c3e
+尾 tare しかばね (尸) tarec け (毛)
+05c90
+05c90
+岐 left やま (山) right しにょう (支)
+0653b
+0653b
+攻 left たくみ (工) right のぶ (攵)
+05fcc
+05fcc
+忌 top おのれ (己) bottom りっし (心)
+05e8a
+05e8a
+床 tare まだれ (广) tarec き (木)
+05ef7
+05ef7
+廷 nyoc block の (丿) さむらい (士) end nyo い (廴) SHORT nyoc 壬 nyo い (廴)
+05fcd
+05fcd
+忍 top block かたな (刀) て (丶) end bottom りっし (心) SHORT top 刃 bottom りっし (心)
+06212
+06212
+戒 tare かのほこ (戈) tarec にじゅうあし (廾)
+0623b
+0623b
+戻 とびらのと (戸) だい (大)
+06297
+06297
+抗 left て (扌) right block top なべぶた (亠) bottom つくえ (几) end SHORT left て (扌) right 亢
+06284
+06284
+抄 left て (扌) right block ちいさい (小) の (丿) end SHORT left て (扌) right 少
+0629e
+0629e
+択 left て (扌) right block しかばね (尸) end SHORT left て (扌) right 尺
+0628a
+0628a
+把 left て (扌) right block おのれ (己) end SHORT left て (扌) right 巴
+0629c
+0629c
+抜 left て (扌) right block stroke ㇐ stroke ㇒ また (又) end SHORT left て (扌) right 友
+06276
+06276
+扶 left て (扌) right block stroke ㇐ だい (大) end SHORT left て (扌) right 夫
+06291
+06291
+抑 left て (扌) right block left block stroke ㇒ stroke ㇙ end right ふしづくり (卩) end
+06749
+06749
+杉 left き (木) right さ (彡)
+06c96
+06c96
+沖 left みず (氵) right block くち (口) ぼう (丨) end SHORT left みず (氵) right 中
+06ca2
+06ca2
+沢 left みず (氵) right block しかばね (尸) end SHORT left みず (氵) right 尺
+06c88
+06c88
+沈 left みず (氵) right block わか (冖) に (儿) end SHORT left みず (氵) right 冘
+06ca1
+06ca1
+没 left みず (氵) right ほこつくり (殳)
+059a5
+059a5
+妥 top つめ (⺤) bottom お (女)
+072c2
+072c2
+狂 left けものへん (⺨) right おう (王)
+079c0
+079c0
+秀 top のぎ (禾) bottom block の (丿) stroke ㇡ end SHORT top のぎ (禾) bottom 乃
+0809d
+0809d
+肝 left にく (月) right ほし (干)
+05373
+05373
+即 left うしとら (艮) right ふしづくり (卩)
+082b3
+082b3
+芳 top くさ (艹) bottom ほう (方)
+08f9b
+08f9b
+辛 からい (辛)
+08fce
+08fce
+迎 nyoc block left block stroke ㇒ stroke ㇙ end right ふしづくり (卩) end nyo し (⻌) SHORT nyoc 卬 nyo し (⻌)
+090a6
+090a6
+邦 left block block top いち (一) bottom block いち (一) いち (一) end end の (丿) end right むら (⻏) SHORT left 丰 right むら (⻏)
+05cb3
+05cb3
+岳 top block おの (斤) いち (一) end bottom やま (山) SHORT top 丘 bottom やま (山)
+05949
+05949
+奉 top block block top いち (一) bottom block いち (一) だい (大) end end end bottom block stroke ㇐ stroke ㇐ ぼう (丨) end SHORT top 𡗗 bottom block stroke ㇐ stroke ㇐ ぼう (丨) end
+04eab
+04eab
+享 top なべぶた (亠) bottom block くち (口) こ (子) end
+076f2
+076f2
+盲 top かくしがまえ (亡) bottom め (目)
+04f9d
+04f9d
+依 left ひと (亻) right ころも (衣)
+04f73
+04f73
+佳 left ひと (亻) right block top つち (土) bottom つち (土) end SHORT left ひと (亻) right 圭
+04f8d
+04f8d
+侍 left ひと (亻) right block top つち (土) bottom す (寸) end SHORT left ひと (亻) right 寺
+04fae
+04fae
+侮 left ひと (亻) right block top block の (丿) stroke ㇐ end bottom なかれ (毋) end SHORT left ひと (亻) right 毎
+04f75
+04f75
+併 left ひと (亻) right block top block stroke ㇔ stroke ㇒ end bottom block ほし (干) stroke ㇒ end end SHORT left ひと (亻) right 并
+0514d
+0514d
+免 top block block stroke ㇒ stroke ㇇ end stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ end bottom に (儿) SHORT top block 𠂊 stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ end bottom に (儿)
+0523a
+0523a
+刺 left block き (木) まきがまえ (冂) end right かたな (刂) SHORT left 朿 right かたな (刂)
+052be
+052be
+劾 left block top なべぶた (亠) stroke ㇜ stroke ㇒ bottom ひと (人) end right ちから (力) SHORT left 亥 right ちから (力)
+05353
+05353
+卓 top ぼくのと (卜) bottom block top にち (日) bottom じゅう (十) end SHORT top ぼくのと (卜) bottom 早
+053d4
+053d4
+叔 left block top block ぼくのと (卜) いち (一) end bottom ちいさい (小) end right また (又) SHORT left block top 上 bottom ちいさい (小) end right また (又)
+0576a
+0576a
+坪 left つち (土) right block ほし (干) stroke ㇔ stroke ㇒ end SHORT left つち (土) right 平
+05947
+05947
+奇 top だい (大) bottom block block いち (一) end くち (口) end SHORT top だい (大) bottom 可
+05954
+05954
+奔 top だい (大) bottom block top じゅう (十) bottom にじゅうあし (廾) end SHORT top だい (大) bottom 卉
+059d3
+059d3
+姓 left お (女) right うまれる (生)
+05b9c
+05b9c
+宜 top うか (宀) bottom block にく (月) いち (一) end SHORT top うか (宀) bottom 且
+05c1a
+05c1a
+尚 top ちいさい (⺌) bottom block まきがまえ (冂) くち (口) end
+05c48
+05c48
+屈 tare しかばね (尸) tarec block やま (山) うけばこ (凵) end SHORT tare しかばね (尸) tarec 出
+05cac
+05cac
+岬 left やま (山) right block にち (日) ぼう (丨) end SHORT left やま (山) right 甲
+05f26
+05f26
+弦 left ゆみ (弓) right げ (玄)
+05f81
+05f81
+征 left ぎょうに (彳) right block stroke ㇐ とめる (止) end SHORT left ぎょうに (彳) right 正
+05f7c
+05f7c
+彼 left ぎょうに (彳) right けがわ (皮)
+0602a
+0602a
+怪 left りっし (忄) right block top また (又) bottom つち (土) end SHORT left りっし (忄) right 圣
+06016
+06016
+怖 left りっし (忄) right block stroke ㇒ stroke ㇐ はば (巾) end SHORT left りっし (忄) right 布
+080a9
+080a9
+肩 tare とびらのと (戸) tarec にく (月)
+0623f
+0623f
+房 tare とびらのと (戸) tarec ほう (方)
+062bc
+062bc
+押 left て (扌) right block にち (日) ぼう (丨) end SHORT left て (扌) right 甲
+062d0
+062d0
+拐 left て (扌) right block top くち (口) bottom かたな (刀) end
+062d2
+062d2
+拒 left て (扌) right block はこがまえ (匚) に (二) stroke ㇕ stroke ㇐ end SHORT left て (扌) right 巨
+062e0
+062e0
+拠 left て (扌) right block nyo ふゆがしら (夂) nyoc つくえ (几) end SHORT left て (扌) right 処
+062d8
+062d8
+拘 left て (扌) right block つつみがまえ (勹) くち (口) end SHORT left て (扌) right 句
+062d9
+062d9
+拙 left て (扌) right block やま (山) うけばこ (凵) end SHORT left て (扌) right 出
+062d3
+062d3
+拓 left て (扌) right いし (石)
+062bd
+062bd
+抽 left て (扌) right block にち (日) ぼう (丨) end SHORT left て (扌) right 由
+062b5
+062b5
+抵 left て (扌) right block top うじ (氏) bottom いち (一) end SHORT left て (扌) right 氐
+062cd
+062cd
+拍 left て (扌) right しろ (白)
+062ab
+062ab
+披 left て (扌) right けがわ (皮)
+062b1
+062b1
+抱 left て (扌) right block つつみがまえ (勹) おのれ (己) end SHORT left て (扌) right 包
+062b9
+062b9
+抹 left て (扌) right block stroke ㇐ き (木) end SHORT left て (扌) right 末
+06606
+06606
+昆 top にち (日) bottom くらべる (比)
+06607
+06607
+昇 top にち (日) bottom block の (丿) にじゅうあし (廾) end SHORT top にち (日) bottom 升
+067a2
+067a2
+枢 left き (木) right block kamae はこがまえ (匚) block の (丿) stroke ㇔ end end SHORT left き (木) right 区
+06790
+06790
+析 left き (木) right おの (斤)
+0676f
+0676f
+杯 left き (木) right block いち (一) の (丿) ぼう (丨) stroke ㇔ end SHORT left き (木) right 不
+067a0
+067a0
+枠 left き (木) right block top block stroke ㇒ おつ (乙) end bottom じゅう (十) end SHORT left き (木) right 卆
+06b27
+06b27
+欧 left block はこがまえ (匚) block の (丿) stroke ㇔ end end right あくび (欠) SHORT left 区 right あくび (欠)
+080af
+080af
+肯 top とめる (止) bottom にく (月)
+06bb4
+06bb4
+殴 left block はこがまえ (匚) block の (丿) stroke ㇔ end end right ほこつくり (殳) SHORT left 区 right ほこつくり (殳)
+06cc1
+06cc1
+況 left みず (氵) right block top くち (口) bottom に (儿) end SHORT left みず (氵) right 兄
+06cbc
+06cbc
+沼 left みず (氵) right block top かたな (刀) bottom くち (口) end SHORT left みず (氵) right 召
+06ce5
+06ce5
+泥 left みず (氵) right block tare しかばね (尸) tarec さじのひ (匕) end SHORT left みず (氵) right 尼
+06cca
+06cca
+泊 left みず (氵) right しろ (白)
+06ccc
+06ccc
+泌 left みず (氵) right block りっし (心) の (丿) end SHORT left みず (氵) right 必
+06cb8
+06cb8
+沸 left みず (氵) right block ゆみ (弓) の (丿) ぼう (丨) end SHORT left みず (氵) right 弗
+06ce1
+06ce1
+泡 left みず (氵) right block つつみがまえ (勹) おのれ (己) end SHORT left みず (氵) right 包
+0708e
+0708e
+炎 top ひ (火) bottom ひ (火)
+0708a
+0708a
+炊 left ひ (火) right あくび (欠)
+07089
+07089
+炉 left ひ (火) right とびらのと (戸)
+090aa
+090aa
+邪 left きばへ (牙) right むら (⻏)
+07948
+07948
+祈 left しめす (礻) right おの (斤)
+07949
+07949
+祉 left しめす (礻) right とめる (止)
+07a81
+07a81
+突 top あな (穴) bottom だい (大)
+080a2
+080a2
+肢 left にく (月) right しにょう (支)
+080aa
+080aa
+肪 left にく (月) right ほう (方)
+05230
+05230
+到 left いたる (至) right かたな (刂)
+0830e
+0830e
+茎 top くさ (艹) bottom block top また (又) bottom つち (土) end SHORT top くさ (艹) bottom 圣
+082d7
+082d7
+苗 top くさ (艹) bottom た (田)
+08302
+08302
+茂 top くさ (艹) bottom block の (丿) かのほこ (戈) end SHORT top くさ (艹) bottom 戊
+08fed
+08fed
+迭 nyoc block の (丿) block stroke ㇐ だい (大) end end nyo し (⻌) SHORT nyoc 失 nyo し (⻌)
+08feb
+08feb
+迫 nyoc しろ (白) nyo し (⻌)
+090b8
+090b8
+邸 left block top うじ (氏) bottom いち (一) end right むら (⻏) SHORT left 氐 right むら (⻏)
+0963b
+0963b
+阻 left ぎふのふ (⻖) right block にく (月) いち (一) end SHORT left ぎふのふ (⻖) right 且
+09644
+09644
+附 left ぎふのふ (⻖) right block left ひと (亻) right す (寸) end SHORT left ぎふのふ (⻖) right 付
+06589
+06589
+斉 top ぶ (文) bottom block stroke ㇒ に (二) stroke ㇑ end
+0751a
+0751a
+甚 top あまい (甘) bottom block はこがまえ (匚) に (儿) end SHORT top あまい (甘) bottom 匹
+05e25
+05e25
+帥 left block の (丿) stroke ㇑ stroke ㇕ stroke ㇐ stroke ㇕ stroke ㇐ end right はば (巾)
+08877
+08877
+衷 top block ころも (衣) block くち (口) ぼう (丨) end end
+05e7d
+05e7d
+幽 やま (山) いとがしら (幺) いとがしら (幺)
+070ba
+070ba
+為 て (丶) つつみがまえ (勹) stroke ㇕ stroke ㇕ ひ (灬)
+076fe
+076fe
+盾 tare が (厂) じゅう (十) め (目)
+05351
+05351
+卑 top block の (丿) た (田) end bottom block の (丿) じゅう (十) end
+054c0
+054c0
+哀 top ころも (衣) bottom block くち (口) end
+04ead
+04ead
+亭 top なべぶた (亠) bottom block くち (口) end わか (冖) block いち (一) はねぼう (亅) end SHORT top なべぶた (亠) bottom block くち (口) end わか (冖) 丁
+05e1d
+05e1d
+帝 top block なべぶた (亠) stroke ㇔ stroke ㇒ わか (冖) end bottom はば (巾)
+04faf
+04faf
+侯 left ひと (亻) right block top block stroke ㇕ stroke ㇐ end bottom や (矢) end
+04fca
+04fca
+俊 left ひと (亻) right block top block top む (厶) bottom に (儿) end bottom ふゆがしら (夂) end SHORT left ひと (亻) right 夋
+04fb5
+04fb5
+侵 left ひと (亻) right block top けいがしら (⺕) bottom block わか (冖) また (又) end end
+04fc3
+04fc3
+促 left ひと (亻) right あし (足)
+04fd7
+04fd7
+俗 left ひと (亻) right たに (谷)
+076c6
+076c6
+盆 top block top はちがしら (八) bottom かたな (刀) end bottom さら (皿) SHORT top 分 bottom さら (皿)
+051a0
+051a0
+冠 top わか (冖) bottom block nyo block top に (二) bottom block に (儿) end end nyoc す (寸) end SHORT top わか (冖) bottom block nyo 元 nyoc す (寸) end
+0524a
+0524a
+削 left block top ちいさい (⺌) bottom にく (月) end right かたな (刂) SHORT left 肖 right かたな (刂)
+052c5
+052c5
+勅 left block き (木) くち (口) end right ちから (力) SHORT left 束 right ちから (力)
+08c9e
+08c9e
+貞 top ぼくのと (卜) bottom かい (貝)
+05378
+05378
+卸 left block block top block stroke ㇒ ほし (干) end bottom end end right ふしづくり (卩) SHORT left block 午 end right ふしづくり (卩)
+05398
+05398
+厘 tare が (厂) tarec さと (里)
+06020
+06020
+怠 top block top む (厶) bottom くち (口) end bottom りっし (心) SHORT top 台 bottom りっし (心)
+053d9
+053d9
+叙 left block top ひと (人) bottom block stroke ㇐ stroke ㇐ ちいさい (小) end end right また (又) SHORT left 余 right また (又)
+054b2
+054b2
+咲 left くち (口) right block stroke ㇔ stroke ㇒ block stroke ㇐ だい (大) end end SHORT left くち (口) right 关
+057a3
+057a3
+垣 left つち (土) right block top に (二) bottom block top にち (日) bottom に (二) end end SHORT left つち (土) right 亘
+05951
+05951
+契 top block left block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇀ end right かたな (刀) end bottom だい (大) SHORT top block left 龶 right かたな (刀) end bottom だい (大)
+059fb
+059fb
+姻 left お (女) right block くにがまえ (囗) だい (大) end SHORT left お (女) right 因
+05b64
+05b64
+孤 left こ (子) right うり (瓜)
+05c01
+05c01
+封 left block top つち (土) bottom つち (土) end right す (寸) SHORT left 圭 right す (寸)
+05ce1
+05ce1
+峡 left やま (山) right block に (二) block left ひと (人) right ひと (人) end end SHORT left やま (山) right 夹
+05ce0
+05ce0
+峠 left やま (山) right block top block ぼくのと (卜) いち (一) end bottom block いち (一) ぼくのと (卜) end end SHORT left やま (山) right block top 上 bottom 下 end
+05f27
+05f27
+弧 left ゆみ (弓) right うり (瓜)
+06094
+06094
+悔 left りっし (忄) right block top block の (丿) stroke ㇐ end bottom なかれ (毋) end SHORT left りっし (忄) right 毎
+06052
+06052
+恒 left りっし (忄) right block top に (二) bottom block top にち (日) bottom に (二) end end SHORT left りっし (忄) right 亘
+06068
+06068
+恨 left りっし (忄) right うしとら (艮)
+06012
+06012
+怒 top block left お (女) right また (又) end bottom りっし (心) SHORT top 奴 bottom りっし (心)
+05a01
+05a01
+威 block が (厂) かのほこ (戈) end お (女) SHORT 戍 お (女)
+062ec
+062ec
+括 left て (扌) right した (舌)
+0631f
+0631f
+挟 left て (扌) right block に (二) block left ひと (人) right ひと (人) end end SHORT left て (扌) right 夹
+062f7
+062f7
+拷 left て (扌) right block ろう (耂) の (丿) stroke ㇉ end SHORT left て (扌) right 考
+06311
+06311
+挑 left て (扌) right block left block に (儿) にすい (冫) end right block stroke ㇒ stroke ㇔ end end SHORT left て (扌) right 兆
+065bd
+065bd
+施 left ほう (方) right block block stroke ㇒ stroke ㇐ end block stroke ㇆ stroke ㇑ おつ (乙) end end SHORT left ほう (方) right block 𠂉 也 end
+0662f
+0662f
+是 top にち (日) bottom ひき (疋)
+05192
+05192
+冒 top にち (日) bottom め (目)
+067b6
+067b6
+架 top block left ちから (力) right くち (口) end bottom き (木) SHORT top 加 bottom き (木)
+067af
+067af
+枯 left き (木) right block top じゅう (十) bottom くち (口) end SHORT left き (木) right 古
+067c4
+067c4
+柄 left き (木) right block いち (一) block まきがまえ (冂) ひと (人) end end SHORT left き (木) right 丙
+067f3
+067f3
+柳 left き (木) right block left block stroke ㇒ stroke ㇙ の (丿) end right ふしづくり (卩) end SHORT left き (木) right 卯
+07686
+07686
+皆 top くらべる (比) bottom しろ (白)
+06d2a
+06d2a
+洪 left みず (氵) right block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end SHORT left みず (氵) right 共
+06d44
+06d44
+浄 left みず (氵) right block top block stroke ㇒ stroke ㇇ end bottom block けいがしら (⺕) はねぼう (亅) end end SHORT left みず (氵) right 争
+06d25
+06d25
+津 left みず (氵) right ふでづくり (聿)
+06d1e
+06d1e
+洞 left みず (氵) right block まきがまえ (冂) いち (一) くち (口) end SHORT left みず (氵) right 同
+07272
+07272
+牲 left うし (牛) right うまれる (生)
+072ed
+072ed
+狭 left けものへん (⺨) right block に (二) block left ひと (人) right ひと (人) end end SHORT left けものへん (⺨) right 夹
+072e9
+072e9
+狩 left けものへん (⺨) right block top うか (宀) bottom す (寸) end SHORT left けものへん (⺨) right 守
+073cd
+073cd
+珍 left おう (王) right block ひと (人) さ (彡) end
+067d0
+067d0
+某 top あまい (甘) bottom き (木)
+075ab
+075ab
+疫 tare やまいだれ (疒) tarec ほこつくり (殳)
+067d4
+067d4
+柔 top むのほこ (矛) bottom き (木)
+07815
+07815
+砕 left いし (石) right block top block stroke ㇒ おつ (乙) end bottom じゅう (十) end SHORT left いし (石) right 卆
+07a83
+07a83
+窃 top あな (穴) bottom block left block いち (一) stroke ㇟ end right かたな (刀) end SHORT top あな (穴) bottom 切
+07cfe
+07cfe
+糾 left いと (糸) right block stroke ㇑ stroke ㇐ ぼう (丨) end SHORT left いと (糸) right 丩
+08010
+08010
+耐 left しかして (而) right す (寸)
+080ce
+080ce
+胎 left にく (月) right block top む (厶) bottom くち (口) end SHORT left にく (月) right 台
+080c6
+080c6
+胆 left にく (月) right block top にち (日) bottom いち (一) end SHORT left にく (月) right 旦
+080de
+080de
+胞 left にく (月) right block つつみがまえ (勹) おのれ (己) end SHORT left にく (月) right 包
+081ed
+081ed
+臭 top みずから (自) bottom だい (大)
+08352
+08352
+荒 top くさ (艹) bottom block top かくしがまえ (亡) bottom かわ (川) end
+08358
+08358
+荘 top くさ (艹) bottom block left block stroke ㇑ stroke ㇔ stroke ㇀ end right さむらい (士) end SHORT top くさ (艹) bottom 壮
+08650
+08650
+虐 tare とらか (虍) tarec block stroke ㇐ stroke ㇐ stroke ㇗ end
+08a02
+08a02
+訂 left こと (言) right block いち (一) はねぼう (亅) end SHORT left こと (言) right 丁
+08d74
+08d74
+赴 nyo はしる (走) nyoc ぼくのと (卜)
+08ecc
+08ecc
+軌 left くるま (車) right block stroke ㇒ おつ (乙) end SHORT left くるま (車) right 九
+09003
+09003
+逃 nyoc block left block に (儿) にすい (冫) end right block stroke ㇒ stroke ㇔ end end nyo し (⻌) SHORT nyoc 兆 nyo し (⻌)
+090ca
+090ca
+郊 left block top なべぶた (亠) bottom ちち (父) end right むら (⻏) SHORT left 交 right むら (⻏)
+090ce
+090ce
+郎 left block stroke ㇑ うしとら (艮) end right むら (⻏) SHORT left 良 right むら (⻏)
+09999
+09999
+香 においこう (香)
+0525b
+0525b
+剛 left block kamae まきがまえ (冂) stroke ㇔ stroke ㇒ stroke ㇐ やま (山) end right かたな (刂) SHORT left 岡 right かたな (刂)
+08870
+08870
+衰 top ころも (衣) bottom block くち (口) stroke ㇐ end
+0755d
+0755d
+畝 left block top なべぶた (亠) bottom た (田) end right block block の (丿) stroke ㇇ end stroke ㇏ end SHORT left block top なべぶた (亠) bottom た (田) end right 久
+0604b
+0604b
+恋 top block top なべぶた (亠) bottom block の (丿) はねぼう (亅) stroke ㇒ stroke ㇔ end end bottom りっし (心) SHORT top 亦 bottom りっし (心)
+05039
+05039
+倹 left ひと (亻) right block top ひと (人) bottom block いち (一) くち (口) ひと (人) end end SHORT left ひと (亻) right 㑒
+05012
+05012
+倒 left ひと (亻) right block left いたる (至) right かたな (刂) end SHORT left ひと (亻) right 到
+05023
+05023
+倣 left ひと (亻) right block left ほう (方) right のぶ (攵) end SHORT left ひと (亻) right 放
+04ff8
+04ff8
+俸 left ひと (亻) right block top block block top いち (一) bottom block いち (一) だい (大) end end end bottom block stroke ㇐ stroke ㇐ ぼう (丨) end end SHORT left ひと (亻) right 奉
+0502b
+0502b
+倫 left ひと (亻) right block top ひと (人) bottom block いち (一) block まきがまえ (冂) にじゅうあし (廾) end end end SHORT left ひと (亻) right 侖
+07fc1
+07fc1
+翁 top block top はちがしら (八) bottom む (厶) end bottom はね (羽) SHORT top 公 bottom はね (羽)
+0517c
+0517c
+兼 top はちがしら (八) bottom block stroke ㇐ けいがしら (⺕) ぼう (丨) ぼう (丨) stroke ㇒ stroke ㇏ end
+051c6
+051c6
+准 left にすい (冫) right ふるとり (隹)
+051cd
+051cd
+凍 left にすい (冫) right block き (木) にち (日) end SHORT left にすい (冫) right 東
+05263
+05263
+剣 left block top ひと (人) bottom block いち (一) くち (口) ひと (人) end end right かたな (刂) SHORT left 㑒 right かたな (刂)
+05256
+05256
+剖 left block top たつ (立) bottom くち (口) end right かたな (刂) SHORT left 咅 right かたな (刂)
+08105
+08105
+脅 top block top ちから (力) bottom block ちから (力) ちから (力) end end bottom にく (月) SHORT top 劦 bottom にく (月)
+0533f
+0533f
+匿 kamae かくしがまえ (匸) block top くさ (艹) bottom block stroke ㇒ stroke ㇐ くち (口) end end SHORT kamae かくしがまえ (匸) 若
+0683d
+0683d
+栽 kamae block つち (土) end kamaec き (木) kamae SHORT kamae 𢦏 kamaec き (木) kamae 𢦏
+07d22
+07d22
+索 top block じゅう (十) わか (冖) end bottom いと (糸)
+06851
+06851
+桑 top block top block また (又) bottom block left また (又) right また (又) end end end bottom き (木)
+05506
+05506
+唆 left くち (口) right block top block top む (厶) bottom に (儿) end bottom ふゆがしら (夂) end SHORT left くち (口) right 夋
+054f2
+054f2
+哲 top block left て (扌) right おの (斤) end bottom くち (口) SHORT top 折 bottom くち (口)
+057cb
+057cb
+埋 left つち (土) right さと (里)
+05a2f
+05a2f
+娯 left お (女) right block top block くち (口) stroke ㇞ end bottom block stroke ㇐ はちがしら (八) end end SHORT left お (女) right 呉
+05a20
+05a20
+娠 left お (女) right し (辰)
+059eb
+059eb
+姫 left お (女) right し (臣)
+05a18
+05a18
+娘 left お (女) right block stroke ㇑ うしとら (艮) end SHORT left お (女) right 良
+05bb4
+05bb4
+宴 top うか (宀) bottom block にち (日) お (女) end
+05bb0
+05bb0
+宰 top うか (宀) bottom からい (辛)
+05bb5
+05bb5
+宵 top うか (宀) bottom block top ちいさい (⺌) bottom にく (月) end SHORT top うか (宀) bottom 肖
+05cf0
+05cf0
+峰 left やま (山) right block top ふゆがしら (夂) bottom block block top いち (一) bottom block いち (一) いち (一) end end ぼう (丨) end end SHORT left やま (山) right 夆
+08ca2
+08ca2
+貢 top たくみ (工) bottom かい (貝)
+05510
+05510
+唐 tare まだれ (广) tarec block けいがしら (⺕) stroke ㇑ くち (口) end
+05f90
+05f90
+徐 left ぎょうに (彳) right block top ひと (人) bottom block stroke ㇐ stroke ㇐ ちいさい (小) end end SHORT left ぎょうに (彳) right 余
+060a6
+060a6
+悦 left りっし (忄) right block top はちがしら (八) bottom block top くち (口) bottom に (儿) end end SHORT left りっし (忄) right 兌
+06050
+06050
+恐 top block left たくみ (工) right block つくえ (几) て (丶) end end bottom りっし (心) SHORT top block left たくみ (工) right 凡 end bottom りっし (心)
+0606d
+0606d
+恭 top block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end bottom りっし (⺗) SHORT top 共 bottom りっし (⺗)
+06075
+06075
+恵 top block stroke ㇐ block にち (日) ぼう (丨) end end bottom りっし (心) SHORT top block stroke ㇐ 由 end bottom りっし (心)
+0609f
+0609f
+悟 left りっし (忄) right block top block に (二) stroke ㇑ stroke ㇕ end bottom くち (口) end SHORT left りっし (忄) right 吾
+060a9
+060a9
+悩 left りっし (忄) right block top ちいさい (⺍) bottom block block の (丿) stroke ㇔ end kamae うけばこ (凵) end end SHORT left りっし (忄) right block top ちいさい (⺍) bottom 凶 end
+06247
+06247
+扇 tare とびらのと (戸) tarec はね (羽)
+0632f
+0632f
+振 left て (扌) right し (辰)
+0635c
+0635c
+捜 left て (扌) right block top block にち (日) ぼう (丨) end bottom また (又) end SHORT left て (扌) right 叟
+0633f
+0633f
+挿 left て (扌) right block block の (丿) end じゅう (十) にち (日) end SHORT left て (扌) right block 千 じゅう (十) にち (日) end
+06355
+06355
+捕 left て (扌) right block stroke ㇐ もちいる (用) て (丶) end SHORT left て (扌) right 甫
+0654f
+0654f
+敏 left block top block の (丿) stroke ㇐ end bottom なかれ (毋) end right のぶ (攵) SHORT left 毎 right のぶ (攵)
+06838
+06838
+核 left き (木) right block top なべぶた (亠) stroke ㇜ stroke ㇒ bottom ひと (人) end SHORT left き (木) right 亥
+0685f
+0685f
+桟 left き (木) right block block top いち (一) bottom いち (一) かのほこ (戈) end end SHORT left き (木) right 戋
+06813
+06813
+栓 left き (木) right block top ひと (人) bottom おう (王) end SHORT left き (木) right 全
+06843
+06843
+桃 left き (木) right block left block に (儿) にすい (冫) end right block stroke ㇒ stroke ㇔ end end SHORT left き (木) right 兆
+06b8a
+06b8a
+殊 left がつへ (歹) right block stroke ㇒ block stroke ㇐ き (木) end end SHORT left がつへ (歹) right 朱
+06b89
+06b89
+殉 left がつへ (歹) right block つつみがまえ (勹) にち (日) end SHORT left がつへ (歹) right 旬
+06d66
+06d66
+浦 left みず (氵) right block stroke ㇐ もちいる (用) て (丶) end SHORT left みず (氵) right 甫
+06d78
+06d78
+浸 left みず (氵) right block top けいがしら (⺕) bottom block わか (冖) また (又) end end
+06cf0
+06cf0
+泰 top block block top いち (一) bottom block いち (一) だい (大) end end end bottom みず (氺) SHORT top 𡗗 bottom みず (氺)
+06d5c
+06d5c
+浜 left みず (氵) right block top block おの (斤) いち (一) end bottom はちがしら (八) end SHORT left みず (氵) right 兵
+06d6e
+06d6e
+浮 left みず (氵) right block top つめ (⺤) bottom こ (子) end SHORT left みず (氵) right 孚
+06d99
+06d99
+涙 left みず (氵) right block とびらのと (戸) だい (大) end SHORT left みず (氵) right 戻
+06d6a
+06d6a
+浪 left みず (氵) right block stroke ㇑ うしとら (艮) end SHORT left みず (氵) right 良
+070c8
+070c8
+烈 top block left がつへ (歹) right かたな (刂) end bottom ひ (灬) SHORT top 列 bottom ひ (灬)
+0755c
+0755c
+畜 top げ (玄) bottom た (田)
+073e0
+073e0
+珠 left おう (王) right block stroke ㇒ block stroke ㇐ き (木) end end SHORT left おう (王) right 朱
+07554
+07554
+畔 left た (田) right block stroke ㇔ stroke ㇒ に (二) じゅう (十) end SHORT left た (田) right 半
+075be
+075be
+疾 tare やまいだれ (疒) tarec や (矢)
+075c7
+075c7
+症 tare やまいだれ (疒) tarec block stroke ㇐ とめる (止) end SHORT tare やまいだれ (疒) tarec 正
+075b2
+075b2
+疲 tare やまいだれ (疒) tarec けがわ (皮)
+07720
+07720
+眠 left め (目) right block stroke ㇕ うじ (氏) end SHORT left め (目) right 民
+07832
+07832
+砲 left いし (石) right block つつみがまえ (勹) おのれ (己) end SHORT left いし (石) right 包
+07965
+07965
+祥 left しめす (礻) right ひつじ (羊)
+079f0
+079f0
+称 left のぎ (禾) right block top block の (丿) stroke ㇐ end bottom ちいさい (小) end SHORT left のぎ (禾) right 尓
+079df
+079df
+租 left のぎ (禾) right block にく (月) いち (一) end SHORT left のぎ (禾) right 且
+079e9
+079e9
+秩 left のぎ (禾) right block の (丿) block stroke ㇐ だい (大) end end SHORT left のぎ (禾) right 失
+07c8b
+07c8b
+粋 left こめ (米) right block top block stroke ㇒ おつ (乙) end bottom じゅう (十) end SHORT left こめ (米) right 卆
+07d1b
+07d1b
+紛 left いと (糸) right block top はちがしら (八) bottom かたな (刀) end SHORT left いと (糸) right 分
+07d21
+07d21
+紡 left いと (糸) right ほう (方)
+07d0b
+07d0b
+紋 left いと (糸) right ぶ (文)
+08017
+08017
+耗 left らいすき (耒) right け (毛)
+06065
+06065
+恥 left みみ (耳) right りっし (心)
+08102
+08102
+脂 left にく (月) right block top さじのひ (匕) bottom にち (日) end SHORT left にく (月) right 旨
+06715
+06715
+朕 left にく (月) right block stroke ㇔ stroke ㇒ block stroke ㇐ だい (大) end end SHORT left にく (月) right block stroke ㇔ stroke ㇒ 天 end
+080f4
+080f4
+胴 left にく (月) right block まきがまえ (冂) いち (一) くち (口) end SHORT left にく (月) right 同
+081f4
+081f4
+致 left いたる (至) right のぶ (攵)
+0822c
+0822c
+般 left ふね (舟) right ほこつくり (殳)
+065e2
+065e2
+既 left うしとら (艮) right むにょう (旡)
+083ef
+083ef
+華 top くさ (艹) bottom block stroke ㇐ stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ stroke ㇐ ぼう (丨) end
+0868a
+0868a
+蚊 left むし (虫) right ぶ (文)
+088ab
+088ab
+被 left ころも (衤) right けがわ (皮)
+08a17
+08a17
+託 left こと (言) right block の (丿) block いち (一) stroke ㇟ end end SHORT left こと (言) right 乇
+08ed2
+08ed2
+軒 left くるま (車) right ほし (干)
+08fb1
+08fb1
+辱 top し (辰) bottom す (寸)
+05507
+05507
+唇 top し (辰) bottom くち (口)
+0901d
+0901d
+逝 nyoc block left て (扌) right おの (斤) end nyo し (⻌) SHORT nyoc 折 nyo し (⻌)
+09010
+09010
+逐 nyoc いのこ (豕) nyo し (⻌)
+09013
+09013
+逓 nyoc block が (厂) に (二) はば (巾) end nyo し (⻌) SHORT nyoc 乕 nyo し (⻌)
+09014
+09014
+途 nyoc block top ひと (人) bottom block stroke ㇐ stroke ㇐ ちいさい (小) end end nyo し (⻌) SHORT nyoc 余 nyo し (⻌)
+0900f
+0900f
+透 nyoc block top のぎ (禾) bottom block の (丿) stroke ㇡ end end nyo し (⻌) SHORT nyoc 秀 nyo し (⻌)
+0914c
+0914c
+酌 left とり (酉) right block つつみがまえ (勹) て (丶) end SHORT left とり (酉) right 勺
+09665
+09665
+陥 left ぎふのふ (⻖) right block top block stroke ㇒ stroke ㇇ end bottom block left ぼう (丨) right にち (日) end end SHORT left ぎふのふ (⻖) right block top 𠂊 bottom 旧 end
+09663
+09663
+陣 left ぎふのふ (⻖) right くるま (車)
+096bb
+096bb
+隻 top ふるとり (隹) bottom また (又)
+098e2
+098e2
+飢 left しょく (飠) right つくえ (几)
+09b3c
+09b3c
+鬼 おに (鬼)
+05264
+05264
+剤 left block top ぶ (文) bottom block stroke ㇒ に (二) stroke ㇑ end end right かたな (刂) SHORT left 斉 right かたな (刂)
+07adc
+07adc
+竜 りゅう (竜)
+07c9b
+07c9b
+粛 ふでづくり (聿) こめ (米) stroke ㇒ stroke ㇑
+05c09
+05c09
+尉 left block tare しかばね (尸) tarec しめす (示) end right す (寸)
+05f6b
+05f6b
+彫 left block まきがまえ (冂) block さむらい (士) くち (口) end end right さ (彡) SHORT left 周 right さ (彡)
+0507d
+0507d
+偽 left ひと (亻) right block て (丶) つつみがまえ (勹) stroke ㇕ stroke ㇕ ひ (灬) end SHORT left ひと (亻) right 為
+05076
+05076
+偶 left ひと (亻) right block にち (日) ぐうのあし (禸) end SHORT left ひと (亻) right 禺
+05075
+05075
+偵 left ひと (亻) right block top ぼくのと (卜) bottom かい (貝) end SHORT left ひと (亻) right 貞
+0504f
+0504f
+偏 left ひと (亻) right block tare とびらのと (戸) tarec block まきがまえ (冂) にじゅうあし (廾) end end SHORT left ひと (亻) right 扁
+05270
+05270
+剰 left block block の (丿) じゅう (十) end stroke ㇐ stroke ㇑ stroke ㇑ き (木) end right かたな (刂) SHORT left 乗 right かたな (刂)
+052d8
+052d8
+勘 left block top あまい (甘) bottom block はこがまえ (匚) に (儿) end end right ちから (力) SHORT left 甚 right ちから (力)
+04e7e
+04e7e
+乾 left block top じゅう (十) bottom block top にち (日) bottom じゅう (十) end end right block top block stroke ㇒ stroke ㇐ end bottom おつ (乙) end SHORT left 𠦝 right 乞
+0559d
+0559d
+喝 left くち (口) right block top にち (日) bottom block つつみがまえ (勹) end end SHORT left くち (口) right 曷
+05553
+05553
+啓 top block left とびらのと (戸) right のぶ (攵) end bottom くち (口)
+0552f
+0552f
+唯 left くち (口) right ふるとり (隹)
+057f7
+057f7
+執 left block top つち (土) block くさ (䒑) bottom ほし (干) end end right block block stroke ㇒ おつ (乙) end て (丶) end SHORT left 幸 right 丸
+057f9
+057f9
+培 left つち (土) right block top たつ (立) bottom くち (口) end SHORT left つち (土) right 咅
+05800
+05800
+堀 left つち (土) right block tare しかばね (尸) tarec block やま (山) うけばこ (凵) end end SHORT left つち (土) right 屈
+05a5a
+05a5a
+婚 left お (女) right block top うじ (氏) bottom にち (日) end SHORT left お (女) right 昏
+05a46
+05a46
+婆 top block left みず (氵) right けがわ (皮) end bottom お (女) SHORT top 波 bottom お (女)
+05bc2
+05bc2
+寂 top うか (宀) bottom block left block top block ぼくのと (卜) いち (一) end bottom ちいさい (小) end right また (又) end SHORT top うか (宀) bottom 叔
+05d0e
+05d0e
+崎 left やま (山) right block top だい (大) bottom block block いち (一) end くち (口) end end SHORT left やま (山) right 奇
+05d07
+05d07
+崇 top やま (山) bottom block top うか (宀) bottom しめす (示) end SHORT top やま (山) bottom 宗
+05d29
+05d29
+崩 top やま (山) bottom block left にく (月) right にく (月) end SHORT top やま (山) bottom 朋
+05eb6
+05eb6
+庶 tare まだれ (广) tarec block block じゅう (十) stroke ㇑ stroke ㇐ end ひ (灬) end SHORT tare まだれ (广) tarec block 廿 ひ (灬) end
+05eb8
+05eb8
+庸 tare まだれ (广) tarec block けいがしら (⺕) もちいる (用) end
+05f69
+05f69
+彩 left block top つめ (⺤) bottom き (木) end right さ (彡) SHORT left 采 right さ (彡)
+060a3
+060a3
+患 top block くち (口) block くち (口) ぼう (丨) end end bottom りっし (心) SHORT top 串 bottom りっし (心)
+060e8
+060e8
+惨 left りっし (忄) right block top む (厶) bottom block だい (大) さ (彡) end end SHORT left りっし (忄) right 参
+060dc
+060dc
+惜 left りっし (忄) right block top block にじゅうあし (廾) stroke ㇐ end bottom にち (日) end SHORT left りっし (忄) right 昔
+060bc
+060bc
+悼 left りっし (忄) right block top ぼくのと (卜) bottom block top にち (日) bottom じゅう (十) end end SHORT left りっし (忄) right 卓
+060a0
+060a0
+悠 top block left ひと (亻) right block ぼう (丨) のぶ (攵) end end bottom りっし (心) SHORT top 攸 bottom りっし (心)
+0639b
+0639b
+掛 left て (扌) right block left block top つち (土) bottom つち (土) end right ぼくのと (卜) end SHORT left て (扌) right 卦
+06398
+06398
+掘 left て (扌) right block tare しかばね (尸) tarec block やま (山) うけばこ (凵) end end SHORT left て (扌) right 屈
+063b2
+063b2
+掲 left て (扌) right block top にち (日) bottom block つつみがまえ (勹) ひと (人) end end SHORT left て (扌) right 曷
+063a7
+063a7
+控 left て (扌) right block top あな (穴) bottom たくみ (工) end SHORT left て (扌) right 空
+0636e
+0636e
+据 left て (扌) right block tare しかばね (尸) tarec block top じゅう (十) bottom くち (口) end end SHORT left て (扌) right 居
+063aa
+063aa
+措 left て (扌) right block top block にじゅうあし (廾) stroke ㇐ end bottom にち (日) end SHORT left て (扌) right 昔
+06383
+06383
+掃 left て (扌) right block top けいがしら (⺕) bottom block わか (冖) はば (巾) end end SHORT left て (扌) right 帚
+06392
+06392
+排 left て (扌) right あらず (非)
+063cf
+063cf
+描 left て (扌) right block top くさ (艹) bottom た (田) end SHORT left て (扌) right 苗
+0659c
+0659c
+斜 left block top ひと (人) bottom block stroke ㇐ stroke ㇐ ちいさい (小) end end right とます (斗) SHORT left 余 right とます (斗)
+065cb
+065cb
+旋 left ほう (方) right block block stroke ㇒ stroke ㇐ end ひき (疋) end SHORT left ほう (方) right block 𠂉 ひき (疋) end
+066f9
+066f9
+曹 top block stroke ㇐ block にち (日) にじゅうあし (廾) end end bottom にち (日) SHORT top block stroke ㇐ 曲 end bottom にち (日)
+06bbb
+06bbb
+殻 left block top さむらい (士) bottom わか (冖) つくえ (几) end right ほこつくり (殳) SHORT left 壳 right ほこつくり (殳)
+08cab
+08cab
+貫 top なかれ (毋) bottom かい (貝)
+06daf
+06daf
+涯 left みず (氵) right block kamae block が (厂) block top つち (土) bottom つち (土) end end end SHORT left みず (氵) right block kamae 厓 end
+06e07
+06e07
+渇 left みず (氵) right block top にち (日) bottom block つつみがまえ (勹) ひと (人) end end SHORT left みず (氵) right 曷
+06e13
+06e13
+渓 left みず (氵) right block つめ (⺤) block stroke ㇐ だい (大) end end SHORT left みず (氵) right 奚
+06e0b
+06e0b
+渋 left みず (氵) right block top とめる (止) bottom block にすい (冫) stroke ㇒ stroke ㇔ end end
+06dd1
+06dd1
+淑 left みず (氵) right block left block top block ぼくのと (卜) いち (一) end bottom ちいさい (小) end right また (又) end SHORT left みず (氵) right 叔
+06e09
+06e09
+渉 left みず (氵) right block top とめる (止) bottom block ちいさい (小) の (丿) end end SHORT left みず (氵) right 歩
+06de1
+06de1
+淡 left みず (氵) right block top ひ (火) bottom ひ (火) end SHORT left みず (氵) right 炎
+06dfb
+06dfb
+添 left みず (氵) right block top block block block の (丿) だい (大) end end bottom りっし (⺗) end end SHORT left みず (氵) right block top block 忝 bottom りっし (⺗) end end
+06dbc
+06dbc
+涼 left みず (氵) right block top なべぶた (亠) bottom block くち (口) ちいさい (小) end end SHORT left みず (氵) right 京
+0732b
+0732b
+猫 left けものへん (⺨) right block top くさ (艹) bottom た (田) end SHORT left けものへん (⺨) right 苗
+0731b
+0731b
+猛 left けものへん (⺨) right block top こ (子) bottom さら (皿) end SHORT left けものへん (⺨) right 孟
+0731f
+0731f
+猟 left けものへん (⺨) right block ちいさい (⺍) bottom もちいる (用) end SHORT left けものへん (⺨) right 鼡
+074f6
+074f6
+瓶 left block top block stroke ㇔ stroke ㇒ end bottom block ほし (干) stroke ㇒ end end right かわら (瓦) SHORT left 并 right かわら (瓦)
+07d2f
+07d2f
+累 top た (田) bottom いと (糸)
+076d7
+076d7
+盗 top block left にすい (冫) right あくび (欠) end bottom さら (皿) SHORT top 次 bottom さら (皿)
+0773a
+0773a
+眺 left め (目) right block left block に (儿) にすい (冫) end right block stroke ㇒ stroke ㇔ end end SHORT left め (目) right 兆
+07a92
+07a92
+窒 top あな (穴) bottom いたる (至)
+07b26
+07b26
+符 top たけ (竹) bottom block left ひと (亻) right す (寸) end SHORT top たけ (竹) bottom 付
+07c97
+07c97
+粗 left こめ (米) right block にく (月) いち (一) end SHORT left こめ (米) right 且
+07c98
+07c98
+粘 left こめ (米) right block top ぼくのと (卜) bottom くち (口) end SHORT left こめ (米) right 占
+07c92
+07c92
+粒 left こめ (米) right たつ (立)
+07d3a
+07d3a
+紺 left いと (糸) right あまい (甘)
+07d39
+07d39
+紹 left いと (糸) right block top かたな (刀) bottom くち (口) end SHORT left いと (糸) right 召
+07d33
+07d33
+紳 left いと (糸) right block にち (日) ぼう (丨) end SHORT left いと (糸) right 申
+0811a
+0811a
+脚 left にく (月) right block left block top つち (土) bottom む (厶) end right ふしづくり (卩) end SHORT left にく (月) right 却
+08131
+08131
+脱 left にく (月) right block top はちがしら (八) bottom block top くち (口) bottom に (儿) end end SHORT left にく (月) right 兌
+08c5a
+08c5a
+豚 left にく (月) right いのこ (豕)
+08236
+08236
+舶 left ふね (舟) right しろ (白)
+083d3
+083d3
+菓 top くさ (艹) bottom block にち (日) き (木) end SHORT top くさ (艹) bottom 果
+083ca
+083ca
+菊 top くさ (艹) bottom block つつみがまえ (勹) こめ (米) end
+083cc
+083cc
+菌 top くさ (艹) bottom block くにがまえ (囗) のぎ (禾) end
+0865a
+0865a
+虚 tare とらか (虍) tarec block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇐ end SHORT tare とらか (虍) tarec 业
+086cd
+086cd
+蛍 top block ちいさい (⺍) わか (冖) end bottom むし (虫)
+086c7
+086c7
+蛇 left むし (虫) right block top うか (宀) bottom さじのひ (匕) end SHORT left むし (虫) right 它
+0888b
+0888b
+袋 top block left ひと (亻) right しきがまえ (弋) end bottom ころも (衣) SHORT top 代 bottom ころも (衣)
+08a1f
+08a1f
+訟 left こと (言) right block top はちがしら (八) bottom む (厶) end SHORT left こと (言) right 公
+08ca9
+08ca9
+販 left かい (貝) right block が (厂) また (又) end SHORT left かい (貝) right 反
+08d66
+08d66
+赦 left あか (赤) right のぶ (攵)
+08edf
+08edf
+軟 left くるま (車) right あくび (欠)
+09038
+09038
+逸 nyoc block top block block stroke ㇒ stroke ㇇ end stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ end bottom に (儿) end nyo し (⻌) SHORT nyoc 免 nyo し (⻌)
+0902e
+0902e
+逮 nyoc れいづくり (隶) nyo し (⻌)
+090ed
+090ed
+郭 left block top なべぶた (亠) bottom block くち (口) こ (子) end end right むら (⻏) SHORT left 享 right むら (⻏)
+09154
+09154
+酔 left とり (酉) right block top block stroke ㇒ おつ (乙) end bottom じゅう (十) end SHORT left とり (酉) right 卆
+091c8
+091c8
+釈 left のごめ (釆) right block しかばね (尸) end SHORT left のごめ (釆) right 尺
+091e3
+091e3
+釣 left かね (金) right block つつみがまえ (勹) て (丶) end SHORT left かね (金) right 勺
+09670
+09670
+陰 left ぎふのふ (⻖) right block top block top ひと (人) bottom block いち (一) stroke ㇇ end end bottom block top に (二) bottom む (厶) end end SHORT left ぎふのふ (⻖) right block top 今 bottom 云 end
+09673
+09673
+陳 left ぎふのふ (⻖) right block き (木) にち (日) end SHORT left ぎふのふ (⻖) right 東
+09676
+09676
+陶 left ぎふのふ (⻖) right block つつみがまえ (勹) か (缶) end
+0966a
+0966a
+陪 left ぎふのふ (⻖) right block top たつ (立) bottom くち (口) end SHORT left ぎふのふ (⻖) right 咅
+09686
+09686
+隆 left ぎふのふ (⻖) right block top ふゆがしら (夂) bottom うまれる (生) end
+09675
+09675
+陵 left ぎふのふ (⻖) right block つち (土) に (儿) ふゆがしら (夂) end SHORT left ぎふのふ (⻖) right 夌
+09ebb
+09ebb
+麻 あさ (麻)
+0658e
+0658e
+斎 top block top ぶ (文) end bottom block しめす (示) end SHORT top 斉 bottom block しめす (示) end
+055aa
+055aa
+喪 top block じゅう (十) くち (口) くち (口) end bottom ころも (衣)
+05965
+05965
+奥 top block の (丿) まきがまえ (冂) こめ (米) end bottom だい (大)
+086ee
+086ee
+蛮 top block top なべぶた (亠) bottom block の (丿) はねぼう (亅) stroke ㇒ stroke ㇔ end end bottom むし (虫) SHORT top 亦 bottom むし (虫)
+05049
+05049
+偉 left ひと (亻) right なめしがわ (韋)
+05098
+05098
+傘 top ひと (人) bottom block block left ひと (人) right ひと (人) end block left ひと (人) right ひと (人) end じゅう (十) end SHORT top ひと (人) bottom block 从 从 じゅう (十) end
+0508d
+0508d
+傍 left ひと (亻) right block top block たつ (立) わか (冖) end bottom ほう (方) end SHORT left ひと (亻) right 旁
+0666e
+0666e
+普 top block top block はちがしら (八) いち (一) end bottom block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇐ end end bottom にち (日) SHORT top 並 bottom にち (日)
+0559a
+0559a
+喚 left くち (口) right block top block block stroke ㇒ stroke ㇇ end まきがまえ (冂) に (儿) end bottom だい (大) end SHORT left くち (口) right 奐
+055ab
+055ab
+喫 left くち (口) right block top block left block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇀ end right かたな (刀) end bottom だい (大) end SHORT left くち (口) right 契
+0570f
+0570f
+圏 kamae くにがまえ (囗) block top block stroke ㇔ stroke ㇒ に (二) ひと (人) end bottom おのれ (己) end SHORT kamae くにがまえ (囗) 巻
+0582a
+0582a
+堪 left つち (土) right block top あまい (甘) bottom block はこがまえ (匚) に (儿) end end SHORT left つち (土) right 甚
+05805
+05805
+堅 top block left し (臣) right また (又) end bottom つち (土)
+05815
+05815
+堕 top block left ぎふのふ (⻖) right block stroke ㇒ stroke ㇐ にく (月) end end bottom つち (土) SHORT top 陏 bottom つち (土)
+0585a
+0585a
+塚 left つち (土) right block top わか (冖) bottom いのこ (豕) end SHORT left つち (土) right 冢
+05824
+05824
+堤 left つち (土) right block top にち (日) bottom ひき (疋) end SHORT left つち (土) right 是
+05854
+05854
+塔 left つち (土) right block top くさ (艹) bottom block top block ひと (人) いち (一) end bottom くち (口) end end SHORT left つち (土) right 荅
+05840
+05840
+塀 left つち (土) right block tare しかばね (尸) tarec block top block stroke ㇔ stroke ㇒ end bottom block ほし (干) stroke ㇒ end end end SHORT left つち (土) right 屏
+05a92
+05a92
+媒 left お (女) right block top あまい (甘) bottom き (木) end SHORT left お (女) right 某
+05a7f
+05a7f
+婿 left お (女) right block top ひき (疋) bottom にく (月) end SHORT left お (女) right 胥
+0638c
+0638c
+掌 top block top ちいさい (⺌) bottom block まきがまえ (冂) くち (口) end end bottom て (手) SHORT top 尚 bottom て (手)
+09805
+09805
+項 left たくみ (工) right おおがい (頁)
+05e45
+05e45
+幅 left はば (巾) right block いち (一) くち (口) た (田) end SHORT left はば (巾) right 畐
+05e3d
+05e3d
+帽 left はば (巾) right block top にち (日) bottom め (目) end SHORT left はば (巾) right 冒
+05e7e
+05e7e
+幾 いとがしら (幺) いとがしら (幺) block かのほこ (戈) ひと (人) end SHORT いとがしら (幺) いとがしら (幺) 戍
+05ec3
+05ec3
+廃 tare まだれ (广) tarec block top はつがしら (癶) bottom block に (二) に (儿) end end SHORT tare まだれ (广) tarec 発
+05eca
+05eca
+廊 tare まだれ (广) tarec block left block stroke ㇑ うしとら (艮) end right むら (⻏) end SHORT tare まだれ (广) tarec 郎
+05f3e
+05f3e
+弾 left ゆみ (弓) right block top ちいさい (⺍) bottom block にち (日) いち (一) end end SHORT left ゆみ (弓) right 単
+05c0b
+05c0b
+尋 top block top けいがしら (⺕) bottom block left たくみ (工) right くち (口) end end bottom す (寸)
+05fa1
+05fa1
+御 left ぎょうに (彳) right block left block block top block stroke ㇒ ほし (干) end bottom end end right ふしづくり (卩) end SHORT left ぎょうに (彳) right 卸
+05faa
+05faa
+循 left ぎょうに (彳) right block kamae が (厂) じゅう (十) め (目) end SHORT left ぎょうに (彳) right 盾
+0614c
+0614c
+慌 left りっし (忄) right block top くさ (艹) bottom block top かくしがまえ (亡) bottom かわ (川) end end SHORT left りっし (忄) right 荒
+060f0
+060f0
+惰 left りっし (忄) right block top block kamae block stroke ㇐ stroke ㇒ end たくみ (工) end bottom にく (月) end SHORT left りっし (忄) right block top 左 bottom にく (月) end
+06109
+06109
+愉 left りっし (忄) right block top いる (入) bottom block いち (一) にく (月) かたな (刂) end end SHORT left りっし (忄) right 兪
+060d1
+060d1
+惑 top block かのほこ (戈) くち (口) いち (一) end bottom りっし (心) SHORT top 或 bottom りっし (心)
+096c7
+096c7
+雇 tare とびらのと (戸) tarec ふるとり (隹)
+06249
+06249
+扉 tare とびらのと (戸) tarec あらず (非)
+063e1
+063e1
+握 left て (扌) right block tare しかばね (尸) tarec いたる (至) end SHORT left て (扌) right 屋
+063f4
+063f4
+援 left て (扌) right block top つめ (⺤) bottom block stroke ㇐ block stroke ㇐ stroke ㇒ また (又) end end end SHORT left て (扌) right 爰
+063db
+063db
+換 left て (扌) right block top block block stroke ㇒ stroke ㇇ end まきがまえ (冂) に (儿) end bottom だい (大) end SHORT left て (扌) right 奐
+0642d
+0642d
+搭 left て (扌) right block top くさ (艹) bottom block top block ひと (人) いち (一) end bottom くち (口) end end SHORT left て (扌) right 荅
+063da
+063da
+揚 left て (扌) right block top block にち (日) いち (一) end bottom block つつみがまえ (勹) stroke ㇒ stroke ㇒ end end SHORT left て (扌) right 昜
+063fa
+063fa
+揺 left て (扌) right block top つめ (⺤) bottom か (缶) end SHORT left て (扌) right 䍃
+06562
+06562
+敢 left block stroke ㇐ stroke ㇑ みみ (耳) end right のぶ (攵)
+06681
+06681
+暁 left にち (日) right block top block top じゅう (十) bottom にじゅうあし (廾) end bottom block block いち (一) end に (儿) end end SHORT left にち (日) right 尭
+06676
+06676
+晶 top にち (日) bottom block left にち (日) right にち (日) end
+066ff
+066ff
+替 top block left block stroke ㇐ だい (大) end right block stroke ㇐ だい (大) end end bottom にち (日) SHORT top block left 夫 right 夫 end bottom にち (日)
+068fa
+068fa
+棺 left き (木) right block top うか (宀) bottom block くち (口) stroke ㇕ stroke ㇐ end end SHORT left き (木) right 官
+068cb
+068cb
+棋 left き (木) right block top block あまい (甘) stroke ㇐ end bottom はちがしら (八) end SHORT left き (木) right 其
+068da
+068da
+棚 left き (木) right block にく (月) にく (月) end SHORT left き (木) right 朋
+068df
+068df
+棟 left き (木) right block き (木) にち (日) end SHORT left き (木) right 東
+06b3e
+06b3e
+款 left block top さむらい (士) bottom しめす (示) end right あくび (欠)
+06b3a
+06b3a
+欺 left block top block あまい (甘) stroke ㇐ end bottom はちがしら (八) end right あくび (欠) SHORT left 其 right あくび (欠)
+06b96
+06b96
+殖 left がつへ (歹) right block じゅう (十) め (目) stroke ㇗ end SHORT left がつへ (歹) right 直
+06e26
+06e26
+渦 left みず (氵) right block stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ まきがまえ (冂) くち (口) end SHORT left みず (氵) right 咼
+06ecb
+06ecb
+滋 left みず (氵) right block top くさ (艹) bottom block right げ (玄) end end SHORT left みず (氵) right 兹
+06e7f
+06e7f
+湿 left みず (氵) right block top にち (日) bottom block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇐ end end SHORT left みず (氵) right block top にち (日) bottom 业 end
+06e21
+06e21
+渡 left みず (氵) right block tare まだれ (广) tarec block block じゅう (十) stroke ㇑ stroke ㇐ end また (又) end end SHORT left みず (氵) right 度
+06e7e
+06e7e
+湾 left みず (氵) right block top block top なべぶた (亠) bottom block の (丿) はねぼう (亅) stroke ㇒ stroke ㇔ end end bottom ゆみ (弓) end SHORT left みず (氵) right 弯
+0716e
+0716e
+煮 top block ろう (耂) にち (日) end bottom ひ (灬) SHORT top 者 bottom ひ (灬)
+07336
+07336
+猶 left けものへん (⺨) right block top はちがしら (八) bottom とり (酉) end SHORT left けものへん (⺨) right 酋
+07434
+07434
+琴 top block left おう (王) right おう (王) end bottom block top ひと (人) bottom block いち (一) stroke ㇇ end end SHORT top block left おう (王) right おう (王) end bottom 今
+07573
+07573
+畳 top た (田) bottom block わか (冖) block にく (月) いち (一) end end SHORT top た (田) bottom block わか (冖) 且 end
+05841
+05841
+塁 top block た (田) にすい (冫) stroke ㇒ stroke ㇔ end bottom つち (土)
+0758e
+0758e
+疎 left ひき (疋) right block き (木) くち (口) end SHORT left ひき (疋) right 束
+075d8
+075d8
+痘 tare やまいだれ (疒) tarec まめ (豆)
+075e2
+075e2
+痢 tare やまいだれ (疒) tarec block left のぎ (禾) right かたな (刂) end SHORT tare やまいだれ (疒) tarec 利
+0786c
+0786c
+硬 left いし (石) right block stroke ㇐ にち (日) block の (丿) stroke ㇏ end end SHORT left いし (石) right 更
+0785d
+0785d
+硝 left いし (石) right block top ちいさい (⺌) bottom にく (月) end SHORT left いし (石) right 肖
+0786b
+0786b
+硫 left いし (石) right block top block なべぶた (亠) む (厶) end bottom かわ (川) end SHORT left いし (石) right 㐬
+07b52
+07b52
+筒 top たけ (竹) bottom block まきがまえ (冂) いち (一) くち (口) end SHORT top たけ (竹) bottom 同
+07ca7
+07ca7
+粧 left こめ (米) right block tare まだれ (广) tarec つち (土) end SHORT left こめ (米) right 庄
+07d5e
+07d5e
+絞 left いと (糸) right block top なべぶた (亠) bottom ちち (父) end SHORT left いと (糸) right 交
+07d2b
+07d2b
+紫 top block left とめる (止) right さじのひ (匕) end bottom いと (糸) SHORT top 此 bottom いと (糸)
+07d61
+07d61
+絡 left いと (糸) right block top ふゆがしら (夂) bottom くち (口) end SHORT left いと (糸) right 各
+08139
+08139
+脹 left にく (月) right ながい (長)
+08155
+08155
+腕 left にく (月) right block top うか (宀) bottom block left ゆうべ (夕) right ふしづくり (卩) end end SHORT left にく (月) right 宛
+0846c
+0846c
+葬 top くさ (艹) bottom block block がつへ (歹) さじのひ (匕) end にじゅうあし (廾) end SHORT top くさ (艹) bottom block 死 にじゅうあし (廾) end
+052df
+052df
+募 top block top くさ (艹) bottom block にち (日) だい (大) end end bottom ちから (力) SHORT top 莫 bottom ちから (力)
+088d5
+088d5
+裕 left ころも (衤) right たに (谷)
+088c2
+088c2
+裂 top block left がつへ (歹) right かたな (刂) end bottom ころも (衣) SHORT top 列 bottom ころも (衣)
+08a60
+08a60
+詠 left こと (言) right block top て (丶) bottom みず (水) end SHORT left こと (言) right 永
+08a50
+08a50
+詐 left こと (言) right block の (丿) stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end SHORT left こと (言) right 乍
+08a54
+08a54
+詔 left こと (言) right block top かたな (刀) bottom くち (口) end SHORT left こと (言) right 召
+08a3a
+08a3a
+診 left こと (言) right block ひと (人) さ (彡) end
+08a34
+08a34
+訴 left こと (言) right block おの (斤) て (丶) end SHORT left こと (言) right 斥
+08d8a
+08d8a
+越 nyo はしる (走) nyoc block が (厂) かのほこ (戈) end SHORT nyo はしる (走) nyoc 戉
+08d85
+08d85
+超 nyo はしる (走) nyoc block top かたな (刀) bottom くち (口) end SHORT nyo はしる (走) nyoc 召
+08ddd
+08ddd
+距 left あし (足) right block はこがまえ (匚) に (二) stroke ㇕ stroke ㇐ end SHORT left あし (足) right 巨
+08ef8
+08ef8
+軸 left くるま (車) right block にち (日) ぼう (丨) end SHORT left くるま (車) right 由
+09047
+09047
+遇 nyoc block にち (日) ぐうのあし (禸) end nyo し (⻌) SHORT nyoc 禺 nyo し (⻌)
+09042
+09042
+遂 nyoc block stroke ㇔ stroke ㇒ いのこ (豕) end nyo し (⻌)
+09045
+09045
+遅 nyoc block しかばね (尸) ひつじ (羊) end nyo し (⻌)
+0904d
+0904d
+遍 nyoc block tare とびらのと (戸) tarec block まきがまえ (冂) にじゅうあし (廾) end end nyo し (⻌) SHORT nyoc 扁 nyo し (⻌)
+09162
+09162
+酢 left とり (酉) right block の (丿) stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end SHORT left とり (酉) right 乍
+0920d
+0920d
+鈍 left かね (金) right block の (丿) てつ (屮) end SHORT left かね (金) right 屯
+09591
+09591
+閑 kamae も (門) き (木)
+09685
+09685
+隅 left ぎふのふ (⻖) right block にち (日) ぐうのあし (禸) end SHORT left ぎふのふ (⻖) right 禺
+0968f
+0968f
+随 left block ぎふのふ (⻖) end right block し (⻌) end SHORT left 陏 right block し (⻌) end
+07126
+07126
+焦 top ふるとり (隹) bottom ひ (灬)
+096c4
+096c4
+雄 left block stroke ㇐ の (丿) む (厶) end right ふるとり (隹) SHORT left 厷 right ふるとり (隹)
+096f0
+096f0
+雰 top あめ (雨) bottom block top はちがしら (八) bottom かたな (刀) end SHORT top あめ (雨) bottom 分
+06bbf
+06bbf
+殿 left block tare しかばね (尸) tarec block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end end right ほこつくり (殳) SHORT left block tare しかばね (尸) tarec 共 end right ほこつくり (殳)
+068c4
+068c4
+棄 top block top block なべぶた (亠) む (厶) block block にじゅうあし (廾) end end end end bottom き (木) SHORT top block top block なべぶた (亠) む (厶) 丗 end end bottom き (木)
+050be
+050be
+傾 left ひと (亻) right block left さじのひ (匕) right おおがい (頁) end SHORT left ひと (亻) right 頃
+05091
+05091
+傑 left ひと (亻) right block top ます (舛) bottom き (木) end SHORT left ひと (亻) right 桀
+050b5
+050b5
+債 left ひと (亻) right block top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end bottom かい (貝) end SHORT left ひと (亻) right 責
+050ac
+050ac
+催 left ひと (亻) right block top やま (山) bottom ふるとり (隹) end SHORT left ひと (亻) right 崔
+050e7
+050e7
+僧 left ひと (亻) right block top block stroke ㇔ stroke ㇒ た (田) end bottom にち (日) end SHORT left ひと (亻) right 曽
+06148
+06148
+慈 top block top くさ (艹) bottom block right げ (玄) end end bottom りっし (心) SHORT top 兹 bottom りっし (心)
+052e7
+052e7
+勧 left block block stroke ㇒ stroke ㇐ end stroke ㇐ ふるとり (隹) end right ちから (力) SHORT left block 𠂉 stroke ㇐ ふるとり (隹) end right ちから (力)
+08f09
+08f09
+載 kamae block つち (土) end kamaec くるま (車) kamae SHORT kamae 𢦏 kamaec くるま (車) kamae 𢦏
+055e3
+055e3
+嗣 left block top くち (口) bottom block まきがまえ (冂) じゅう (十) にじゅうあし (廾) end end right block stroke ㇆ いち (一) くち (口) end SHORT left block top くち (口) bottom 冊 end right 司
+05606
+05606
+嘆 left くち (口) right block くさ (艹) くち (口) block stroke ㇐ だい (大) end end SHORT left くち (口) right block くさ (艹) くち (口) 夫 end
+0584a
+0584a
+塊 left つち (土) right おに (鬼)
+05851
+05851
+塑 top block left block stroke ㇔ stroke ㇒ stroke ㇐ てつ (屮) end right にく (月) end bottom つち (土) SHORT top 朔 bottom つち (土)
+05857
+05857
+塗 top block left みず (氵) right block top ひと (人) bottom block stroke ㇐ stroke ㇐ ちいさい (小) end end end bottom つち (土) SHORT top 涂 bottom つち (土)
+05968
+05968
+奨 top block left block stroke ㇑ stroke ㇔ stroke ㇀ end right block top つめ (⺤) bottom す (寸) end end bottom だい (大) SHORT top 将 bottom だい (大)
+05ac1
+05ac1
+嫁 left お (女) right block top うか (宀) bottom いのこ (豕) end SHORT left お (女) right 家
+05acc
+05acc
+嫌 left お (女) right block top はちがしら (八) bottom block stroke ㇐ けいがしら (⺕) ぼう (丨) ぼう (丨) stroke ㇒ stroke ㇏ end end SHORT left お (女) right 兼
+05bdb
+05bdb
+寛 top うか (宀) bottom block くさ (艹) みる (見) end SHORT top うか (宀) bottom 莧
+05bdd
+05bdd
+寝 top うか (宀) bottom block left block stroke ㇑ stroke ㇔ stroke ㇀ end right block top けいがしら (⺕) bottom block わか (冖) また (又) end end end SHORT top うか (宀) bottom block left ⺦ right block top けいがしら (⺕) bottom block わか (冖) また (又) end end end
+05ec9
+05ec9
+廉 tare まだれ (广) tarec block top はちがしら (八) bottom block stroke ㇐ けいがしら (⺕) ぼう (丨) ぼう (丨) stroke ㇒ stroke ㇏ end end SHORT tare まだれ (广) tarec 兼
+05fae
+05fae
+微 left ぎょうに (彳) right block left block top やま (山) bottom block いち (一) に (儿) end end right のぶ (攵) end SHORT left ぎょうに (彳) right block left block top やま (山) bottom 兀 end right のぶ (攵) end
+06168
+06168
+慨 left りっし (忄) right block left うしとら (艮) right むにょう (旡) end SHORT left りっし (忄) right 既
+0611a
+0611a
+愚 top block にち (日) ぐうのあし (禸) end bottom りっし (心) SHORT top 禺 bottom りっし (心)
+06101
+06101
+愁 top block left のぎ (禾) right ひ (火) end bottom りっし (心) SHORT top 秋 bottom りっし (心)
+0614e
+0614e
+慎 left りっし (忄) right block top じゅう (十) bottom block top め (目) bottom block stroke ㇐ はちがしら (八) end end end SHORT left りっし (忄) right 真
+0643a
+0643a
+携 left て (扌) right block top ふるとり (隹) bottom block の (丿) stroke ㇡ end end SHORT left て (扌) right 隽
+0643e
+0643e
+搾 left て (扌) right block top あな (穴) bottom block の (丿) stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end end SHORT left て (扌) right 窄
+06442
+06442
+摂 left て (扌) right block block top みみ (耳) end bottom block にすい (冫) stroke ㇒ stroke ㇔ end end
+0642c
+0642c
+搬 left て (扌) right block left ふね (舟) right ほこつくり (殳) end SHORT left て (扌) right 般
+06687
+06687
+暇 left にち (日) right block stroke ㇕ stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ stroke ㇕ stroke ㇐ また (又) end SHORT left にち (日) right 叚
+0697c
+0697c
+楼 left き (木) right block top こめ (米) bottom お (女) end SHORT left き (木) right 娄
+06b73
+06b73
+歳 top とめる (止) bottom block が (厂) いち (一) ちいさい (小) end SHORT top とめる (止) bottom 戌
+06ed1
+06ed1
+滑 left みず (氵) right ほね (骨)
+06e9d
+06e9d
+溝 left みず (氵) right block top block いち (一) stroke ㇑ stroke ㇑ end end SHORT left みず (氵) right 冓
+06ede
+06ede
+滞 left みず (氵) right block top block block にじゅうあし (廾) end end bottom block わか (冖) はば (巾) end end SHORT left みず (氵) right 帯
+06edd
+06edd
+滝 left みず (氵) right りゅう (竜)
+06f20
+06f20
+漠 left みず (氵) right block top くさ (艹) bottom block にち (日) だい (大) end end SHORT left みず (氵) right 莫
+06ec5
+06ec5
+滅 left みず (氵) right block block が (厂) かのほこ (戈) いち (一) end ひ (火) end SHORT left みず (氵) right block 戌 ひ (火) end
+06eb6
+06eb6
+溶 left みず (氵) right block top うか (宀) bottom たに (谷) end SHORT left みず (氵) right 容
+07159
+07159
+煙 left ひ (火) right block top にし (覀) bottom つち (土) end SHORT left ひ (火) right 垔
+07169
+07169
+煩 left ひ (火) right おおがい (頁)
+096c5
+096c5
+雅 left きばへ (牙) right ふるとり (隹)
+0733f
+0733f
+猿 left けものへん (⺨) right block top つち (土) bottom block くち (口) end end SHORT left けものへん (⺨) right 袁
+0732e
+0732e
+献 left block top じゅう (十) bottom block まきがまえ (冂) stroke ㇔ stroke ㇒ ほし (干) end end right いぬ (犬) SHORT left 南 right いぬ (犬)
+075f4
+075f4
+痴 tare やまいだれ (疒) tarec block left や (矢) right くち (口) end SHORT tare やまいだれ (疒) tarec 知
+07761
+07761
+睡 left め (目) right block block の (丿) じゅう (十) end stroke ㇐ stroke ㇑ stroke ㇑ つち (土) end SHORT left め (目) right 垂
+07763
+07763
+督 top block left block top block ぼくのと (卜) いち (一) end bottom ちいさい (小) end right また (又) end bottom め (目) SHORT top 叔 bottom め (目)
+07881
+07881
+碁 top block top block あまい (甘) stroke ㇐ end bottom はちがしら (八) end bottom いし (石) SHORT top 其 bottom いし (石)
+0798d
+0798d
+禍 left しめす (礻) right block stroke ㇑ stroke ㇕ stroke ㇑ stroke ㇐ まきがまえ (冂) くち (口) end SHORT left しめす (礻) right 咼
+07985
+07985
+禅 left しめす (礻) right block top ちいさい (⺍) bottom block にち (日) いち (一) end end SHORT left しめす (礻) right 単
+07a1a
+07a1a
+稚 left のぎ (禾) right ふるとり (隹)
+07d99
+07d99
+継 left いと (糸) right block こめ (米) stroke ㇗ end
+08170
+08170
+腰 left にく (月) right block top にし (覀) bottom お (女) end SHORT left にく (月) right 要
+08247
+08247
+艇 left ふね (舟) right block nyoc block の (丿) さむらい (士) end nyo い (廴) end SHORT left ふね (舟) right 廷
+084c4
+084c4
+蓄 top くさ (艹) bottom block top げ (玄) bottom た (田) end SHORT top くさ (艹) bottom 畜
+0865e
+0865e
+虞 tare とらか (虍) tarec block top block くち (口) stroke ㇞ end bottom block stroke ㇐ はちがしら (八) end end SHORT tare とらか (虍) tarec 呉
+0865c
+0865c
+虜 tare とらか (虍) tarec block top た (田) bottom ちから (力) end SHORT tare とらか (虍) tarec 男
+08910
+08910
+褐 left ころも (衤) right block top にち (日) bottom block つつみがまえ (勹) ひと (人) end end SHORT left ころも (衤) right 曷
+088f8
+088f8
+裸 left ころも (衤) right block にち (日) き (木) end SHORT left ころも (衤) right 果
+089e6
+089e6
+触 left つの (角) right むし (虫)
+08a72
+08a72
+該 left こと (言) right block top なべぶた (亠) stroke ㇜ stroke ㇒ bottom ひと (人) end SHORT left こと (言) right 亥
+08a70
+08a70
+詰 left こと (言) right block top さむらい (士) bottom くち (口) end SHORT left こと (言) right 吉
+08a87
+08a87
+誇 left こと (言) right block top だい (大) bottom block に (二) stroke ㇉ end end SHORT left こと (言) right 夸
+08a73
+08a73
+詳 left こと (言) right ひつじ (羊)
+08a89
+08a89
+誉 top block ちいさい (⺍) stroke ㇐ はちがしら (八) end bottom こと (言)
+08cca
+08cca
+賊 left かい (貝) right block かのほこ (戈) じゅう (十) end SHORT left かい (貝) right 戎
+08cc4
+08cc4
+賄 left かい (貝) right block stroke ㇒ stroke ㇐ にく (月) end SHORT left かい (貝) right 有
+08de1
+08de1
+跡 left あし (足) right block top なべぶた (亠) bottom block の (丿) はねぼう (亅) stroke ㇒ stroke ㇔ end end SHORT left あし (足) right 亦
+08df5
+08df5
+践 left あし (足) right block block top いち (一) bottom いち (一) かのほこ (戈) end end SHORT left あし (足) right 戋
+08df3
+08df3
+跳 left あし (足) right block left block に (儿) にすい (冫) end right block stroke ㇒ stroke ㇔ end end SHORT left あし (足) right 兆
+08f03
+08f03
+較 left くるま (車) right block top なべぶた (亠) bottom ちち (父) end SHORT left くるま (車) right 交
+09055
+09055
+違 nyoc なめしがわ (韋) nyo し (⻌)
+09063
+09063
+遣 nyoc block block くち (口) ぼう (丨) end stroke ㇐ stroke ㇑ stroke ㇕ stroke ㇐ stroke ㇕ stroke ㇐ end nyo し (⻌) SHORT nyoc block 中 stroke ㇐ stroke ㇑ stroke ㇕ stroke ㇐ stroke ㇕ stroke ㇐ end nyo し (⻌)
+0916c
+0916c
+酬 left とり (酉) right block て (丶) かわ (川) て (丶) て (丶) end SHORT left とり (酉) right 州
+0916a
+0916a
+酪 left とり (酉) right block top ふゆがしら (夂) bottom くち (口) end SHORT left とり (酉) right 各
+0925b
+0925b
+鉛 left かね (金) right block top はちがしら (八) bottom くち (口) end SHORT left かね (金) right 㕣
+09262
+09262
+鉢 left かね (金) right block き (木) stroke ㇐ end SHORT left かね (金) right 本
+09234
+09234
+鈴 left かね (金) right block top ひと (人) bottom block いち (一) block stroke ㇇ stroke ㇔ end end end SHORT left かね (金) right 令
+09694
+09694
+隔 left ぎふのふ (⻖) right かなえ (鬲)
+096f7
+096f7
+雷 top あめ (雨) bottom た (田)
+096f6
+096f6
+零 top あめ (雨) bottom block top ひと (人) bottom block いち (一) block stroke ㇇ stroke ㇔ end end end SHORT top あめ (雨) bottom 令
+09774
+09774
+靴 left かくのかわ (革) right block left ひと (亻) right さじのひ (匕) end SHORT left かくのかわ (革) right 化
+09811
+09811
+頑 left block top に (二) bottom に (儿) end right おおがい (頁) SHORT left 元 right おおがい (頁)
+09812
+09812
+頒 left block top はちがしら (八) bottom かたな (刀) end right おおがい (頁) SHORT left 分 right おおがい (頁)
+098fe
+098fe
+飾 left しょく (飠) right block block stroke ㇒ stroke ㇐ end はば (巾) end SHORT left しょく (飠) right block 𠂉 はば (巾) end
+098fd
+098fd
+飽 left しょく (飠) right block つつみがまえ (勹) おのれ (己) end SHORT left しょく (飠) right 包
+09f13
+09f13
+鼓 つづみ (鼓)
+08c6a
+08c6a
+豪 top block なべぶた (亠) くち (口) わか (冖) end bottom いのこ (豕)
+050d5
+050d5
+僕 left ひと (亻) right block block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇐ end stroke ㇔ stroke ㇒ block top いち (一) bottom block いち (一) いち (一) end end ひと (人) end SHORT left ひと (亻) right 菐
+050da
+050da
+僚 left ひと (亻) right block だい (大) stroke ㇔ stroke ㇒ にち (日) ちいさい (小) end
+066a6
+066a6
+暦 tare が (厂) tarec block top block left き (木) right き (木) end bottom にち (日) end SHORT tare が (厂) tarec block top 林 bottom にち (日) end
+0587e
+0587e
+塾 top block left block top なべぶた (亠) bottom block くち (口) こ (子) end end right block block stroke ㇒ おつ (乙) end て (丶) end end bottom つち (土) SHORT top 孰 bottom つち (土)
+0596a
+0596a
+奪 top だい (大) bottom block top ふるとり (隹) bottom す (寸) end
+05ae1
+05ae1
+嫡 left お (女) right block なべぶた (亠) stroke ㇔ stroke ㇒ まきがまえ (冂) block top じゅう (十) bottom くち (口) end end SHORT left お (女) right 啇
+05be1
+05be1
+寡 top うか (宀) bottom block stroke ㇐ みずから (自) block top はちがしら (八) bottom かたな (刀) end end SHORT top うか (宀) bottom block stroke ㇐ みずから (自) 分 end
+05be7
+05be7
+寧 top block うか (宀) りっし (心) あみがしら (罒) end bottom block いち (一) はねぼう (亅) end SHORT top 寍 bottom 丁
+08150
+08150
+腐 tare block tare まだれ (广) block left ひと (亻) right す (寸) end end tarec にく (肉) SHORT tare 府 tarec にく (肉)
+05f70
+05f70
+彰 left block top たつ (立) bottom block にち (日) じゅう (十) end end right さ (彡) SHORT left 章 right さ (彡)
+05fb4
+05fb4
+徴 left ぎょうに (彳) right block left block top やま (山) bottom おう (王) end right のぶ (攵) end
+0618e
+0618e
+憎 left りっし (忄) right block top block stroke ㇔ stroke ㇒ た (田) end bottom にち (日) end SHORT left りっし (忄) right 曽
+06162
+06162
+慢 left りっし (忄) right block top にち (日) bottom block あみがしら (罒) また (又) end end SHORT left りっし (忄) right 曼
+06458
+06458
+摘 left て (扌) right block なべぶた (亠) stroke ㇔ stroke ㇒ まきがまえ (冂) block top じゅう (十) bottom くち (口) end end SHORT left て (扌) right 啇
+06982
+06982
+概 left き (木) right block left うしとら (艮) right むにょう (旡) end SHORT left き (木) right 既
+096cc
+096cc
+雌 left block left とめる (止) right さじのひ (匕) end right ふるとり (隹) SHORT left 此 right ふるとり (隹)
+06f06
+06f06
+漆 left みず (氵) right block top block き (木) stroke ㇒ stroke ㇏ end bottom みず (氺) end SHORT left みず (氵) right 桼
+06f38
+06f38
+漸 left みず (氵) right block left くるま (車) right おの (斤) end SHORT left みず (氵) right 斬
+06f2c
+06f2c
+漬 left みず (氵) right block top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end bottom かい (貝) end SHORT left みず (氵) right 責
+06ef4
+06ef4
+滴 left みず (氵) right block なべぶた (亠) stroke ㇔ stroke ㇒ まきがまえ (冂) block top じゅう (十) bottom くち (口) end end SHORT left みず (氵) right 啇
+06f02
+06f02
+漂 left みず (氵) right block top にし (覀) bottom しめす (示) end SHORT left みず (氵) right 票
+06f2b
+06f2b
+漫 left みず (氵) right block top にち (日) bottom block あみがしら (罒) また (又) end end SHORT left みず (氵) right 曼
+06f0f
+06f0f
+漏 left みず (氵) block block tare しかばね (尸) tarec あめ (雨) end end
+07344
+07344
+獄 left けものへん (⺨) right block left こと (言) right いぬ (犬) end
+07891
+07891
+碑 left いし (石) right block top block の (丿) た (田) end bottom block の (丿) じゅう (十) end end SHORT left いし (石) right 卑
+07a32
+07a32
+稲 left のぎ (禾) right block つめ (⺤) block left ぼう (丨) right にち (日) end end SHORT left のぎ (禾) right block つめ (⺤) 旧 end
+07aef
+07aef
+端 left たつ (立) right block top やま (山) bottom しかして (而) end SHORT left たつ (立) right 耑
+07b87
+07b87
+箇 top たけ (竹) bottom block くにがまえ (囗) block top じゅう (十) bottom くち (口) end end SHORT top たけ (竹) bottom 固
+07dad
+07dad
+維 left いと (糸) right ふるとり (隹)
+07db1
+07db1
+綱 left いと (糸) right block kamae まきがまえ (冂) stroke ㇔ stroke ㇒ stroke ㇐ やま (山) end SHORT left いと (糸) right 岡
+07dd2
+07dd2
+緒 left いと (糸) right block ろう (耂) にち (日) end SHORT left いと (糸) right 者
+07db2
+07db2
+網 left いと (糸) right block kamae あみがしら (罒) かくしがまえ (亡) end SHORT left いと (糸) right 罔
+07f70
+07f70
+罰 top あみがしら (罒) bottom block こと (言) かたな (刂) end
+0819c
+0819c
+膜 left にく (月) right block top くさ (艹) bottom block にち (日) だい (大) end end SHORT left にく (月) right 莫
+06155
+06155
+慕 top block top くさ (艹) bottom block にち (日) だい (大) end end bottom りっし (⺗) SHORT top 莫 bottom りっし (⺗)
+08a93
+08a93
+誓 top block left て (扌) right おの (斤) end bottom こと (言) SHORT top 折 bottom こと (言)
+08a98
+08a98
+誘 left こと (言) right block top のぎ (禾) bottom block の (丿) stroke ㇡ end end SHORT left こと (言) right 秀
+08e0a
+08e0a
+踊 left あし (足) right block top block stroke ㇇ stroke ㇔ end bottom もちいる (用) end SHORT left あし (足) right 甬
+0906e
+0906e
+遮 nyoc block tare まだれ (广) tarec block block じゅう (十) stroke ㇑ stroke ㇐ end ひ (灬) end end nyo し (⻌) SHORT nyoc 庶 nyo し (⻌)
+0906d
+0906d
+遭 nyoc block top block stroke ㇐ block にち (日) にじゅうあし (廾) end end bottom にち (日) end nyo し (⻌) SHORT nyoc 曹 nyo し (⻌)
+09175
+09175
+酵 left とり (酉) right block ろう (耂) こ (子) end SHORT left とり (酉) right 孝
+09177
+09177
+酷 left とり (酉) right block top うし (牛) bottom くち (口) end SHORT left とり (酉) right 告
+09283
+09283
+銃 left かね (金) right block top block なべぶた (亠) block む (厶) end end end SHORT left かね (金) right 充
+09291
+09291
+銑 left かね (金) right block top block stroke ㇒ stroke ㇐ stroke ㇑ stroke ㇐ end bottom に (儿) end SHORT left かね (金) right 先
+09298
+09298
+銘 left かね (金) right block top ゆうべ (夕) bottom くち (口) end SHORT left かね (金) right 名
+095a5
+095a5
+閥 kamae も (門) block left ひと (亻) right かのほこ (戈) end SHORT kamae も (門) 伐
+096a0
+096a0
+隠 left ぎふのふ (⻖) right block つめ (⺤) けいがしら (⺕) りっし (心) end
+09700
+09700
+需 top あめ (雨) bottom しかして (而)
+099c6
+099c6
+駆 left うま (馬) right block はこがまえ (匚) block の (丿) stroke ㇔ end end SHORT left うま (馬) right 区
+099c4
+099c4
+駄 left うま (馬) right block top だい (大) bottom て (丶) end SHORT left うま (馬) right 太
+09aea
+09aea
+髪 top かみがしら (髟) bottom block stroke ㇐ stroke ㇒ また (又) end SHORT top かみがしら (髟) bottom 友
+09b42
+09b42
+魂 left block top に (二) bottom む (厶) end right おに (鬼) SHORT left 云 right おに (鬼)
+0932c
+0932c
+錬 left かね (金) right block き (木) にち (日) end SHORT left かね (金) right 東
+07def
+07def
+緯 left いと (糸) right なめしがわ (韋)
+097fb
+097fb
+韻 left おと (音) right block top くち (口) bottom かい (貝) end SHORT left おと (音) right 員
+05f71
+05f71
+影 left block top にち (日) bottom block top なべぶた (亠) bottom block くち (口) ちいさい (小) end end end right さ (彡) SHORT left 景 right さ (彡)
+092ed
+092ed
+鋭 left かね (金) right block top はちがしら (八) bottom block top くち (口) bottom に (儿) end end SHORT left かね (金) right 兌
+08b01
+08b01
+謁 left こと (言) right block top にち (日) bottom block つつみがまえ (勹) ひと (人) end end SHORT left こと (言) right 曷
+095b2
+095b2
+閲 kamae も (門) block top はちがしら (八) bottom block top くち (口) bottom に (儿) end end SHORT kamae も (門) 兌
+07e01
+07e01
+縁 left いと (糸) right block top けいがしら (彑) end SHORT left いと (糸) right 彖
+061b6
+061b6
+憶 left りっし (忄) right block top おと (音) bottom りっし (心) end SHORT left りっし (忄) right 意
+07a4f
+07a4f
+穏 left のぎ (禾) right block つめ (⺤) けいがしら (⺕) りっし (心) end
+07a3c
+07a3c
+稼 left のぎ (禾) right block top うか (宀) bottom いのこ (豕) end SHORT left のぎ (禾) right 家
+09913
+09913
+餓 left しょく (飠) right block の (丿) かのほこ (戈) はねぼう (亅) stroke ㇀ end SHORT left しょく (飠) right 我
+058ca
+058ca
+壊 left つち (土) right block じゅう (十) あみがしら (罒) ころも (衣) end
+061d0
+061d0
+懐 left りっし (忄) right block じゅう (十) あみがしら (罒) ころも (衣) end
+05687
+05687
+嚇 left くち (口) right block left あか (赤) right あか (赤) end SHORT left くち (口) right 赫
+07372
+07372
+獲 left けものへん (⺨) right block top くさ (艹) bottom block top ふるとり (隹) bottom また (又) end end SHORT left けものへん (⺨) right 蒦
+07a6b
+07a6b
+穫 left のぎ (禾) right block top くさ (艹) bottom block top ふるとり (隹) bottom また (又) end end SHORT left のぎ (禾) right 蒦
+06f5f
+06f5f
+潟 left みず (氵) right block うす (臼) つつみがまえ (勹) ひ (灬) end SHORT left みず (氵) right 舄
+08f44
+08f44
+轄 left くるま (車) right block top うか (宀) bottom block top block stroke ㇐ stroke ㇑ stroke ㇐ stroke ㇐ end bottom くち (口) end end SHORT left くるま (車) right 害
+061be
+061be
+憾 left りっし (忄) right block top block block が (厂) かのほこ (戈) end くち (口) end bottom りっし (心) end SHORT left りっし (忄) right 感
+06b53
+06b53
+歓 left block block stroke ㇒ stroke ㇐ end stroke ㇐ ふるとり (隹) end right あくび (欠) SHORT left block 𠂉 stroke ㇐ ふるとり (隹) end right あくび (欠)
+074b0
+074b0
+環 left おう (王) right block あみがしら (罒) stroke ㇐ くち (口) block stroke ㇒ stroke ㇑ stroke ㇒ stroke ㇏ end end SHORT left おう (王) right 睘
+076e3
+076e3
+監 top block left し (臣) right block block stroke ㇒ stroke ㇐ end stroke ㇐ end end bottom さら (皿) SHORT top block left し (臣) right block 𠂉 stroke ㇐ end end bottom さら (皿)
+07de9
+07de9
+緩 left いと (糸) right block top つめ (⺤) bottom block stroke ㇐ block stroke ㇐ stroke ㇒ また (又) end end end SHORT left いと (糸) right 爰
+08266
+08266
+艦 left ふね (舟) right block top block left し (臣) right block block stroke ㇒ stroke ㇐ end stroke ㇐ end end bottom さら (皿) end SHORT left ふね (舟) right 監
+09084
+09084
+還 nyoc block あみがしら (罒) stroke ㇐ くち (口) block stroke ㇒ stroke ㇑ stroke ㇒ stroke ㇔ end end nyo し (⻌) SHORT nyoc 睘 nyo し (⻌)
+09451
+09451
+鑑 left かね (金) right block top block left し (臣) right block block stroke ㇒ stroke ㇐ end stroke ㇐ end end bottom さら (皿) end SHORT left かね (金) right 監
+08f1d
+08f1d
+輝 left block top ちいさい (⺌) bottom block いち (一) に (儿) end end right block top わか (冖) bottom くるま (車) end SHORT left 光 right 軍
+09a0e
+09a0e
+騎 left うま (馬) right block top だい (大) bottom block block いち (一) end くち (口) end end SHORT left うま (馬) right 奇
+05100
+05100
+儀 left ひと (亻) right block top ひつじ (羊) bottom block の (丿) かのほこ (戈) はねぼう (亅) stroke ㇀ end end SHORT left ひと (亻) right 義
+0622f
+0622f
+戯 left block tare とらか (虍) tarec block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ いち (一) end end right かのほこ (戈) SHORT left 虚 right かのほこ (戈)
+064ec
+064ec
+擬 left て (扌) right block left block さじのひ (匕) や (矢) end right block block stroke ㇇ stroke ㇔ end ひき (疋) end end SHORT left て (扌) right 疑
+072a0
+072a0
+犠 left うし (牛) right block top ひつじ (羊) bottom block の (丿) かのほこ (戈) はねぼう (亅) stroke ㇀ end end SHORT left うし (牛) right 義
+07aae
+07aae
+窮 top あな (穴) bottom block left み (身) right ゆみ (弓) end SHORT top あな (穴) bottom 躬
+077ef
+077ef
+矯 left や (矢) right block top block block の (丿) だい (大) end くち (口) end bottom block まきがまえ (冂) くち (口) end end SHORT left や (矢) right 喬
+097ff
+097ff
+響 top block left block block stroke ㇜ stroke ㇜ stroke ㇒ end うしとら (艮) end right むら (⻏) end bottom おと (音) SHORT top 郷 bottom おと (音)
+09a5a
+09a5a
+驚 top block left block top くさ (艹) bottom block つつみがまえ (勹) くち (口) end end right のぶ (攵) end bottom うま (馬) SHORT top 敬 bottom うま (馬)
+051dd
+051dd
+凝 left にすい (冫) right block left block さじのひ (匕) や (矢) end right block block stroke ㇇ stroke ㇔ end ひき (疋) end end SHORT left にすい (冫) right 疑
+07dca
+07dca
+緊 top block left し (臣) right また (又) end bottom いと (糸)
+0895f
+0895f
+襟 left ころも (衤) right block top block left き (木) right き (木) end bottom しめす (示) end SHORT left ころも (衤) right 禁
+08b39
+08b39
+謹 left こと (言) right block top くさ (艹) bottom block くち (口) stroke ㇑ block top いち (一) bottom block いち (一) いち (一) end end end end SHORT left こと (言) right 𦰌
+07e70
+07e70
+繰 left いと (糸) right block top block top くち (口) bottom block left くち (口) right くち (口) end end bottom き (木) end SHORT left いと (糸) right 喿
+052f2
+052f2
+勲 top block left block block の (丿) じゅう (十) end さと (里) end right ちから (力) end bottom ひ (灬) SHORT top 動 bottom ひ (灬)
+085ab
+085ab
+薫 top くさ (艹) bottom block top block block の (丿) じゅう (十) end さと (里) end bottom ひ (灬) end SHORT top くさ (艹) bottom block top 重 bottom ひ (灬) end
+06176
+06176
+慶 tare まだれ (广) tarec block stroke ㇕ stroke ㇑ stroke ㇑ stroke ㇐ stroke ㇖ りっし (心) ふゆがしら (夂) end
+061a9
+061a9
+憩 top block left した (舌) right block みずから (自) end end SHORT top block left した (舌) right 息 end
+09d8f
+09d8f
+鶏 left block つめ (⺤) block stroke ㇐ だい (大) end end right とり (鳥) SHORT left 奚 right とり (鳥)
+09be8
+09be8
+鯨 left うお (魚) right block top なべぶた (亠) bottom block くち (口) ちいさい (小) end end SHORT left うお (魚) right 京
+06483
+06483
+撃 top block left くるま (車) right ほこつくり (殳) end bottom て (手)
+061f8
+061f8
+懸 top block left block top block め (目) stroke ㇗ end bottom ちいさい (小) end right block top の (丿) bottom いと (糸) end end bottom りっし (心) SHORT top 縣 bottom りっし (心)
+08b19
+08b19
+謙 left こと (言) right block top はちがしら (八) bottom block stroke ㇐ けいがしら (⺕) ぼう (丨) ぼう (丨) stroke ㇒ stroke ㇏ end end SHORT left こと (言) right 兼
+08ce2
+08ce2
+賢 top block left し (臣) right また (又) end bottom かい (貝)
+09855
+09855
+顕 left block top にち (日) bottom block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇀ end end right おおがい (頁) SHORT left 显 right おおがい (頁)
+09867
+09867
+顧 left block tare とびらのと (戸) tarec ふるとり (隹) end right おおがい (頁) SHORT left 雇 right おおがい (頁)
+07a3f
+07a3f
+稿 left のぎ (禾) right たかい (高)
+08861
+08861
+衡 kamae ぎょう (行) block top block stroke ㇒ stroke ㇇ end bottom た (田) だい (大) end SHORT kamae ぎょう (行) 𩵋
+08cfc
+08cfc
+購 left かい (貝) right block top block いち (一) stroke ㇑ stroke ㇑ end end SHORT left かい (貝) right 冓
+058be
+058be
+墾 top block left むじな (豸) right うしとら (艮) end bottom つち (土)
+061c7
+061c7
+懇 top block left むじな (豸) right うしとら (艮) end bottom りっし (心)
+09396
+09396
+鎖 left かね (金) right block top ちいさい (⺌) bottom かい (貝) end
+0932f
+0932f
+錯 left かね (金) right block top block にじゅうあし (廾) stroke ㇐ end bottom にち (日) end SHORT left かね (金) right 昔
+064ae
+064ae
+撮 left て (扌) right block top にち (日) bottom block left みみ (耳) right また (又) end end SHORT left て (扌) right 最
+064e6
+064e6
+擦 left て (扌) right block top うか (宀) bottom block top block にく (月) stroke ㇇ stroke ㇏ end bottom しめす (示) end end SHORT left て (扌) right 察
+066ab
+066ab
+暫 top block left くるま (車) right おの (斤) end bottom にち (日) SHORT top 斬 bottom にち (日)
+08aee
+08aee
+諮 left こと (言) right block top block left にすい (冫) right あくび (欠) end bottom くち (口) end SHORT left こと (言) right 咨
+08cdc
+08cdc
+賜 left かい (貝) right block top にち (日) bottom block つつみがまえ (勹) stroke ㇒ stroke ㇒ end end SHORT left かい (貝) right 易
+074bd
+074bd
+璽 top block いち (一) はちがしら (八) まきがまえ (冂) stroke ㇑ こう (爻) こう (爻) end bottom おう (玉) SHORT top 爾 bottom おう (玉)
+07235
+07235
+爵 top つめ (⺤) bottom block あみがしら (罒) うしとら (艮) す (寸) end
+08da3
+08da3
+趣 nyo はしる (走) nyoc block left みみ (耳) right また (又) end SHORT nyo はしる (走) nyoc 取
+05112
+05112
+儒 left ひと (亻) right block top あめ (雨) bottom しかして (而) end SHORT left ひと (亻) right 需
+08972
+08972
+襲 top りゅう (龍) bottom ころも (衣)
+0919c
+0919c
+醜 left とり (酉) right おに (鬼)
+07363
+07363
+獣 left block ちいさい (⺍) た (田) stroke ㇐ くち (口) end right いぬ (犬)
+077ac
+077ac
+瞬 left め (目) right block top block つめ (⺤) わか (冖) end bottom ます (舛) end SHORT left め (目) right 舜
+06f64
+06f64
+潤 left みず (氵) right block kamae も (門) おう (王) end SHORT left みず (氵) right 閏
+09075
+09075
+遵 nyoc block top block top はちがしら (八) bottom とり (酉) end bottom す (寸) end nyo し (⻌) SHORT nyoc 尊 nyo し (⻌)
+0511f
+0511f
+償 left ひと (亻) right block top block top ちいさい (⺌) bottom block まきがまえ (冂) くち (口) end end bottom かい (貝) end SHORT left ひと (亻) right 賞
+07901
+07901
+礁 left いし (石) right block top ふるとり (隹) bottom ひ (灬) end SHORT left いし (石) right 焦
+0885d
+0885d
+衝 kamae ぎょう (行) block block の (丿) じゅう (十) end さと (里) end SHORT kamae ぎょう (行) 重
+09418
+09418
+鐘 left かね (金) right block top たつ (立) bottom さと (里) end SHORT left かね (金) right 童
+058cc
+058cc
+壌 left つち (土) right block block top なべぶた (亠) はちがしら (八) end block top いち (一) end stroke ㇑ stroke ㇑ bottom block いち (一) いち (一) end bottom block stroke ㇒ stroke ㇙ stroke ㇒ stroke ㇏ end end SHORT left つち (土) right 㐮
+05b22
+05b22
+嬢 left お (女) right block block top なべぶた (亠) はちがしら (八) end block top いち (一) end stroke ㇑ stroke ㇑ bottom block いち (一) いち (一) end bottom block stroke ㇒ stroke ㇙ stroke ㇒ stroke ㇏ end end SHORT left お (女) right 㐮
+08b72
+08b72
+譲 left こと (言) right block block top なべぶた (亠) はちがしら (八) end block top いち (一) end stroke ㇑ stroke ㇑ bottom block いち (一) いち (一) end bottom block stroke ㇒ stroke ㇙ stroke ㇒ stroke ㇏ end end SHORT left こと (言) right 㐮
+091b8
+091b8
+醸 left とり (酉) right block block top なべぶた (亠) はちがしら (八) end block top いち (一) end stroke ㇑ stroke ㇑ bottom block いち (一) いち (一) end bottom block stroke ㇒ stroke ㇙ stroke ㇒ stroke ㇏ end end SHORT left とり (酉) right 㐮
+09320
+09320
+錠 left かね (金) right block top うか (宀) bottom ひき (疋) end SHORT left かね (金) right 定
+05631
+05631
+嘱 left くち (口) right block tare しかばね (尸) tarec block の (丿) むし (虫) ぐうのあし (禸) end end SHORT left くち (口) right 属
+05be9
+05be9
+審 top うか (宀) bottom block top のごめ (釆) bottom た (田) end SHORT top うか (宀) bottom 番
+085aa
+085aa
+薪 top くさ (艹) bottom block left block たつ (立) き (木) end right おの (斤) end SHORT top くさ (艹) bottom 新
+09707
+09707
+震 top あめ (雨) bottom し (辰)
+09318
+09318
+錘 left かね (金) right block block の (丿) じゅう (十) end stroke ㇐ stroke ㇑ stroke ㇑ つち (土) end SHORT left かね (金) right 垂
+09ac4
+09ac4
+髄 left ほね (骨) right block block stroke ㇒ stroke ㇐ にく (月) end し (⻌) end SHORT left ほね (骨) right block 有 し (⻌) end
+06f84
+06f84
+澄 left みず (氵) right block top はつがしら (癶) bottom まめ (豆) end SHORT left みず (氵) right 登
+0702c
+0702c
+瀬 left みず (氵) right block left block き (木) くち (口) end right おおがい (頁) end SHORT left みず (氵) right 頼
+08acb
+08acb
+請 left こと (言) right あお (青)
+07c4d
+07c4d
+籍 top たけ (竹) bottom block left らいすき (耒) right block top block にじゅうあし (廾) stroke ㇐ end bottom にち (日) end end SHORT top たけ (竹) bottom block left らいすき (耒) right 昔 end
+06f5c
+06f5c
+潜 left みず (氵) right block top block left block stroke ㇐ だい (大) end right block stroke ㇐ だい (大) end end bottom にち (日) end SHORT left みず (氵) right 替
+07e4a
+07e4a
+繊 left いと (糸) right block つち (土) block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇀ end end SHORT left いと (糸) right block つち (土) 业 end
+085a6
+085a6
+薦 top くさ (艹) bottom block まだれ (广) stroke ㇕ stroke ㇑ stroke ㇑ stroke ㇐ stroke ㇐ stroke ㇉ ひ (灬) end
+09077
+09077
+遷 nyoc block top にし (覀) bottom block だい (大) おのれ (己) end end nyo し (⻌)
+09bae
+09bae
+鮮 left うお (魚) right ひつじ (羊)
+07e55
+07e55
+繕 left いと (糸) right block top block ひつじ (羊) stroke ㇔ stroke ㇒ stroke ㇐ end bottom くち (口) end SHORT left いと (糸) right 善
+0790e
+0790e
+礎 left いし (石) right block top block left き (木) right き (木) end bottom ひき (疋) end SHORT left いし (石) right 楚
+069fd
+069fd
+槽 left き (木) right block top block stroke ㇐ block にち (日) にじゅうあし (廾) end end bottom にち (日) end SHORT left き (木) right 曹
+071e5
+071e5
+燥 left ひ (火) right block top block top くち (口) bottom block left くち (口) right くち (口) end end bottom き (木) end SHORT left ひ (火) right 喿
+085fb
+085fb
+藻 top くさ (艹) bottom block left みず (氵) right block top block top くち (口) bottom block left くち (口) right くち (口) end end bottom き (木) end end SHORT top くさ (艹) bottom 澡
+0971c
+0971c
+霜 top あめ (雨) bottom block left き (木) right め (目) end SHORT top あめ (雨) bottom 相
+09a12
+09a12
+騒 left うま (馬) right block top また (又) bottom むし (虫) end
+08d08
+08d08
+贈 left かい (貝) right block top block stroke ㇔ stroke ㇒ た (田) end bottom にち (日) end SHORT left かい (貝) right 曽
+06fef
+06fef
+濯 left みず (氵) right block top はね (羽) bottom ふるとり (隹) end
+06fc1
+06fc1
+濁 left みず (氵) right block top あみがしら (罒) bottom block つつみがまえ (勹) むし (虫) end end SHORT left みず (氵) right 蜀
+08afe
+08afe
+諾 left こと (言) right block top くさ (艹) bottom block stroke ㇒ stroke ㇐ くち (口) end end SHORT left こと (言) right 若
+0935b
+0935b
+鍛 left かね (金) right block left block stroke ㇒ stroke ㇑ stroke ㇐ stroke ㇐ stroke ㇀ end right ほこつくり (殳) end SHORT left かね (金) right 段
+058c7
+058c7
+壇 left つち (土) right block top なべぶた (亠) bottom block block くにがまえ (囗) くち (口) end block top にち (日) bottom いち (一) end end end SHORT left つち (土) right 亶
+092f3
+092f3
+鋳 left かね (金) right block block top いち (一) bottom block いち (一) いち (一) end end の (丿) す (寸) end SHORT left かね (金) right 寿
+099d0
+099d0
+駐 left うま (馬) right block top て (丶) bottom おう (王) end SHORT left うま (馬) right 主
+061f2
+061f2
+懲 top block left ぎょうに (彳) right block left block top やま (山) bottom おう (王) end right のぶ (攵) end end bottom りっし (心) SHORT top 徴 bottom りっし (心)
+08074
+08074
+聴 left みみ (耳) right block じゅう (十) あみがしら (罒) りっし (心) end
+093ae
+093ae
+鎮 left かね (金) right block top じゅう (十) bottom block top め (目) bottom block stroke ㇐ はちがしら (八) end end end SHORT left かね (金) right 真
+0589c
+0589c
+墜 top block left ぎふのふ (⻖) right block stroke ㇔ stroke ㇒ いのこ (豕) end end bottom つち (土) SHORT top 隊 bottom つち (土)
+07de0
+07de0
+締 left いと (糸) right block top block なべぶた (亠) stroke ㇔ stroke ㇒ わか (冖) end bottom はば (巾) end SHORT left いと (糸) right 帝
+05fb9
+05fb9
+徹 left ぎょうに (彳) right block left block top block なべぶた (亠) む (厶) end bottom にく (月) end right のぶ (攵) end SHORT left ぎょうに (彳) right block left 育 right のぶ (攵) end
+064a4
+064a4
+撤 left て (扌) right block left block top block なべぶた (亠) む (厶) end bottom にく (月) end right のぶ (攵) end SHORT left て (扌) right block left 育 right のぶ (攵) end
+08b04
+08b04
+謄 left block にく (月) end right block bottom こと (言) end SHORT left 朕 right block bottom こと (言) end
+08e0f
+08e0f
+踏 left あし (足) right block top みず (水) bottom にち (日) end SHORT left あし (足) right 沓
+09a30
+09a30
+騰 left にく (月) right block top block stroke ㇔ stroke ㇒ に (二) ひと (人) end bottom うま (馬) end SHORT left にく (月) right 駦
+095d8
+095d8
+闘 kamae も (門) left まめ (豆) right す (寸)
+07be4
+07be4
+篤 top たけ (竹) bottom うま (馬)
+066c7
+066c7
+曇 top にち (日) bottom block top あめ (雨) bottom block に (二) む (厶) end end SHORT top にち (日) bottom 雲
+07e04
+07e04
+縄 left いと (糸) right block にち (日) にち (日) stroke ㇟ end SHORT left いと (糸) right 电
+06fc3
+06fc3
+濃 left みず (氵) right block top block にち (日) にじゅうあし (廾) end bottom し (辰) end SHORT left みず (氵) right 農
+08987
+08987
+覇 top にし (覀) bottom block left かくのかわ (革) right にく (月) end SHORT top にし (覀) bottom 䩗
+08f29
+08f29
+輩 top あらず (非) bottom くるま (車)
+08ce0
+08ce0
+賠 left かい (貝) right block top たつ (立) bottom くち (口) end SHORT left かい (貝) right 咅
+08584
+08584
+薄 top くさ (艹) bottom block left みず (氵) right block top block stroke ㇐ もちいる (用) て (丶) end bottom す (寸) end end SHORT top くさ (艹) bottom 溥
+07206
+07206
+爆 left ひ (火) right block top にち (日) bottom block block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end みず (氺) end end SHORT left ひ (火) right 暴
+07e1b
+07e1b
+縛 left いと (糸) right block top block stroke ㇐ もちいる (用) て (丶) end bottom す (寸) end SHORT left いと (糸) right 尃
+07e41
+07e41
+繁 top block left block top block の (丿) stroke ㇐ end bottom なかれ (毋) end right のぶ (攵) end bottom いと (糸) SHORT top 敏 bottom いと (糸)
+085e9
+085e9
+藩 top くさ (艹) bottom block left みず (氵) right block top のごめ (釆) bottom た (田) end end SHORT top くさ (艹) bottom 潘
+07bc4
+07bc4
+範 top たけ (竹) bottom block left くるま (車) right ふしづくり (卩) end
+076e4
+076e4
+盤 top block left ふね (舟) right ほこつくり (殳) end bottom さら (皿) SHORT top 般 bottom さら (皿)
+07f77
+07f77
+罷 top あみがしら (罒) bottom block left block top む (厶) bottom にく (月) end right block top さじのひ (匕) bottom さじのひ (匕) end end SHORT top あみがしら (罒) bottom 能
+0907f
+0907f
+避 nyoc block block block tare しかばね (尸) tarec くち (口) end end right からい (辛) end nyo し (⻌) SHORT nyoc 辟 nyo し (⻌)
+08cd3
+08cd3
+賓 top block うか (宀) stroke ㇐ block ちいさい (小) の (丿) end end bottom かい (貝) SHORT top block うか (宀) stroke ㇐ 少 end bottom かい (貝)
+0983b
+0983b
+頻 left block top とめる (止) bottom block ちいさい (小) の (丿) end end right おおがい (頁) SHORT left 歩 right おおがい (頁)
+06577
+06577
+敷 left block top block stroke ㇐ もちいる (用) て (丶) end bottom ほう (方) end right のぶ (攵) SHORT left 旉 right のぶ (攵)
+0819a
+0819a
+膚 tare とらか (虍) tarec block top た (田) bottom にく (月) end SHORT tare とらか (虍) tarec 胃
+08b5c
+08b5c
+譜 left こと (言) right block top block top block stroke ㇔ stroke ㇒ いち (一) end bottom block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇐ end end bottom にち (日) end SHORT left こと (言) right 普
+08ce6
+08ce6
+賦 left かい (貝) right block いち (一) しきがまえ (弋) とめる (止) end SHORT left かい (貝) right 武
+0821e
+0821e
+舞 top block の (丿) stroke ㇐ いち (一) stroke ㇑ stroke ㇑ stroke ㇑ stroke ㇑ stroke ㇐ end bottom ます (舛)
+08986
+08986
+覆 top にし (覀) bottom block left ぎょうに (彳) right block block stroke ㇒ stroke ㇐ end にち (日) ふゆがしら (夂) end end SHORT top にし (覀) bottom 復
+05674
+05674
+噴 left くち (口) right block top block top じゅう (十) bottom にじゅうあし (廾) end bottom かい (貝) end SHORT left くち (口) right 賁
+058b3
+058b3
+墳 left つち (土) right block top block top じゅう (十) bottom にじゅうあし (廾) end bottom かい (貝) end SHORT left つち (土) right 賁
+061a4
+061a4
+憤 left りっし (忄) right block top block top じゅう (十) bottom にじゅうあし (廾) end bottom かい (貝) end SHORT left りっし (忄) right 賁
+05e63
+05e63
+幣 top block left block ちいさい (小) まきがまえ (冂) ちいさい (小) end right のぶ (攵) end bottom はば (巾) SHORT top 敝 bottom はば (巾)
+05f0a
+05f0a
+弊 top block left block ちいさい (小) まきがまえ (冂) ちいさい (小) end right のぶ (攵) end bottom にじゅうあし (廾) SHORT top 敝 bottom にじゅうあし (廾)
+058c1
+058c1
+壁 top block block block tare しかばね (尸) tarec くち (口) end end right からい (辛) end bottom つち (土) SHORT top 辟 bottom つち (土)
+07656
+07656
+癖 tare やまいだれ (疒) tarec block left block tare block しかばね (尸) くち (口) end end right からい (辛) end SHORT tare やまいだれ (疒) tarec 辟
+08217
+08217
+舗 left block top ひと (人) bottom block top さむらい (士) bottom くち (口) end end right block stroke ㇐ もちいる (用) て (丶) end SHORT left block top ひと (人) bottom 吉 end right 甫
+07a42
+07a42
+穂 left のぎ (禾) right block top block stroke ㇐ block にち (日) ぼう (丨) end end bottom りっし (心) end SHORT left のぎ (禾) right 恵
+07c3f
+07c3f
+簿 top たけ (竹) bottom block left みず (氵) right block top block stroke ㇐ もちいる (用) て (丶) end bottom す (寸) end end SHORT top たけ (竹) bottom 溥
+07e2b
+07e2b
+縫 left いと (糸) right block nyoc block ふゆがしら (夂) block block top いち (一) bottom block いち (一) いち (一) end end ぼう (丨) end end nyo し (⻌) end SHORT left いと (糸) right 逢
+08912
+08912
+褒 ころも (衣) block left ひと (亻) right block top くち (口) bottom き (木) end end SHORT ころも (衣) 保
+081a8
+081a8
+膨 left にく (月) right block left block block さむらい (士) end end right さ (彡) end SHORT left にく (月) right 彭
+08b00
+08b00
+謀 left こと (言) right block top あまい (甘) bottom き (木) end SHORT left こと (言) right 某
+058a8
+058a8
+墨 top くろ (黒) bottom つち (土)
+064b2
+064b2
+撲 left て (扌) right block block stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇐ end stroke ㇔ stroke ㇒ block top いち (一) bottom block いち (一) いち (一) end end ひと (人) end SHORT left て (扌) right 菐
+07ffb
+07ffb
+翻 left block top のごめ (釆) bottom た (田) end right はね (羽) SHORT left 番 right はね (羽)
+06469
+06469
+摩 tare あさ (麻) tarec て (手)
+078e8
+078e8
+磨 tare あさ (麻) tarec いし (石)
+09b54
+09b54
+魔 tare あさ (麻) tarec おに (鬼)
+07e6d
+07e6d
+繭 top くさ (艹) bottom block まきがまえ (冂) stroke ㇑ いと (糸) むし (虫) end
+09b45
+09b45
+魅 nyo おに (鬼) nyoc block stroke ㇐ き (木) end SHORT nyo おに (鬼) nyoc 未
+09727
+09727
+霧 top あめ (雨) bottom block left むのほこ (矛) right block top のぶ (攵) bottom ちから (力) end end SHORT top あめ (雨) bottom 務
+09ed9
+09ed9
+黙 top block left くろ (黒) right いぬ (犬) end
+08e8d
+08e8d
+躍 left あし (足) right block top はね (羽) bottom ふるとり (隹) end
+07652
+07652
+癒 tare やまいだれ (疒) tarec block top block top いる (入) bottom block いち (一) にく (月) かたな (刂) end end bottom りっし (心) end SHORT tare やまいだれ (疒) tarec 愈
+08aed
+08aed
+諭 left こと (言) right block top いる (入) bottom block いち (一) にく (月) かたな (刂) end end SHORT left こと (言) right 兪
+06182
+06182
+憂 top block block top いち (一) bottom block top block stroke ㇒ end bottom にち (日) end end わか (冖) end bottom block りっし (心) ふゆがしら (夂) end SHORT top block 百 わか (冖) end bottom block りっし (心) ふゆがしら (夂) end
+0878d
+0878d
+融 left かなえ (鬲) right むし (虫)
+06170
+06170
+慰 top block left block tare しかばね (尸) tarec しめす (示) end right す (寸) end bottom りっし (心) SHORT top 尉 bottom りっし (心)
+07aaf
+07aaf
+窯 top あな (穴) bottom block top ひつじ (羊) bottom ひ (灬) end SHORT top あな (穴) bottom 羔
+08b21
+08b21
+謡 left こと (言) right block top つめ (⺤) bottom か (缶) end SHORT left こと (言) right 䍃
+07ffc
+07ffc
+翼 top はね (羽) bottom block top た (田) bottom block top block stroke ㇐ stroke ㇑ stroke ㇑ stroke ㇐ end bottom はちがしら (八) end end SHORT top はね (羽) bottom 異
+07f85
+07f85
+羅 top あみがしら (罒) bottom block left いと (糸) right ふるとり (隹) end SHORT top あみがしら (罒) bottom 維
+0983c
+0983c
+頼 left block き (木) くち (口) end right おおがい (頁) SHORT left 束 right おおがい (頁)
+06b04
+06b04
+欄 left き (木) right block kamae も (門) block block き (木) にち (日) stroke ㇐ end end end SHORT left き (木) right 闌
+06feb
+06feb
+濫 left みず (氵) right block top block left し (臣) right block block stroke ㇒ stroke ㇐ end stroke ㇐ end end bottom さら (皿) end SHORT left みず (氵) right 監
+05c65
+05c65
+履 tare しかばね (尸) tarec block left ぎょうに (彳) right block block stroke ㇒ stroke ㇐ end にち (日) ふゆがしら (夂) end end SHORT tare しかばね (尸) tarec 復
+096e2
+096e2
+離 left block なべぶた (亠) block block の (丿) stroke ㇔ end kamae うけばこ (凵) end ぐうのあし (禸) end right ふるとり (隹) SHORT left 离 right ふるとり (隹)
+0616e
+0616e
+慮 tare とらか (虍) tarec block top た (田) bottom りっし (心) end SHORT tare とらか (虍) tarec 思
+05bee
+05bee
+寮 top うか (宀) bottom block だい (大) stroke ㇔ stroke ㇒ にち (日) ちいさい (小) end SHORT top うか (宀) bottom 尞
+07642
+07642
+療 tare やまいだれ (疒) tarec block だい (大) stroke ㇔ stroke ㇒ にち (日) ちいさい (小) end SHORT tare やまいだれ (疒) tarec 尞
+07ce7
+07ce7
+糧 left こめ (米) right block top block top にち (日) bottom いち (一) end bottom さと (里) end SHORT left こめ (米) right 量
+096a3
+096a3
+隣 left ぎふのふ (⻖) right block top こめ (米) bottom ます (舛) end SHORT left ぎふのふ (⻖) right 粦
+096b7
+096b7
+隷 left block top さむらい (士) bottom しめす (示) end right れいづくり (隶)
+0970a
+0970a
+霊 top あめ (雨) bottom block に (二) stroke ㇑ stroke ㇑ stroke ㇔ stroke ㇒ stroke ㇐ end
+09e97
+09e97
+麗 top block left block いち (一) stroke ㇑ stroke ㇕ stroke ㇔ end right block いち (一) stroke ㇑ stroke ㇕ stroke ㇔ end end bottom しか (鹿)
+09f62
+09f62
+齢 left は (歯) right block top ひと (人) bottom block いち (一) ふしづくり (卩) end end SHORT left は (歯) right 令
+064c1
+064c1
+擁 left て (扌) right block top なべぶた (亠) bottom block left block stroke ㇜ stroke ㇜ stroke ㇒ end right ふるとり (隹) end end SHORT left て (扌) right 雍
+09732
+09732
+露 top あめ (雨) bottom block left あし (足) right block top ふゆがしら (夂) bottom くち (口) end end SHORT top あめ (雨) bottom 路
