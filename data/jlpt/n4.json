@@ -1,0 +1,5982 @@
+{
+  "kanjilist": {
+    "kanji": [
+      {
+        "compound": [
+          {
+            "kanji": "不足",
+            "kana": "ふそく",
+            "translation": "insufficiency, shortage",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "不安",
+            "kana": "ふあん",
+            "translation": "anxiety, uneasiness",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "不当",
+            "kana": "ふとう",
+            "translation": "injustice, unfair",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "不全",
+            "kana": "ふぜん",
+            "translation": "partial, incomplete",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "不動",
+            "kana": "ふどう",
+            "translation": "immobility, motionless",
+            "type": "na-adj,n"
+          }
+        ],
+        "id": "104",
+        "char": "不",
+        "meaning": "negative, non-",
+        "on": "フ,ブ",
+        "kun": ""
+      },
+      {
+        "compound": [
+          {
+            "kanji": "世界",
+            "kana": "せかい",
+            "translation": "world, society",
+            "type": "n"
+          },
+          {
+            "kanji": "世代",
+            "kana": "せだい",
+            "translation": "generation, age",
+            "type": "n"
+          },
+          {
+            "kanji": "世話",
+            "kana": "せわ",
+            "translation": "looking after, help",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "世話人",
+            "kana": "せわにん",
+            "translation": "manager, sponsor, agent",
+            "type": "n"
+          }
+        ],
+        "id": "105",
+        "char": "世",
+        "meaning": "world, generation, society, public",
+        "on": "セイ,セ,ソウ",
+        "kun": "よ,さんじゅう,とし,ゆ,ゆき"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "主",
+            "kana": "おも",
+            "translation": "main, principal, important",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "主人",
+            "kana": "しゅじん",
+            "translation": "master, landlord, husband, employer",
+            "type": "n"
+          },
+          {
+            "kanji": "主食",
+            "kana": "しゅしょく",
+            "translation": "staple food",
+            "type": "n"
+          },
+          {
+            "kanji": "主語",
+            "kana": "しゅご",
+            "translation": "subject",
+            "type": "n, gram"
+          },
+          {
+            "kanji": "持ち主",
+            "kana": "もちぬし",
+            "translation": "owner, proprietor",
+            "type": "n"
+          }
+        ],
+        "id": "106",
+        "char": "主",
+        "meaning": "main, principle",
+        "on": "シュ,ス,シュウ",
+        "kun": "ぬし,おも,あるじ,かず,ず,もん"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "乗る",
+            "kana": "のる",
+            "translation": "to ride, to board, to get on",
+            "type": "u-v"
+          },
+          {
+            "kanji": "乗せる",
+            "kana": "のせる",
+            "translation": "to give a ride, to let (one) take part",
+            "type": "u-v"
+          },
+          {
+            "kanji": "乗員",
+            "kana": "じょういん",
+            "translation": "crew",
+            "type": "n"
+          },
+          {
+            "kanji": "乗り場",
+            "kana": "のりば",
+            "translation": "place for boarding vehicles",
+            "type": "n"
+          },
+          {
+            "kanji": "乗り物",
+            "kana": "のりもの",
+            "translation": "vehicle",
+            "type": "n"
+          }
+        ],
+        "id": "107",
+        "char": "乗",
+        "meaning": "to ride, to board, to get on",
+        "on": "ジョウ,ショウ",
+        "kun": "の.る,の.せる,のり"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "仕事",
+            "kana": "しごと",
+            "translation": "work, occupation",
+            "type": "no-adj, n"
+          },
+          {
+            "kanji": "火事",
+            "kana": "かじ",
+            "translation": "fire",
+            "type": "n"
+          },
+          {
+            "kanji": "食事",
+            "kana": "しょくじ",
+            "translation": "meal",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "行事",
+            "kana": "ぎょうじ",
+            "translation": "event, function",
+            "type": "n"
+          },
+          {
+            "kanji": "出来事",
+            "kana": "できごと",
+            "translation": "incident, affair, event",
+            "type": "n"
+          }
+        ],
+        "id": "108",
+        "char": "事",
+        "meaning": "matter, thing, fact",
+        "on": "ジ,ズ",
+        "kun": "こと,つか.う,つか.える,ろ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "東京",
+            "kana": "とうきょう",
+            "translation": "Tokyo - Capital of Japan",
+            "type": "place"
+          },
+          {
+            "kanji": "京子",
+            "kana": "きょうこ",
+            "translation": "kyoko",
+            "type": "name"
+          },
+          {
+            "kanji": "京都",
+            "kana": "きょうと",
+            "translation": "kyoto",
+            "type": "place"
+          },
+          {
+            "kanji": "上京",
+            "kana": "じょうきょう",
+            "translation": "heading to the capital",
+            "type": "n, p-suru"
+          }
+        ],
+        "id": "109",
+        "char": "京",
+        "meaning": "capital",
+        "on": "キョウ,ケイ,キン",
+        "kun": "みやこ,たか"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "仕える",
+            "kana": "つかえる",
+            "translation": "to serve, to work for",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "仕事",
+            "kana": "しごと",
+            "translation": "work, occupation",
+            "type": "no-adj, n"
+          },
+          {
+            "kanji": "仕事場",
+            "kana": "しごとば",
+            "translation": "place where one works",
+            "type": "n"
+          },
+          {
+            "kanji": "仕上げる",
+            "kana": "しあげる",
+            "translation": "to finish up, to complete",
+            "type": "ru-v, trans-verb"
+          }
+        ],
+        "id": "110",
+        "char": "仕",
+        "meaning": "attend, do",
+        "on": "シ,ジ",
+        "kun": "つか.える"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "代わる",
+            "kana": "かわる",
+            "translation": "to take the place of",
+            "type": "u-v, intrans-verb"
+          },
+          {
+            "kanji": "時代",
+            "kana": "じだい",
+            "translation": "period, era",
+            "type": "n"
+          },
+          {
+            "kanji": "世代",
+            "kana": "せだい",
+            "translation": "generation, age",
+            "type": "n"
+          },
+          {
+            "kanji": "代金",
+            "kana": "だいきん",
+            "translation": "price, payment, cost, the bill",
+            "type": "n"
+          }
+        ],
+        "id": "111",
+        "char": "代",
+        "meaning": "age, generation, substitute",
+        "on": "ダイ,タイ",
+        "kun": "か.わる,かわ.る,かわ.り,か.わり,か.える,よ,しろ,す"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "以上",
+            "kana": "いじょう",
+            "translation": "more than, over, this is all",
+            "type": "n"
+          },
+          {
+            "kanji": "以下",
+            "kana": "いか",
+            "translation": "less than, below, under",
+            "type": "n"
+          },
+          {
+            "kanji": "以内",
+            "kana": "いない",
+            "translation": "within, inside of",
+            "type": "n, n-suf"
+          },
+          {
+            "kanji": "以外",
+            "kana": "いがい",
+            "translation": "with the exception of",
+            "type": "n"
+          }
+        ],
+        "id": "112",
+        "char": "以",
+        "meaning": "by means of",
+        "on": "イ",
+        "kun": "もっ.て,もち"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "低い",
+            "kana": "ひくい",
+            "translation": "short, low, humble",
+            "type": "adj"
+          },
+          {
+            "kanji": "低音",
+            "kana": "ていおん",
+            "translation": "low tone, bass",
+            "type": "n"
+          },
+          {
+            "kanji": "低下",
+            "kana": "ていか",
+            "translation": "fall, decline, deterioration",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "高低",
+            "kana": "こうてい",
+            "translation": "high and low, rise and fall",
+            "type": "n"
+          },
+          {
+            "kanji": "低地",
+            "kana": "ていち",
+            "translation": "lowland, plain, low ground",
+            "type": "n"
+          }
+        ],
+        "id": "113",
+        "char": "低",
+        "meaning": "short, humble",
+        "on": "テイ",
+        "kun": "ひく.い,ひく.める,ひく.まる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "住む",
+            "kana": "すむ",
+            "translation": "to reside, to live in",
+            "type": "u-v"
+          },
+          {
+            "kanji": "住所",
+            "kana": "じゅうしょ",
+            "translation": "address (eg house), residence",
+            "type": "n"
+          },
+          {
+            "kanji": "安住",
+            "kana": "あんじゅう",
+            "translation": "living peaceably",
+            "type": "n, p-suru"
+          }
+        ],
+        "id": "114",
+        "char": "住",
+        "meaning": "live, dwell, reside",
+        "on": "ジュウ,ヂュウ,チュウ",
+        "kun": "す.む,す.まう,し,じゅ,すみ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "体",
+            "kana": "からだ",
+            "translation": "body, health",
+            "type": "n"
+          },
+          {
+            "kanji": "本体",
+            "kana": "ほんたい",
+            "translation": "substance, real form",
+            "type": "n"
+          },
+          {
+            "kanji": "死体",
+            "kana": "したい",
+            "translation": "corpse",
+            "type": "n"
+          },
+          {
+            "kanji": "人体",
+            "kana": "じんたい",
+            "translation": "human body",
+            "type": "n"
+          },
+          {
+            "kanji": "正体",
+            "kana": "しょうたい",
+            "translation": "natural shape, true character",
+            "type": "n"
+          }
+        ],
+        "id": "115",
+        "char": "体",
+        "meaning": "body, object, reality",
+        "on": "タイ,テイ",
+        "kun": "からだ,かたち,なり"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "作る",
+            "kana": "つくる",
+            "translation": "to make, to create",
+            "type": "u-v"
+          },
+          {
+            "kanji": "作家",
+            "kana": "さっか",
+            "translation": "author, writer",
+            "type": "n"
+          },
+          {
+            "kanji": "工作",
+            "kana": "こうさく",
+            "translation": "work, handicraft",
+            "type": "n"
+          },
+          {
+            "kanji": "作り話",
+            "kana": "つくりはなし",
+            "translation": "fiction, made-up story, myth",
+            "type": "n"
+          },
+          {
+            "kanji": "作り上げる",
+            "kana": "つくりあげる",
+            "translation": "to make up, to fabricate",
+            "type": "ru-v"
+          }
+        ],
+        "id": "116",
+        "char": "作",
+        "meaning": "make, create",
+        "on": "サク,サ",
+        "kun": "つく.る,つく.り,くり,さか,さっ,づくり,とも,なお,はぎ,まさか"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "使う",
+            "kana": "つかう",
+            "translation": "to use",
+            "type": "u-v"
+          },
+          {
+            "kanji": "使い方",
+            "kana": "つかいかた",
+            "translation": "way to use something",
+            "type": "n"
+          },
+          {
+            "kanji": "天使",
+            "kana": "てんし",
+            "translation": "angel",
+            "type": "n"
+          },
+          {
+            "kanji": "使者",
+            "kana": "ししゃ",
+            "translation": "messenger",
+            "type": "n"
+          }
+        ],
+        "id": "117",
+        "char": "使",
+        "meaning": "to use",
+        "on": "シ",
+        "kun": "つか.う,つか.い"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "便",
+            "kana": "びん",
+            "translation": "mail, post",
+            "type": "n"
+          },
+          {
+            "kanji": "不便",
+            "kana": "ふべん",
+            "translation": "inconvenience",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "小便",
+            "kana": "しょうべん",
+            "translation": "urine",
+            "type": "n, col"
+          },
+          {
+            "kanji": "大便",
+            "kana": "だいべん",
+            "translation": "feces, excrement",
+            "type": "n"
+          }
+        ],
+        "id": "118",
+        "char": "便",
+        "meaning": "convenience, post",
+        "on": "ベン,ビン",
+        "kun": "たよ.り"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "借りる",
+            "kana": "かりる",
+            "translation": "to borrow",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "借金",
+            "kana": "しゃっきん",
+            "translation": "debt, loan, liabilities",
+            "type": "n"
+          },
+          {
+            "kanji": "借り物",
+            "kana": "かりもの",
+            "translation": "borrowed thing",
+            "type": "n"
+          }
+        ],
+        "id": "119",
+        "char": "借",
+        "meaning": "borrow, rent",
+        "on": "シャク",
+        "kun": "か.りる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "働く",
+            "kana": "はたらく",
+            "translation": "to work, to labour",
+            "type": "u-v"
+          },
+          {
+            "kanji": "働き者",
+            "kana": "はたらきもの",
+            "translation": "hardworker, hard working person",
+            "type": "n"
+          },
+          {
+            "kanji": "働き口",
+            "kana": "はたらきぐち",
+            "translation": "position, opening",
+            "type": "n"
+          }
+        ],
+        "id": "120",
+        "char": "働",
+        "meaning": "work",
+        "on": "ドウ,リュク,リキ,ロク,リョク",
+        "kun": "はたら.く"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "元々",
+            "kana": "もともと",
+            "translation": "originally, by nature, from the start",
+            "type": "adv, no-adj"
+          },
+          {
+            "kanji": "元気",
+            "kana": "げんき",
+            "translation": "health, spirit",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "耳元",
+            "kana": "みみもと",
+            "translation": "close to the ear",
+            "type": "n"
+          },
+          {
+            "kanji": "地元",
+            "kana": "じもと",
+            "translation": "local",
+            "type": "n"
+          },
+          {
+            "kanji": "元日",
+            "kana": "がんじつ",
+            "translation": "new year's day",
+            "type": "n"
+          }
+        ],
+        "id": "121",
+        "char": "元",
+        "meaning": "beginning, origin",
+        "on": "ゲン,ガン",
+        "kun": "もと,ちか,はじめ,はる,ゆき,よし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "お兄さん",
+            "kana": "おにいさん",
+            "translation": "(someone else's) elder brother",
+            "type": "n"
+          },
+          {
+            "kanji": "兄",
+            "kana": "あに",
+            "translation": "(your own) elder brother",
+            "type": "n"
+          },
+          {
+            "kanji": "父兄",
+            "kana": "ふけい",
+            "translation": "guardians, parents and older brothers",
+            "type": "n"
+          }
+        ],
+        "id": "122",
+        "char": "兄",
+        "meaning": "elder brother",
+        "on": "ケイ,キョウ",
+        "kun": "あに,え,せ,よし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "光",
+            "kana": "ひかり",
+            "translation": "light",
+            "type": "n"
+          },
+          {
+            "kanji": "光る",
+            "kana": "ひかる",
+            "translation": "to shine, to be bright",
+            "type": "u-v"
+          },
+          {
+            "kanji": "電光",
+            "kana": "でんこう",
+            "translation": "lightning",
+            "type": "n"
+          },
+          {
+            "kanji": "月光",
+            "kana": "げっこう",
+            "translation": "moonlight",
+            "type": "n"
+          },
+          {
+            "kanji": "日光",
+            "kana": "にっこう",
+            "translation": "sunlight, Nikko (place name)",
+            "type": "n"
+          }
+        ],
+        "id": "123",
+        "char": "光",
+        "meaning": "ray, light",
+        "on": "コウ",
+        "kun": "ひか.る,ひかり,あき,あきら,こお,てる,ひこ,み,みつ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "写す",
+            "kana": "うつす",
+            "translation": "to copy, to duplicate",
+            "type": "u-v"
+          },
+          {
+            "kanji": "写し",
+            "kana": "うつし",
+            "translation": "copy, fax, transcript",
+            "type": "n"
+          },
+          {
+            "kanji": "写真",
+            "kana": "しゃしん",
+            "translation": "photograph",
+            "type": "n"
+          },
+          {
+            "kanji": "生き写し",
+            "kana": "いきうつし",
+            "translation": "lifelike, exact resemblance",
+            "type": "n"
+          },
+          {
+            "kanji": "写真屋",
+            "kana": "しゃしんや",
+            "translation": "photo studio, photographer",
+            "type": "n"
+          }
+        ],
+        "id": "124",
+        "char": "写",
+        "meaning": "copy, describe",
+        "on": "シャ,ジャ",
+        "kun": "うつ.す,うつ.る,うつ-,うつ.し"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "冬",
+            "kana": "ふゆ",
+            "translation": "winter",
+            "type": "n"
+          },
+          {
+            "kanji": "冬場",
+            "kana": "ふゆば",
+            "translation": "winter season",
+            "type": "n"
+          },
+          {
+            "kanji": "冬物",
+            "kana": "ふゆもの",
+            "translation": "winter clothing",
+            "type": "n"
+          },
+          {
+            "kanji": "冬日",
+            "kana": "ふゆび",
+            "translation": "the winter sun",
+            "type": "n"
+          }
+        ],
+        "id": "125",
+        "char": "冬",
+        "meaning": "winter",
+        "on": "トウ",
+        "kun": "ふゆ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "切る",
+            "kana": "きる",
+            "translation": "to cut, to chop",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "大切",
+            "kana": "たいせつ",
+            "translation": "important, valuable",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "切手",
+            "kana": "きって",
+            "translation": "postage stamp",
+            "type": "n"
+          },
+          {
+            "kanji": "親切",
+            "kana": "しんせつ",
+            "translation": "kind, gentle",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "不親切",
+            "kana": "ふしんせつ",
+            "translation": "unkindness, unfriendliness",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "思い切り",
+            "kana": "おもいきり",
+            "translation": "with all one's strength (heart)",
+            "type": "adv, n"
+          }
+        ],
+        "id": "126",
+        "char": "切",
+        "meaning": "cut, be sharp",
+        "on": "セツ,サイ",
+        "kun": "き.る,き.り,き.れる,き.れ,きつ,きり,ぎり"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "別",
+            "kana": "べつ",
+            "translation": "another, particular",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "別に",
+            "kana": "べつに",
+            "translation": "(not) particularly, nothing",
+            "type": "adv"
+          },
+          {
+            "kanji": "別々に",
+            "kana": "べつべつに",
+            "translation": "separately, individually",
+            "type": "adv"
+          },
+          {
+            "kanji": "特別",
+            "kana": "とくべつ",
+            "translation": "special",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "別れる",
+            "kana": "わかれる",
+            "translation": "to be divided, to part from",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "別名",
+            "kana": "べつめい",
+            "translation": "alias, pseudonym",
+            "type": "n"
+          }
+        ],
+        "id": "127",
+        "char": "別",
+        "meaning": "separate, another, extra",
+        "on": "ベツ",
+        "kun": "わか.れる,わ.ける,べっ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "力",
+            "kana": "ちから",
+            "translation": "force, strength, energy",
+            "type": "n"
+          },
+          {
+            "kanji": "電力",
+            "kana": "でんりょく",
+            "translation": "electric power",
+            "type": "n"
+          },
+          {
+            "kanji": "全力",
+            "kana": "ぜんりょく",
+            "translation": "all one's power",
+            "type": ""
+          },
+          {
+            "kanji": "力持ち",
+            "kana": "ちからもち",
+            "translation": "muscle man, strong man",
+            "type": "n"
+          },
+          {
+            "kanji": "有力者",
+            "kana": "ゆうりょくしゃ",
+            "translation": "influential person",
+            "type": "n"
+          },
+          {
+            "kanji": "力士",
+            "kana": "りきし",
+            "translation": "Japanese sumo wrestler, strongman",
+            "type": "n"
+          },
+          {
+            "kanji": "力作",
+            "kana": "りきさく",
+            "translation": "literary or artistic masterpiece",
+            "type": "n"
+          },
+          {
+            "kanji": "馬力",
+            "kana": "ばりき",
+            "translation": "horse-power, h.p",
+            "type": "n"
+          },
+          {
+            "kanji": "水力",
+            "kana": "すいりょく",
+            "translation": "hydraulic power",
+            "type": "n"
+          }
+        ],
+        "id": "128",
+        "char": "力",
+        "meaning": "power, strength",
+        "on": "リョク,リキ,リイ",
+        "kun": "ちから,じから,つとむ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "勉強",
+            "kana": "べんきょう",
+            "translation": "study, diligence",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "勉学",
+            "kana": "べんがく",
+            "translation": "study, pursuit of knowledge",
+            "type": "n"
+          },
+          {
+            "kanji": "不勉強",
+            "kana": "ふべんきょう",
+            "translation": "idleness, lack of application",
+            "type": "n"
+          }
+        ],
+        "id": "129",
+        "char": "勉",
+        "meaning": "exertion",
+        "on": "ベン",
+        "kun": "つと.める,ひこ,やつ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "動く",
+            "kana": "うごく",
+            "translation": "to move",
+            "type": "u-v"
+          },
+          {
+            "kanji": "動物",
+            "kana": "どうぶつ",
+            "translation": "animal",
+            "type": "n"
+          },
+          {
+            "kanji": "自動",
+            "kana": "じどう",
+            "translation": "automatic, self-motion",
+            "type": "n"
+          },
+          {
+            "kanji": "手動",
+            "kana": "しゅどう",
+            "translation": "manual",
+            "type": "n"
+          },
+          {
+            "kanji": "不動",
+            "kana": "ふどう",
+            "translation": "immobility, motionless",
+            "type": "n"
+          }
+        ],
+        "id": "130",
+        "char": "動",
+        "meaning": "move, motion, change",
+        "on": "ドウ",
+        "kun": "うご.く,うご.かす,るぎ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "区",
+            "kana": "く",
+            "translation": "ward, district, section",
+            "type": "n"
+          },
+          {
+            "kanji": "区別",
+            "kana": "くべつ",
+            "translation": "distinction, differentiation, classification",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "区間",
+            "kana": "くかん",
+            "translation": "section (of track etc)",
+            "type": "n, n-suf"
+          },
+          {
+            "kanji": "区切る",
+            "kana": "くぎる",
+            "translation": "to punctate, to cut off, to put an end to",
+            "type": "u-v, trans-verb"
+          },
+          {
+            "kanji": "区々",
+            "kana": "まちまち",
+            "translation": "(1) several, various, (2) trivial",
+            "type": "na-adj, no-adj, n"
+          }
+        ],
+        "id": "131",
+        "char": "区",
+        "meaning": "section, area, zone",
+        "on": "ク,オウ,コウ",
+        "kun": ""
+      },
+      {
+        "compound": [
+          {
+            "kanji": "医者",
+            "kana": "いしゃ",
+            "translation": "doctor (medical)",
+            "type": "n"
+          },
+          {
+            "kanji": "医学",
+            "kana": "いがく",
+            "translation": "medical science, medicine",
+            "type": "n"
+          },
+          {
+            "kanji": "医大",
+            "kana": "いだい",
+            "translation": "medical university, medical school",
+            "type": "n"
+          },
+          {
+            "kanji": "医院",
+            "kana": "いいん",
+            "translation": "doctor's office (surgery), clinic",
+            "type": "n"
+          },
+          {
+            "kanji": "医薬品",
+            "kana": "いやくひん",
+            "translation": "medical supplies",
+            "type": "n"
+          }
+        ],
+        "id": "132",
+        "char": "医",
+        "meaning": "doctor, medicine",
+        "on": "イ",
+        "kun": "い.やす,い.する,くすし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "死去",
+            "kana": "しきょ",
+            "translation": "death",
+            "type": "n"
+          },
+          {
+            "kanji": "去る",
+            "kana": "さる",
+            "translation": "to leave, to go away",
+            "type": "u-v"
+          },
+          {
+            "kanji": "去年",
+            "kana": "きょねん",
+            "translation": "last year",
+            "type": "expr"
+          },
+          {
+            "kanji": "去来",
+            "kana": "きょらい",
+            "translation": "coming and going",
+            "type": "n"
+          },
+          {
+            "kanji": "連れ去る",
+            "kana": "つれさる",
+            "translation": "to take away",
+            "type": "u-v"
+          }
+        ],
+        "id": "133",
+        "char": "去",
+        "meaning": "leave, gone, past",
+        "on": "キョ,コ",
+        "kun": "さ.る,い"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "台",
+            "kana": "だい",
+            "translation": "stand, rack",
+            "type": "n"
+          },
+          {
+            "kanji": "台風",
+            "kana": "たいふう",
+            "translation": "typhoon",
+            "type": "n"
+          },
+          {
+            "kanji": "台所",
+            "kana": "だいどころ",
+            "translation": "kitchen",
+            "type": "n"
+          },
+          {
+            "kanji": "高台",
+            "kana": "たかだい",
+            "translation": "elevation, high ground",
+            "type": "n"
+          },
+          {
+            "kanji": "一台",
+            "kana": "いちだい",
+            "translation": "one machine, one vehicle",
+            "type": "counter"
+          }
+        ],
+        "id": "134",
+        "char": "台",
+        "meaning": "stand, pedestal, counter for machines/vehicles",
+        "on": "ダイ,タイ",
+        "kun": "うてな,われ,つかさ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "合う",
+            "kana": "あう",
+            "translation": "to fit, to suit, to match",
+            "type": "u-v"
+          },
+          {
+            "kanji": "試合",
+            "kana": "しあい",
+            "translation": "match, tournament",
+            "type": "n"
+          },
+          {
+            "kanji": "会合",
+            "kana": "かいごう",
+            "translation": "meeting",
+            "type": "n"
+          },
+          {
+            "kanji": "合理",
+            "kana": "ごうり",
+            "translation": "rational, consistent",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "似合う",
+            "kana": "にあう",
+            "translation": "to suit, to match",
+            "type": "u-v"
+          },
+          {
+            "kanji": "不合理",
+            "kana": "ふごうり",
+            "translation": "unreasonable, irrational, inconsistent",
+            "type": "na-adj, n"
+          }
+        ],
+        "id": "135",
+        "char": "合",
+        "meaning": "fit, suit, join",
+        "on": "ゴウ,ガッ,カッ",
+        "kun": "あ.う,あ.い,あい-,あ.わす,あ.わせる,あう,あん,い,か,こう,ごお,に,ね,や,り,わい"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "同じ",
+            "kana": "おなじ",
+            "translation": "same, similar",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "同時",
+            "kana": "どうじ",
+            "translation": "simultaneously, concurrent, same time",
+            "type": "no-adj, n"
+          },
+          {
+            "kanji": "同然",
+            "kana": "どうぜん",
+            "translation": "similar to, natural, just",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "同意",
+            "kana": "どうい",
+            "translation": "agreement, consent, approval",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "同じよう",
+            "kana": "おなじよう",
+            "translation": "similarly",
+            "type": "na-adj"
+          }
+        ],
+        "id": "136",
+        "char": "同",
+        "meaning": "same, agree, equal",
+        "on": "ドウ",
+        "kun": "おな.じ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "味",
+            "kana": "あじ",
+            "translation": "taste, flavour",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "意味",
+            "kana": "いみ",
+            "translation": "meaning, significance",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "地味",
+            "kana": "じみ",
+            "translation": "plain, simple",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "持ち味",
+            "kana": "もちあじ",
+            "translation": "inherent flavour, distinctive characteristic, ",
+            "type": "n"
+          },
+          {
+            "kanji": "味わう",
+            "kana": "あじわう",
+            "translation": "to taste, to savour, to relish",
+            "type": "u-v"
+          }
+        ],
+        "id": "137",
+        "char": "味",
+        "meaning": "flavour, taste",
+        "on": "ミ",
+        "kun": "あじ,あじ.わう"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "品物",
+            "kana": "しなもの",
+            "translation": "goods, article, thing",
+            "type": ""
+          },
+          {
+            "kanji": "部品",
+            "kana": "ぶひん",
+            "translation": "parts, accessories",
+            "type": "n"
+          },
+          {
+            "kanji": "上品",
+            "kana": "じょうひん",
+            "translation": "refined, elegant, polished",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "品名",
+            "kana": "ひんめい",
+            "translation": "product name",
+            "type": "n"
+          },
+          {
+            "kanji": "手品",
+            "kana": "てじな",
+            "translation": "trick, magic, juggling",
+            "type": "n"
+          }
+        ],
+        "id": "138",
+        "char": "品",
+        "meaning": "goods, refinement, dignity",
+        "on": "ヒン,ホン",
+        "kun": "しな"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "店員",
+            "kana": "てんいん",
+            "translation": "shop assistant, employee",
+            "type": "n"
+          },
+          {
+            "kanji": "工員",
+            "kana": "こういん",
+            "translation": "factory worker",
+            "type": "n"
+          },
+          {
+            "kanji": "楽員",
+            "kana": "がくいん",
+            "translation": "band member",
+            "type": "n"
+          },
+          {
+            "kanji": "駅員さん",
+            "kana": "えきいんさん",
+            "translation": "station attendant",
+            "type": "n"
+          },
+          {
+            "kanji": "工作員",
+            "kana": "こうさくいん",
+            "translation": "crafstman, handicraft worker",
+            "type": "n"
+          }
+        ],
+        "id": "139",
+        "char": "員",
+        "meaning": "employee, member",
+        "on": "イン",
+        "kun": "いな,かず"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "問題",
+            "kana": "もんだい",
+            "translation": "problem, question",
+            "type": "n"
+          },
+          {
+            "kanji": "不問",
+            "kana": "ふもん",
+            "translation": "ignorance",
+            "type": "n"
+          },
+          {
+            "kanji": "自問",
+            "kana": "じもん",
+            "translation": "asking oneself",
+            "type": "n, p-suru"
+          }
+        ],
+        "id": "140",
+        "char": "問",
+        "meaning": "question, ask, problem",
+        "on": "モン",
+        "kun": "と.う,と.い,とん,はる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "回",
+            "kana": "かい",
+            "translation": "counter for occurrences",
+            "type": "n"
+          },
+          {
+            "kanji": "回る",
+            "kana": "まわる",
+            "translation": "to turn, to revolve, to visit several places",
+            "type": "u-v"
+          },
+          {
+            "kanji": "何回",
+            "kana": "なんかい",
+            "translation": "how many times?",
+            "type": "n"
+          },
+          {
+            "kanji": "乗り回す",
+            "kana": "のりまわす",
+            "translation": "to ride/drive around",
+            "type": "n, n-suf"
+          },
+          {
+            "kanji": "",
+            "kana": "",
+            "translation": "",
+            "type": ""
+          }
+        ],
+        "id": "141",
+        "char": "回",
+        "meaning": "-times, round, counter for occurrences",
+        "on": "カイ,エ",
+        "kun": "まわ.る,まわ.す,まわ.し-,もとお.る,か.える"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "図",
+            "kana": "ず",
+            "translation": "drawing, picture, illustration",
+            "type": "n, n-suf"
+          },
+          {
+            "kanji": "地図",
+            "kana": "ちず",
+            "translation": "map",
+            "type": "n"
+          },
+          {
+            "kanji": "意図",
+            "kana": "いと",
+            "translation": "intention, aim, design",
+            "type": "n"
+          },
+          {
+            "kanji": "合図",
+            "kana": "あいず",
+            "translation": "sign, signal",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "図書館",
+            "kana": "としょかん",
+            "translation": "library",
+            "type": "n"
+          }
+        ],
+        "id": "142",
+        "char": "図",
+        "meaning": "map, drawing, plan",
+        "on": "ズ,ト",
+        "kun": "え,はか.る,づ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "地",
+            "kana": "ち",
+            "translation": "earth",
+            "type": "n, n-suf"
+          },
+          {
+            "kanji": "地下",
+            "kana": "ちか",
+            "translation": "basement, underground",
+            "type": "n"
+          },
+          {
+            "kanji": "地図",
+            "kana": "ちず",
+            "translation": "map",
+            "type": "n"
+          },
+          {
+            "kanji": "地味",
+            "kana": "じみ",
+            "translation": "plain, simple",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "地名",
+            "kana": "ちめい",
+            "translation": "place name",
+            "type": "n"
+          },
+          {
+            "kanji": "地上",
+            "kana": "ちじょう",
+            "translation": "above ground",
+            "type": "n"
+          }
+        ],
+        "id": "143",
+        "char": "地",
+        "meaning": "ground, earth",
+        "on": "チ,ジ",
+        "kun": "どま"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "堂",
+            "kana": "どう",
+            "translation": "temple, shrin, hall",
+            "type": "n, n-suf, n-pref"
+          },
+          {
+            "kanji": "堂々",
+            "kana": "どうどう",
+            "translation": "magnificent, impressive",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "会堂",
+            "kana": "かいどう",
+            "translation": "church, chapel",
+            "type": "n"
+          },
+          {
+            "kanji": "本堂",
+            "kana": "ほんどう",
+            "translation": "main temple building",
+            "type": "n"
+          }
+        ],
+        "id": "144",
+        "char": "堂",
+        "meaning": "public chamber, hall",
+        "on": "ドウ",
+        "kun": ""
+      },
+      {
+        "compound": [
+          {
+            "kanji": "場",
+            "kana": "ば",
+            "translation": "place",
+            "type": "n"
+          },
+          {
+            "kanji": "立場",
+            "kana": "たちば",
+            "translation": "standpoint, position, situation",
+            "type": "n"
+          },
+          {
+            "kanji": "工場",
+            "kana": "こうじょう",
+            "translation": "factory, plant, mill",
+            "type": "n"
+          },
+          {
+            "kanji": "広場",
+            "kana": "ひろば",
+            "translation": "plaza",
+            "type": "n"
+          },
+          {
+            "kanji": "式場",
+            "kana": "しきじょう",
+            "translation": "place of ceremony (eg wedding)",
+            "type": ""
+          },
+          {
+            "kanji": "酒場",
+            "kana": "さかば",
+            "translation": "bar, bar room",
+            "type": "n"
+          }
+        ],
+        "id": "145",
+        "char": "場",
+        "meaning": "location, place",
+        "on": "ジョウ,チョウ",
+        "kun": "ば"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "声",
+            "kana": "こえ",
+            "translation": "voice",
+            "type": "n"
+          },
+          {
+            "kanji": "声楽",
+            "kana": "せいがく",
+            "translation": "vocal music",
+            "type": "n"
+          },
+          {
+            "kanji": "小声",
+            "kana": "こごえ",
+            "translation": "soft voice, whisper",
+            "type": "n"
+          },
+          {
+            "kanji": "話し声",
+            "kana": "はなしごえ",
+            "translation": "speaking voice",
+            "type": "n"
+          },
+          {
+            "kanji": "金切り声",
+            "kana": "かなきりごえ",
+            "translation": "shrill voice, piercing cry, scream",
+            "type": "n"
+          }
+        ],
+        "id": "146",
+        "char": "声",
+        "meaning": "voice, sound",
+        "on": "セイ,ショウ",
+        "kun": "こえ,こわ-"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "売る",
+            "kana": "うる",
+            "translation": "to sell",
+            "type": "u-v"
+          },
+          {
+            "kanji": "発売",
+            "kana": "はつばい",
+            "translation": "sale",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "売り出す",
+            "kana": "うりだす",
+            "translation": "to market, to put on sale",
+            "type": "u-v"
+          },
+          {
+            "kanji": "売り場",
+            "kana": "うりば",
+            "translation": "place where things are sold, counter",
+            "type": "n"
+          },
+          {
+            "kanji": "売り物",
+            "kana": "うりもの",
+            "translation": "article for sale, For Sale",
+            "type": "n"
+          }
+        ],
+        "id": "147",
+        "char": "売",
+        "meaning": "sell",
+        "on": "バイ",
+        "kun": "う.る,う.れる,うり,うる,め"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "夏",
+            "kana": "なつ",
+            "translation": "summer",
+            "type": "n"
+          },
+          {
+            "kanji": "夏休み",
+            "kana": "なつやすみ",
+            "translation": "summer holiday",
+            "type": "n"
+          },
+          {
+            "kanji": "夏時間",
+            "kana": "なつじかん",
+            "translation": "summer time, daylight savings time",
+            "type": "n"
+          },
+          {
+            "kanji": "夏場",
+            "kana": "なつば",
+            "translation": "summertime",
+            "type": "n"
+          }
+        ],
+        "id": "148",
+        "char": "夏",
+        "meaning": "summer",
+        "on": "カ,ガ,ゲ",
+        "kun": "なつ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "夕べ",
+            "kana": "ゆうべ",
+            "translation": "evening",
+            "type": "n"
+          },
+          {
+            "kanji": "七夕",
+            "kana": "たなばた",
+            "translation": "Star Festival",
+            "type": "n"
+          },
+          {
+            "kanji": "夕方",
+            "kana": "ゆうがた",
+            "translation": "evening",
+            "type": "n"
+          },
+          {
+            "kanji": "夕飯",
+            "kana": "ゆうはん",
+            "translation": "evening meal",
+            "type": "n"
+          }
+        ],
+        "id": "149",
+        "char": "夕",
+        "meaning": "evening",
+        "on": "セキ",
+        "kun": "ゆう,ゆ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "夜",
+            "kana": "よる",
+            "translation": "evening",
+            "type": "n"
+          },
+          {
+            "kanji": "今夜",
+            "kana": "こんや",
+            "translation": "tonight, this evening",
+            "type": "n"
+          },
+          {
+            "kanji": "夜学",
+            "kana": "やがく",
+            "translation": "night school, evening classes",
+            "type": "n"
+          },
+          {
+            "kanji": "夜空",
+            "kana": "よぞら",
+            "translation": "night sky",
+            "type": "n"
+          }
+        ],
+        "id": "150",
+        "char": "夜",
+        "meaning": "night, evening",
+        "on": "ヤ",
+        "kun": "よ,よる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "太い",
+            "kana": "ふとい",
+            "translation": "thick",
+            "type": "adj"
+          },
+          {
+            "kanji": "太る",
+            "kana": "ふとる",
+            "translation": "to be on the heavy side",
+            "type": "u-v"
+          },
+          {
+            "kanji": "太字",
+            "kana": "ふとじ",
+            "translation": "bold type, thick characters",
+            "type": "n"
+          },
+          {
+            "kanji": "先太",
+            "kana": "さきぶと",
+            "translation": "thicker towards the end, club-shaped",
+            "type": "na-adj, n"
+          }
+        ],
+        "id": "151",
+        "char": "太",
+        "meaning": "thick, plump",
+        "on": "タイ,タ",
+        "kun": "ふと.い,ふと.る,おお,たか,ひろ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "好き",
+            "kana": "すき",
+            "translation": "to like",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "好意",
+            "kana": "こうい",
+            "translation": "good will, favour",
+            "type": "n"
+          },
+          {
+            "kanji": "好む",
+            "kana": "このむ",
+            "translation": "to like, to prefer",
+            "type": "u-v"
+          },
+          {
+            "kanji": "好色",
+            "kana": "こうしょく",
+            "translation": "lust, sensuality, lewdness",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "好都合",
+            "kana": "こうつごう",
+            "translation": "convenient, favourable",
+            "type": "na-adj, n"
+          }
+        ],
+        "id": "152",
+        "char": "好",
+        "meaning": "like something, pleasing",
+        "on": "コウ",
+        "kun": "この.む,す.く,よ.い,い.い,こ,たか,とし,よし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "妹",
+            "kana": "いもうと",
+            "translation": "younger sister",
+            "type": "n"
+          },
+          {
+            "kanji": "姉妹",
+            "kana": "しまい",
+            "translation": "sisters",
+            "type": "n"
+          },
+          {
+            "kanji": "妹川",
+            "kana": "いもがわ",
+            "translation": "Imogawa",
+            "type": "location"
+          },
+          {
+            "kanji": "姉妹会社",
+            "kana": "しまいがいしゃ",
+            "translation": "sister companies",
+            "type": "n"
+          },
+          {
+            "kanji": "姉妹都市",
+            "kana": "しまいとし",
+            "translation": "sister cities",
+            "type": "n"
+          }
+        ],
+        "id": "153",
+        "char": "妹",
+        "meaning": "younger sister",
+        "on": "マイ",
+        "kun": "いもうと,す,せ,も"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "姉",
+            "kana": "あね",
+            "translation": "(your own) older sister",
+            "type": "n"
+          },
+          {
+            "kanji": "姉妹",
+            "kana": "しまい",
+            "translation": "sisters",
+            "type": "n"
+          },
+          {
+            "kanji": "お姉さん",
+            "kana": "おねえさん",
+            "translation": "(someone elses) older sister",
+            "type": "n"
+          }
+        ],
+        "id": "154",
+        "char": "姉",
+        "meaning": "elder sister",
+        "on": "シ",
+        "kun": "あね,はは"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "始める",
+            "kana": "はじめる",
+            "translation": "to start, to begin",
+            "type": "ru-v, trans-verb"
+          },
+          {
+            "kanji": "年始",
+            "kana": "ねんし",
+            "translation": "new year",
+            "type": "n"
+          },
+          {
+            "kanji": "始業",
+            "kana": "しぎょう",
+            "translation": "start work, commencement, opening",
+            "type": "n"
+          },
+          {
+            "kanji": "始終",
+            "kana": "しじゅう",
+            "translation": "continuously, from beginning to end",
+            "type": "adv, n"
+          }
+        ],
+        "id": "155",
+        "char": "始",
+        "meaning": "commence, begin",
+        "on": "シ",
+        "kun": "はじ.める,はじ.まる,もと"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "字",
+            "kana": "じ",
+            "translation": "character, letter, word",
+            "type": "n"
+          },
+          {
+            "kanji": "漢字",
+            "kana": "かんじ",
+            "translation": "kanji, chinese characters",
+            "type": "n"
+          },
+          {
+            "kanji": "赤字",
+            "kana": "あかじ",
+            "translation": "deficit, in the red",
+            "type": "n"
+          },
+          {
+            "kanji": "名字",
+            "kana": "みょうじ",
+            "translation": "surname, family name",
+            "type": "n"
+          },
+          {
+            "kanji": "ローマ字",
+            "kana": "ロマー字",
+            "translation": "romanization, romaji",
+            "type": "n"
+          }
+        ],
+        "id": "156",
+        "char": "字",
+        "meaning": "character, letter, word",
+        "on": "ジ",
+        "kun": "あざ,あざな"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "室",
+            "kana": "しつ",
+            "translation": "room",
+            "type": "n, n-suf"
+          },
+          {
+            "kanji": "教室",
+            "kana": "きょうしつ",
+            "translation": "classroom",
+            "type": "n"
+          },
+          {
+            "kanji": "室内",
+            "kana": "しつない",
+            "translation": "in the room",
+            "type": "n"
+          }
+        ],
+        "id": "157",
+        "char": "室",
+        "meaning": "room, apartment",
+        "on": "シツ",
+        "kun": "むろ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "家",
+            "kana": "いえ",
+            "translation": "house, one's home",
+            "type": "n"
+          },
+          {
+            "kanji": "家族",
+            "kana": "かぞく",
+            "translation": "family",
+            "type": "n"
+          },
+          {
+            "kanji": "作家",
+            "kana": "さっか",
+            "translation": "writer, author",
+            "type": "n"
+          },
+          {
+            "kanji": "画家",
+            "kana": "がか",
+            "translation": "painter, artist",
+            "type": "n"
+          },
+          {
+            "kanji": "家事",
+            "kana": "かじ",
+            "translation": "housework, chores",
+            "type": "n"
+          }
+        ],
+        "id": "158",
+        "char": "家",
+        "meaning": "house, home",
+        "on": "カ,ケ",
+        "kun": "いえ,や,うち,あり,え,く,つか,べ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "寒い",
+            "kana": "さむい",
+            "translation": "cold (weather)",
+            "type": "adj"
+          },
+          {
+            "kanji": "寒がり",
+            "kana": "さむがり",
+            "translation": "senstive to cold",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "悪寒",
+            "kana": "おかん",
+            "translation": "chill, shakes",
+            "type": "n"
+          }
+        ],
+        "id": "159",
+        "char": "寒",
+        "meaning": "cold",
+        "on": "カン",
+        "kun": "さむ.い,さ,さん"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "小屋",
+            "kana": "こや",
+            "translation": "hut, cabin, shed",
+            "type": "n"
+          },
+          {
+            "kanji": "屋上",
+            "kana": "おくじょう",
+            "translation": "rooftop",
+            "type": "n"
+          },
+          {
+            "kanji": "料理屋",
+            "kana": "りょうりや",
+            "translation": "restaurant",
+            "type": "n"
+          },
+          {
+            "kanji": "屋外",
+            "kana": "おくがい",
+            "translation": "outdoors",
+            "type": "n"
+          },
+          {
+            "kanji": "屋内",
+            "kana": "おくない",
+            "translation": "indoors",
+            "type": "n"
+          },
+          {
+            "kanji": "飲み屋",
+            "kana": "のみや",
+            "translation": "bar, pub",
+            "type": ""
+          }
+        ],
+        "id": "160",
+        "char": "屋",
+        "meaning": "house, roof, shop",
+        "on": "オク",
+        "kun": "や,た"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "工場",
+            "kana": "こうじょう",
+            "translation": "factory, workshop",
+            "type": "n"
+          },
+          {
+            "kanji": "人工",
+            "kana": "じんこう",
+            "translation": "artificial, man-made",
+            "type": "n"
+          },
+          {
+            "kanji": "工学",
+            "kana": "こうがく",
+            "translation": "engineering",
+            "type": "n"
+          },
+          {
+            "kanji": "木工",
+            "kana": "もっこう",
+            "translation": "woodworking, woodworker",
+            "type": "n"
+          },
+          {
+            "kanji": "工員",
+            "kana": "こういん",
+            "translation": "factory worker",
+            "type": "n"
+          }
+        ],
+        "id": "161",
+        "char": "工",
+        "meaning": "craft, construction",
+        "on": "コウ,ク,グ",
+        "kun": "もく,たくみ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "市",
+            "kana": "し",
+            "translation": "city, town",
+            "type": "n-suf"
+          },
+          {
+            "kanji": "市民",
+            "kana": "しみん",
+            "translation": "citizen, townspeople",
+            "type": "n"
+          },
+          {
+            "kanji": "市内",
+            "kana": "しない",
+            "translation": "within a city",
+            "type": "n"
+          },
+          {
+            "kanji": "市部",
+            "kana": "しぶ",
+            "translation": "urban areas",
+            "type": "n"
+          }
+        ],
+        "id": "162",
+        "char": "市",
+        "meaning": "city, town",
+        "on": "シ",
+        "kun": "いち,い,ち"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "帰る",
+            "kana": "かえる",
+            "translation": "to return, to go back, to go home",
+            "type": "u-v"
+          },
+          {
+            "kanji": "帰す",
+            "kana": "かえす",
+            "translation": "to send back",
+            "type": "u-v"
+          },
+          {
+            "kanji": "お帰り",
+            "kana": "おかえり",
+            "translation": "return, welcome",
+            "type": "expression"
+          },
+          {
+            "kanji": "持ち帰り",
+            "kana": "もちかえり",
+            "translation": "takeout (ie food)",
+            "type": "n"
+          }
+        ],
+        "id": "163",
+        "char": "帰",
+        "meaning": "return",
+        "on": "キ",
+        "kun": "かえ.る,かえ.す,おく.る,とつ.ぐ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "広い",
+            "kana": "ひろい",
+            "translation": "spacious, wide",
+            "type": "adj"
+          },
+          {
+            "kanji": "広める",
+            "kana": "ひろめる",
+            "translation": "to broaden, to propogate",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "広場",
+            "kana": "ひろば",
+            "translation": "plaza",
+            "type": "n"
+          },
+          {
+            "kanji": "広大",
+            "kana": "こうだい",
+            "translation": "huge, very large",
+            "type": "na-adj"
+          }
+        ],
+        "id": "164",
+        "char": "広",
+        "meaning": "wide, broad, spacious",
+        "on": "コウ",
+        "kun": "ひろ.い,ひろ.まる,ひろ.める,ひろ.がる,ひろ.げる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "何度",
+            "kana": "なんど",
+            "translation": "how many times? how often?",
+            "type": "n"
+          },
+          {
+            "kanji": "度",
+            "kana": "ど",
+            "translation": "counter for occurrences",
+            "type": "n n-suf"
+          },
+          {
+            "kanji": "度合い",
+            "kana": "どあい",
+            "translation": "extent, degree",
+            "type": "n"
+          },
+          {
+            "kanji": "強度",
+            "kana": "きょうど",
+            "translation": "strength, intensity",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "一度に",
+            "kana": "いちどに",
+            "translation": "all at once",
+            "type": "adv"
+          }
+        ],
+        "id": "165",
+        "char": "度",
+        "meaning": "degrees, occurrence",
+        "on": "ド,ト,タク",
+        "kun": "たび,のり"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "建物",
+            "kana": "たてもの",
+            "translation": "building",
+            "type": "n"
+          },
+          {
+            "kanji": "建てる",
+            "kana": "たてる",
+            "translation": "to build, to construct",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "建前",
+            "kana": "たてまえ",
+            "translation": "official stance, public position",
+            "type": "n"
+          }
+        ],
+        "id": "166",
+        "char": "建",
+        "meaning": "build",
+        "on": "ケン,コン",
+        "kun": "た.てる,た.て,た.つ,たけ,たつ,たて"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "引く",
+            "kana": "ひく",
+            "translation": "to pull",
+            "type": "u-v"
+          },
+          {
+            "kanji": "引き出す",
+            "kana": "ひきだす",
+            "translation": "to pull out, to withdraw",
+            "type": "u-v"
+          },
+          {
+            "kanji": "引き出し",
+            "kana": "ひきだし",
+            "translation": "drawer",
+            "type": "n"
+          },
+          {
+            "kanji": "引用",
+            "kana": "いによう",
+            "translation": "quotation, citation",
+            "type": "n"
+          },
+          {
+            "kanji": "手引書",
+            "kana": "てびきしょ",
+            "translation": "handbook, manual, guide",
+            "type": "n"
+          }
+        ],
+        "id": "167",
+        "char": "引",
+        "meaning": "pull, tug, quote, refer to",
+        "on": "イン",
+        "kun": "ひ.く,ひ.き,ひ.き-,ひ.ける,いな,ひき,ひけ,びき"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "弟",
+            "kana": "おとうと",
+            "translation": "younger brother",
+            "type": "n"
+          },
+          {
+            "kanji": "子弟",
+            "kana": "してい",
+            "translation": "younger people",
+            "type": "n"
+          },
+          {
+            "kanji": "弟妹",
+            "kana": "ていまい",
+            "translation": "younger brother and sister",
+            "type": "n"
+          },
+          {
+            "kanji": "兄弟",
+            "kana": "きょうだい",
+            "translation": "siblings",
+            "type": "n"
+          }
+        ],
+        "id": "168",
+        "char": "弟",
+        "meaning": "younger brother",
+        "on": "テイ,ダイ,デ",
+        "kun": "おとうと,て"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "弱い",
+            "kana": "よわい",
+            "translation": "weak, frail, delicate",
+            "type": "adj"
+          },
+          {
+            "kanji": "弱者",
+            "kana": "じゃくしゃ",
+            "translation": "the weak",
+            "type": "n"
+          },
+          {
+            "kanji": "弱み",
+            "kana": "よわみ",
+            "translation": "weakness",
+            "type": "n"
+          },
+          {
+            "kanji": "弱虫",
+            "kana": "よわむし",
+            "translation": "weakling, coward",
+            "type": "n"
+          },
+          {
+            "kanji": "弱気",
+            "kana": "よわき",
+            "translation": "timid, faint-hearted",
+            "type": "na-adj"
+          }
+        ],
+        "id": "169",
+        "char": "弱",
+        "meaning": "weak, frail",
+        "on": "ジャク",
+        "kun": "よわ.い,よわ.る,よわ.まる,よわ.める"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "強い",
+            "kana": "つよい",
+            "translation": "strong",
+            "type": "adj"
+          },
+          {
+            "kanji": "強まる",
+            "kana": "つよまる",
+            "translation": "to get strong",
+            "type": "u-v"
+          },
+          {
+            "kanji": "勉強",
+            "kana": "べんきょう",
+            "translation": "study, diligence",
+            "type": ""
+          },
+          {
+            "kanji": "強気",
+            "kana": "つよき",
+            "translation": "firm, strong",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "強引",
+            "kana": "ごういん",
+            "translation": "overbearing, coercive, pushy",
+            "type": "nad-adj"
+          }
+        ],
+        "id": "170",
+        "char": "強",
+        "meaning": "strong",
+        "on": "キョウ,ゴウ",
+        "kun": "つよ.い,つよ.まる,つよ.める,し.いる,こわ.い,すね"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "待つ",
+            "kana": "まつ",
+            "translation": "to wait",
+            "type": "u-v"
+          },
+          {
+            "kanji": "待合",
+            "kana": "まちあい",
+            "translation": "meeting place",
+            "type": "n"
+          },
+          {
+            "kanji": "待ち合わせ",
+            "kana": "まちあわせ",
+            "translation": "appointment",
+            "type": "n"
+          },
+          {
+            "kanji": "心待ち",
+            "kana": "こころまち",
+            "translation": "anticipation, expectation",
+            "type": "n"
+          }
+        ],
+        "id": "171",
+        "char": "待",
+        "meaning": "wait",
+        "on": "タイ",
+        "kun": "ま.つ,まち,まつ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "心",
+            "kana": "こころ",
+            "translation": "heart, mind, spirit",
+            "type": "n"
+          },
+          {
+            "kanji": "安心",
+            "kana": "あんしん",
+            "translation": "relief, peace of mind",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "心理学",
+            "kana": "しんりがく",
+            "translation": "psychology",
+            "type": "n"
+          },
+          {
+            "kanji": "心中",
+            "kana": "しんちゅう",
+            "translation": "in one's heart, true motives",
+            "type": "n"
+          },
+          {
+            "kanji": "心地",
+            "kana": "ここち",
+            "translation": "feeling, sensation, mood",
+            "type": "n"
+          }
+        ],
+        "id": "172",
+        "char": "心",
+        "meaning": "heart, mind, spirit",
+        "on": "シン",
+        "kun": "こころ,りっしんべん"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "思う",
+            "kana": "おもう",
+            "translation": "to think, to feel",
+            "type": "u-v"
+          },
+          {
+            "kanji": "思い",
+            "kana": "おもい",
+            "translation": "thought",
+            "type": "n"
+          },
+          {
+            "kanji": "思い上がる",
+            "kana": "おもいあがる",
+            "translation": "to be conceited",
+            "type": "u-v"
+          },
+          {
+            "kanji": "思い出す",
+            "kana": "おもいだす",
+            "translation": "to recall, to remember",
+            "type": "u-v"
+          },
+          {
+            "kanji": "思わず",
+            "kana": "おもわず",
+            "translation": "spontaneous, unintentional",
+            "type": "adverb"
+          }
+        ],
+        "id": "173",
+        "char": "思",
+        "meaning": "think",
+        "on": "シ",
+        "kun": "おも.う,おもえら.く,おぼ.す"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "急",
+            "kana": "きゅう",
+            "translation": "urgent, sudden, steep",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "急ぐ",
+            "kana": "いそぐ",
+            "translation": "to hurry, to rush",
+            "type": "u-v"
+          },
+          {
+            "kanji": "急行",
+            "kana": "きゅうこう",
+            "translation": "express train",
+            "type": "n"
+          },
+          {
+            "kanji": "急死",
+            "kana": "きゅうし",
+            "translation": "sudden death",
+            "type": "n, p-suru"
+          }
+        ],
+        "id": "174",
+        "char": "急",
+        "meaning": "hurry, sudden",
+        "on": "キュウ",
+        "kun": "いそ.ぐ,いそ.ぎ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "悪い",
+            "kana": "わるい",
+            "translation": "bad, inferior",
+            "type": "adj"
+          },
+          {
+            "kanji": "最悪",
+            "kana": "さいあく",
+            "translation": "the worst",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "悪質",
+            "kana": "あくしつ",
+            "translation": "bad quality",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "悪さ",
+            "kana": "わるさ",
+            "translation": "badness",
+            "type": "n"
+          }
+        ],
+        "id": "175",
+        "char": "悪",
+        "meaning": "bad, evil, wrong",
+        "on": "アク,オ",
+        "kun": "わる.い,わる-,あ.し,にく.い,ああ,いずくに,いずくんぞ,にく.む"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "意味",
+            "kana": "いみ",
+            "translation": "meaning",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "意見",
+            "kana": "いけん",
+            "translation": "opinion, view",
+            "type": "n"
+          },
+          {
+            "kanji": "注意",
+            "kana": "ちゅうい",
+            "translation": "caution, being careful",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "意外",
+            "kana": "いがい",
+            "translation": "unexpected, surprising",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "民意",
+            "kana": "みんい",
+            "translation": "popular will",
+            "type": "n"
+          }
+        ],
+        "id": "176",
+        "char": "意",
+        "meaning": "idea, mind, thought",
+        "on": "イ",
+        "kun": "もと,よし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "所",
+            "kana": "ところ",
+            "translation": "place",
+            "type": "n"
+          },
+          {
+            "kanji": "場所",
+            "kana": "ばしょ",
+            "translation": "place, location",
+            "type": "n"
+          },
+          {
+            "kanji": "研究所",
+            "kana": "けんきゅうじょ",
+            "translation": "research place, laboratory",
+            "type": "n"
+          },
+          {
+            "kanji": "住所",
+            "kana": "じゅうしょ",
+            "translation": "address, residence",
+            "type": "n"
+          },
+          {
+            "kanji": "高所",
+            "kana": "こうしょ",
+            "translation": "heights, high altitude",
+            "type": "n"
+          }
+        ],
+        "id": "177",
+        "char": "所",
+        "meaning": "place",
+        "on": "ショ",
+        "kun": "ところ,どころ,とこ,せ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "持つ",
+            "kana": "もつ",
+            "translation": "to have, to hold, to carry",
+            "type": "u-v"
+          },
+          {
+            "kanji": "気持ち",
+            "kana": "きもち",
+            "translation": "feeling, sensation, mood",
+            "type": "n"
+          },
+          {
+            "kanji": "持ち出す",
+            "kana": "もちだす",
+            "translation": "to take out",
+            "type": "u-v"
+          },
+          {
+            "kanji": "持ち味",
+            "kana": "もちあじ",
+            "translation": "inherent flavour, distinctive characteristic",
+            "type": "n"
+          },
+          {
+            "kanji": "持ち帰る",
+            "kana": "もちかえる",
+            "translation": "to carry back/home, to take out (food)",
+            "type": "u-v"
+          }
+        ],
+        "id": "178",
+        "char": "持",
+        "meaning": "hold, have",
+        "on": "ジ",
+        "kun": "も.つ,も.てる,もち,もつ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "教える",
+            "kana": "おしえる",
+            "translation": "to teach, to inform",
+            "type": "u-v"
+          },
+          {
+            "kanji": "教え",
+            "kana": "おしえ",
+            "translation": "teaching, lesson",
+            "type": "n"
+          },
+          {
+            "kanji": "文教",
+            "kana": "ぶんきょう",
+            "translation": "education",
+            "type": "n"
+          }
+        ],
+        "id": "179",
+        "char": "教",
+        "meaning": "teach, faith",
+        "on": "キョウ",
+        "kun": "おし.える,おそ.わる,のり,ひさ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "文",
+            "kana": "ぶん",
+            "translation": "sentence",
+            "type": "n"
+          },
+          {
+            "kanji": "文学",
+            "kana": "ぶんがく",
+            "translation": "literature",
+            "type": "n"
+          },
+          {
+            "kanji": "文書",
+            "kana": "ぶんしょ",
+            "translation": "document, writings, paperwork, records",
+            "type": "n"
+          },
+          {
+            "kanji": "注文",
+            "kana": "ちゅうもん",
+            "translation": "order, request",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "文学者",
+            "kana": "ぶんがくしゃ",
+            "translation": "literary person",
+            "type": "n"
+          }
+        ],
+        "id": "180",
+        "char": "文",
+        "meaning": "sentence, literature, decoration",
+        "on": "ブン,モン",
+        "kun": "ふみ,あや,かざり,ふ,も,ぶんにょう"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "料理",
+            "kana": "りょうり",
+            "translation": "cooking, cuisine",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "料金",
+            "kana": "りょうきん",
+            "translation": "fee, charge",
+            "type": "n"
+          },
+          {
+            "kanji": "料理屋",
+            "kana": "りょうりや",
+            "translation": "restaurant",
+            "type": "n"
+          },
+          {
+            "kanji": "試料",
+            "kana": "しりょう",
+            "translation": "sample, test piece",
+            "type": "n"
+          }
+        ],
+        "id": "181",
+        "char": "料",
+        "meaning": "fee, materials",
+        "on": "リョウ",
+        "kun": ""
+      },
+      {
+        "compound": [
+          {
+            "kanji": "方",
+            "kana": "かた",
+            "translation": "(1) person, (2) way of doing",
+            "type": "n-suf"
+          },
+          {
+            "kanji": "考え方",
+            "kana": "かんがえかた",
+            "translation": "way of thinking",
+            "type": "n"
+          },
+          {
+            "kanji": "見方",
+            "kana": "みかた",
+            "translation": "viewpoint",
+            "type": "n"
+          },
+          {
+            "kanji": "味方",
+            "kana": "みかた",
+            "translation": "friend, person on side",
+            "type": "n"
+          }
+        ],
+        "id": "182",
+        "char": "方",
+        "meaning": "direction, person, alternative",
+        "on": "ホウ",
+        "kun": "かた,から,な,なた,ふさ,まさ,みち,も,わ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "旅",
+            "kana": "たび",
+            "translation": "travel, trip, journey",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "旅行",
+            "kana": "りょこう",
+            "translation": "travel, trip",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "旅館",
+            "kana": "りょかん",
+            "translation": "Japanese-style hotel",
+            "type": "n"
+          },
+          {
+            "kanji": "旅人",
+            "kana": "たびびと",
+            "translation": "traveller",
+            "type": "n"
+          },
+          {
+            "kanji": "旅先",
+            "kana": "たびさき",
+            "translation": "destination, goal",
+            "type": "n"
+          }
+        ],
+        "id": "183",
+        "char": "旅",
+        "meaning": "trip, travel",
+        "on": "リョ",
+        "kun": "たび"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "家族",
+            "kana": "かぞく",
+            "translation": "family, members of family",
+            "type": "n"
+          },
+          {
+            "kanji": "民族",
+            "kana": "みんぞく",
+            "translation": "people, race",
+            "type": "n"
+          },
+          {
+            "kanji": "水族館",
+            "kana": "すいぞくかん",
+            "translation": "aquarium",
+            "type": "n"
+          },
+          {
+            "kanji": "王族",
+            "kana": "おうぞく",
+            "translation": "royalty",
+            "type": "n"
+          }
+        ],
+        "id": "184",
+        "char": "族",
+        "meaning": "tribe, family",
+        "on": "ゾク",
+        "kun": "つぎ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "早い",
+            "kana": "はやい",
+            "translation": "early",
+            "type": "adj"
+          },
+          {
+            "kanji": "早める",
+            "kana": "はやめる",
+            "translation": "to quicken, to expedite",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "早口",
+            "kana": "はやくち",
+            "translation": "fast talking",
+            "type": "n"
+          },
+          {
+            "kanji": "早起き",
+            "kana": "はやおき",
+            "translation": "early rising",
+            "type": "n"
+          }
+        ],
+        "id": "185",
+        "char": "早",
+        "meaning": "early, fast",
+        "on": "ソウ,サッ",
+        "kun": "はや.い,はや,はや-,はや.まる,はや.める,さ-,さか,さわ,そ,わ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "明るい",
+            "kana": "あかるい",
+            "translation": "bright, cheerful",
+            "type": "adj"
+          },
+          {
+            "kanji": "説明",
+            "kana": "せつめい",
+            "translation": "explanation",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "不明",
+            "kana": "ふめい",
+            "translation": "unknown, ambiguous",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "明日",
+            "kana": "あした",
+            "translation": "tomorrow",
+            "type": "n"
+          },
+          {
+            "kanji": "発明",
+            "kana": "はつめい",
+            "translation": "invention",
+            "type": "n, p-suru"
+          }
+        ],
+        "id": "186",
+        "char": "明",
+        "meaning": "bright, light",
+        "on": "メイ,ミョウ,ミン",
+        "kun": "あ.かり,あか.るい,あか.るむ,あか.らむ,あき.らか,あ.ける,あ.く,あ.くる,あ.かす,あきら,あけ,あす,きら,け,さや,さやか,とし,はる,み,め"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "映画",
+            "kana": "えいが",
+            "translation": "movie, film",
+            "type": "n"
+          },
+          {
+            "kanji": "映る",
+            "kana": "うつる",
+            "translation": "to be reflected, to harmonize with",
+            "type": "u-v"
+          },
+          {
+            "kanji": "映画館",
+            "kana": "えいがかん",
+            "translation": "movie theatre, cinema",
+            "type": "n"
+          },
+          {
+            "kanji": "映える",
+            "kana": "はえる",
+            "translation": "to shine, to look attractive, to look pretty",
+            "type": "ru-v"
+          }
+        ],
+        "id": "187",
+        "char": "映",
+        "meaning": "reflect, reflection, projection",
+        "on": "エイ",
+        "kun": "うつ.る,うつ.す,は.える,あきら,え,てる"
+      },
+      {
+        "compound": {
+          "kanji": "春",
+          "kana": "はる",
+          "translation": "spring",
+          "type": "n"
+        },
+        "id": "188",
+        "char": "春",
+        "meaning": "spring",
+        "on": "シュン",
+        "kun": "はる,あずま,かす,すの,ひ,わら"
+      },
+      {
+        "compound": {
+          "kanji": "昼食",
+          "kana": "ちゅうしょく",
+          "translation": "lunch, midday meal",
+          "type": "n"
+        },
+        "id": "189",
+        "char": "昼",
+        "meaning": "daytime, noon",
+        "on": "チュウ",
+        "kun": "ひる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "暑い",
+            "kana": "あつい",
+            "translation": "hot",
+            "type": "adj"
+          },
+          {
+            "kanji": "暑さ",
+            "kana": "あつさ",
+            "translation": "heat",
+            "type": "n"
+          },
+          {
+            "kanji": "暑中",
+            "kana": "しょちゅう",
+            "translation": "mid-summer",
+            "type": "n"
+          }
+        ],
+        "id": "190",
+        "char": "暑",
+        "meaning": "hot",
+        "on": "ショ",
+        "kun": "あつ.い"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "暗い",
+            "kana": "くらい",
+            "translation": "dark, gloomy",
+            "type": "adj"
+          },
+          {
+            "kanji": "真っ暗",
+            "kana": "まっくら",
+            "translation": "total darkness, pitch dark",
+            "type": "nad-adj, n"
+          },
+          {
+            "kanji": "暗に",
+            "kana": "あんに",
+            "translation": "implicitly",
+            "type": "adv"
+          }
+        ],
+        "id": "191",
+        "char": "暗",
+        "meaning": "darkness, disappear",
+        "on": "アン",
+        "kun": "くら.い,くら.む,くれ.る"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "曜日",
+            "kana": "ようび",
+            "translation": "day of week",
+            "type": "n"
+          },
+          {
+            "kanji": "木曜日",
+            "kana": "もくようび",
+            "translation": "thursday",
+            "type": "n"
+          },
+          {
+            "kanji": "火曜日",
+            "kana": "かようび",
+            "translation": "tuesday",
+            "type": "n"
+          },
+          {
+            "kanji": "水曜日",
+            "kana": "すいようび",
+            "translation": "wednesday",
+            "type": "n"
+          }
+        ],
+        "id": "192",
+        "char": "曜",
+        "meaning": "weekday",
+        "on": "ヨウ",
+        "kun": "てる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "有名",
+            "kana": "ゆうめい",
+            "translation": "famous",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "有用",
+            "kana": "ゆうよう",
+            "translation": "useful, helpful",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "有事",
+            "kana": "ゆうじ",
+            "translation": "emergency",
+            "type": "n"
+          }
+        ],
+        "id": "193",
+        "char": "有",
+        "meaning": "possess, have, exist",
+        "on": "ユウ,ウ",
+        "kun": "あ.る,あ,あら,あり,ある,くに,なお,ゆ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "服",
+            "kana": "ふく",
+            "translation": "clothes",
+            "type": "n"
+          },
+          {
+            "kanji": "洋服",
+            "kana": "ようふく",
+            "translation": "western clothes",
+            "type": "n"
+          }
+        ],
+        "id": "194",
+        "char": "服",
+        "meaning": "clothing",
+        "on": "フク",
+        "kun": "はっ,はつ,はら"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "朝",
+            "kana": "あさ",
+            "translation": "morning",
+            "type": "n"
+          },
+          {
+            "kanji": "毎朝",
+            "kana": "まいあさ",
+            "translation": "every morning",
+            "type": "n"
+          },
+          {
+            "kanji": "朝日",
+            "kana": "あさひ",
+            "translation": "morning sun",
+            "type": "n"
+          },
+          {
+            "kanji": "朝食",
+            "kana": "ちょうしょく",
+            "translation": "breakfast (formal)",
+            "type": "n"
+          },
+          {
+            "kanji": "朝ご飯",
+            "kana": "あさご飯",
+            "translation": "breakfast",
+            "type": "n"
+          },
+          {
+            "kanji": "今朝",
+            "kana": "けさ",
+            "translation": "this morning",
+            "type": "n"
+          }
+        ],
+        "id": "195",
+        "char": "朝",
+        "meaning": "morning, period",
+        "on": "チョウ",
+        "kun": "あさ,あ,あそ,ささ,ちか,とも"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "村",
+            "kana": "むら",
+            "translation": "village",
+            "type": "n"
+          },
+          {
+            "kanji": "山村",
+            "kana": "さんそん",
+            "translation": "mountain village",
+            "type": "n"
+          },
+          {
+            "kanji": "村人",
+            "kana": "むらびと",
+            "translation": "villager",
+            "type": "n"
+          }
+        ],
+        "id": "196",
+        "char": "村",
+        "meaning": "town, village",
+        "on": "ソン",
+        "kun": "むら,え,むた,ら"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "林",
+            "kana": "はやし",
+            "translation": "woods, forest",
+            "type": "n"
+          },
+          {
+            "kanji": "森林",
+            "kana": "しんりん",
+            "translation": "forest",
+            "type": "n"
+          },
+          {
+            "kanji": "林業",
+            "kana": "りんぎょう",
+            "translation": "forestry",
+            "type": "n"
+          }
+        ],
+        "id": "197",
+        "char": "林",
+        "meaning": "forest",
+        "on": "リン",
+        "kun": "はやし,し"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "森",
+            "kana": "もり",
+            "translation": "forest",
+            "type": "n"
+          },
+          {
+            "kanji": "森林",
+            "kana": "しんりん",
+            "translation": "forest",
+            "type": "n"
+          }
+        ],
+        "id": "198",
+        "char": "森",
+        "meaning": "forest, woods",
+        "on": "シン",
+        "kun": "もり,もと"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "業者",
+            "kana": "ぎょうしゃ",
+            "translation": "trader",
+            "type": ""
+          },
+          {
+            "kanji": "工業",
+            "kana": "こうぎょう",
+            "translation": "manufacturing industry",
+            "type": "n"
+          },
+          {
+            "kanji": "休業",
+            "kana": "きゅうぎょう",
+            "translation": "closed (store), shutdown",
+            "type": "n"
+          },
+          {
+            "kanji": "開業",
+            "kana": "かいぎょう",
+            "translation": "opening of business",
+            "type": "n"
+          }
+        ],
+        "id": "199",
+        "char": "業",
+        "meaning": "business, performance",
+        "on": "ギョウ,ゴウ",
+        "kun": "わざ,なり,のぶ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "楽",
+            "kana": "らく",
+            "translation": "comfort, ease",
+            "type": "na-adj, n, n-suf"
+          },
+          {
+            "kanji": "音楽",
+            "kana": "おんがく",
+            "translation": "music",
+            "type": "n"
+          },
+          {
+            "kanji": "楽しむ",
+            "kana": "たのしむ",
+            "translation": "to enjoy",
+            "type": ""
+          },
+          {
+            "kanji": "楽しい",
+            "kana": "たのしい",
+            "translation": "enjoyable, fun",
+            "type": "adj"
+          }
+        ],
+        "id": "200",
+        "char": "楽",
+        "meaning": "music, comfort, ease",
+        "on": "ガク,ラク,ゴウ",
+        "kun": "たの.しい,たの.しむ,この.む,さ,た,やす,ら"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "歌",
+            "kana": "うた",
+            "translation": "song, poetry",
+            "type": "n"
+          },
+          {
+            "kanji": "歌う",
+            "kana": "うたう",
+            "translation": "to sing",
+            "type": "u-v"
+          },
+          {
+            "kanji": "歌手",
+            "kana": "かしゅ",
+            "translation": "singer",
+            "type": "n"
+          },
+          {
+            "kanji": "国歌",
+            "kana": "こっか",
+            "translation": "national anthem",
+            "type": "n"
+          },
+          {
+            "kanji": "歌声",
+            "kana": "うたごえ",
+            "translation": "singing voice",
+            "type": "n"
+          }
+        ],
+        "id": "201",
+        "char": "歌",
+        "meaning": "song, sing",
+        "on": "カ",
+        "kun": "うた,うた.う"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "中止",
+            "kana": "ちゅうし",
+            "translation": "suspension, stoppage, interruption",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "止める",
+            "kana": "とめる",
+            "translation": "to stop (something)",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "止まる",
+            "kana": "とまる",
+            "translation": "to remain, to stay",
+            "type": "u-v"
+          },
+          {
+            "kanji": "休止",
+            "kana": "きゅうし",
+            "translation": "pause, rest",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "止む",
+            "kana": "やむ",
+            "translation": "to cease, to stop, be over",
+            "type": "u-v, intrans verb"
+          }
+        ],
+        "id": "202",
+        "char": "止",
+        "meaning": "stop, halt",
+        "on": "シ",
+        "kun": "と.まる,と.める,とど.める,とど.め,とど.まる,や.める,や.む,よ.す,どめ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "正しい",
+            "kana": "ただしい",
+            "translation": "correct, truthful, righteous",
+            "type": "adj"
+          },
+          {
+            "kanji": "正月",
+            "kana": "しょうがつ",
+            "translation": "New Year's Day, the first month",
+            "type": "n"
+          },
+          {
+            "kanji": "正す",
+            "kana": "ただす",
+            "translation": "to correct, to amend",
+            "type": "u-v"
+          },
+          {
+            "kanji": "正体",
+            "kana": "しょうたい",
+            "translation": "natural shape, one's true character",
+            "type": "n"
+          },
+          {
+            "kanji": "正道",
+            "kana": "せいどう",
+            "translation": "the right path, path of righteousness",
+            "type": "n"
+          }
+        ],
+        "id": "203",
+        "char": "正",
+        "meaning": "correct, justice, righteous",
+        "on": "セイ,ショウ",
+        "kun": "ただ.しい,ただ.す,まさ,まさ.に,おお,くに,ま,まさし,ただし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "歩く",
+            "kana": "あるく",
+            "translation": "to walk",
+            "type": "u-v"
+          },
+          {
+            "kanji": "進歩",
+            "kana": "しんぽ",
+            "translation": "to progress, to develop",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "牛歩",
+            "kana": "ぎゅうほ",
+            "translation": "snail's pace, slow progress",
+            "type": "n"
+          },
+          {
+            "kanji": "初歩",
+            "kana": "しょほ",
+            "translation": "rudiments, elements, ABC's of...",
+            "type": "n"
+          }
+        ],
+        "id": "204",
+        "char": "歩",
+        "meaning": "walk, counter for steps",
+        "on": "ホ,ブ,フ",
+        "kun": "ある.く,あゆ.む,あ,ゆき,ゆみ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "死ぬ",
+            "kana": "しぬ",
+            "translation": "to die",
+            "type": "u-v"
+          },
+          {
+            "kanji": "死人",
+            "kana": "しにん",
+            "translation": "corpse, dead person",
+            "type": "n"
+          },
+          {
+            "kanji": "死語",
+            "kana": "しご",
+            "translation": "dead language, obsolete word",
+            "type": "n"
+          },
+          {
+            "kanji": "病死",
+            "kana": "びょうし",
+            "translation": "natural death",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "安楽死",
+            "kana": "あんらくし",
+            "translation": "euthanasia",
+            "type": "n"
+          }
+        ],
+        "id": "205",
+        "char": "死",
+        "meaning": "death, die",
+        "on": "シ",
+        "kun": "し.ぬ,し.に-"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "民",
+            "kana": "たみ",
+            "translation": "nation, people",
+            "type": "n"
+          },
+          {
+            "kanji": "民間",
+            "kana": "みんかん",
+            "translation": "private, unofficial, civilian",
+            "type": "no-adj, n"
+          },
+          {
+            "kanji": "民族",
+            "kana": "みんぞく",
+            "translation": "people, race, nation",
+            "type": "n"
+          },
+          {
+            "kanji": "民家",
+            "kana": "みんか",
+            "translation": "private house",
+            "type": "n"
+          },
+          {
+            "kanji": "民主",
+            "kana": "みんしゅ",
+            "translation": "democratic, head of nation",
+            "type": "n"
+          }
+        ],
+        "id": "206",
+        "char": "民",
+        "meaning": "people, nation, subjects",
+        "on": "ミン",
+        "kun": "たみ,ひと,み"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "池",
+            "kana": "いけ",
+            "translation": "pond",
+            "type": "n"
+          },
+          {
+            "kanji": "電池",
+            "kana": "でんち",
+            "translation": "battery",
+            "type": "n"
+          }
+        ],
+        "id": "207",
+        "char": "池",
+        "meaning": "pond, pool, reservoir",
+        "on": "チ",
+        "kun": "いけ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "注ぐ",
+            "kana": "そそぐ",
+            "translation": "to pour, to fill, to feed (a fire)",
+            "type": "u-v"
+          },
+          {
+            "kanji": "注文",
+            "kana": "ちゅうもん",
+            "translation": "order, request",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "注意",
+            "kana": "ちゅうい",
+            "translation": "attention, being careful",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "注進",
+            "kana": "ちゅうしん",
+            "translation": "information",
+            "type": "n, p-suru"
+          }
+        ],
+        "id": "208",
+        "char": "注",
+        "meaning": "pour, concentrate",
+        "on": "チュウ",
+        "kun": "そそ.ぐ,さ.す,つ.ぐ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "海洋",
+            "kana": "かいよう",
+            "translation": "ocean",
+            "type": "n"
+          },
+          {
+            "kanji": "西洋",
+            "kana": "せいよう",
+            "translation": "west, western countries",
+            "type": "n"
+          },
+          {
+            "kanji": "洋風",
+            "kana": "ようふう",
+            "translation": "western style",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "洋食",
+            "kana": "ようしょく",
+            "translation": "western style meal",
+            "type": "n"
+          }
+        ],
+        "id": "209",
+        "char": "洋",
+        "meaning": "ocean, western style",
+        "on": "ヨウ",
+        "kun": "なだ,ひろ,ひろし,よ,よし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "洗う",
+            "kana": "あらう",
+            "translation": "to wash",
+            "type": "u-v"
+          },
+          {
+            "kanji": "洗濯",
+            "kana": "せんたく",
+            "translation": "washing, laundry",
+            "type": "n"
+          },
+          {
+            "kanji": "手洗い",
+            "kana": "てあらい",
+            "translation": "washroom, lavatory",
+            "type": "n"
+          },
+          {
+            "kanji": "洗車",
+            "kana": "せんしゃ",
+            "translation": "car wash",
+            "type": "n"
+          }
+        ],
+        "id": "210",
+        "char": "洗",
+        "meaning": "wash",
+        "on": "セン",
+        "kun": "あら.う,あらい,らい"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "海",
+            "kana": "うみ",
+            "translation": "sea, beach",
+            "type": "n"
+          },
+          {
+            "kanji": "海外",
+            "kana": "かいがい",
+            "translation": "overseas, abroad",
+            "type": "n"
+          },
+          {
+            "kanji": "海鳥",
+            "kana": "うみどり",
+            "translation": "sea bird",
+            "type": "n"
+          },
+          {
+            "kanji": "北海道",
+            "kana": "ほっかいどう",
+            "translation": "hokkaido (most northern of 4 main islands of Japan)",
+            "type": "place"
+          }
+        ],
+        "id": "211",
+        "char": "海",
+        "meaning": "sea, ocean",
+        "on": "カイ",
+        "kun": "うみ,あ,あま,うな,うん,え,か,た,ひろ,ひろし,ぶ,まち,まま,み,め,わたる"
+      },
+      {
+        "compound": {
+          "kanji": "漢字",
+          "kana": "かんじ",
+          "translation": "chinese character",
+          "type": "n"
+        },
+        "id": "212",
+        "char": "漢",
+        "meaning": "china",
+        "on": "カン",
+        "kun": "はん"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "牛",
+            "kana": "うし",
+            "translation": "cow",
+            "type": "n"
+          },
+          {
+            "kanji": "牛肉",
+            "kana": "ぎゅうにく",
+            "translation": "beef",
+            "type": "n"
+          },
+          {
+            "kanji": "牛歩",
+            "kana": "ぎゅうほ",
+            "translation": "snail's pace",
+            "type": "n"
+          },
+          {
+            "kanji": "和牛",
+            "kana": "わぎゅう",
+            "translation": "Japanese beef cow",
+            "type": "n"
+          },
+          {
+            "kanji": "水牛",
+            "kana": "すいぎゅう",
+            "translation": "water buffalo",
+            "type": "n"
+          }
+        ],
+        "id": "213",
+        "char": "牛",
+        "meaning": "cow",
+        "on": "ギュウ",
+        "kun": "うし,うじ,ご"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "物",
+            "kana": "もの",
+            "translation": "thing, object",
+            "type": "n"
+          },
+          {
+            "kanji": "建物",
+            "kana": "たてもの",
+            "translation": "building",
+            "type": "n"
+          },
+          {
+            "kanji": "物語",
+            "kana": "ものがたり",
+            "translation": "tale, legend, story",
+            "type": "n"
+          },
+          {
+            "kanji": "買い物",
+            "kana": "かいもの",
+            "translation": "shopping",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "動物",
+            "kana": "どうぶつ",
+            "translation": "animal",
+            "type": "n"
+          }
+        ],
+        "id": "214",
+        "char": "物",
+        "meaning": "thing, object, matter",
+        "on": "ブツ,モツ",
+        "kun": "もの,もの-"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "特別",
+            "kana": "とくべつ",
+            "translation": "special",
+            "type": "na-adj, adv"
+          },
+          {
+            "kanji": "特に",
+            "kana": "とくに",
+            "translation": "particularly, especially",
+            "type": "adv"
+          },
+          {
+            "kanji": "特集",
+            "kana": "とくしゅう",
+            "translation": "special feature, special edition",
+            "type": "n"
+          },
+          {
+            "kanji": "特急",
+            "kana": "とっきゅう",
+            "translation": "limited express train",
+            "type": "n"
+          }
+        ],
+        "id": "215",
+        "char": "特",
+        "meaning": "special",
+        "on": "トク",
+        "kun": ""
+      },
+      {
+        "compound": [
+          {
+            "kanji": "犬",
+            "kana": "いぬ",
+            "translation": "dog",
+            "type": "n"
+          },
+          {
+            "kanji": "野犬",
+            "kana": "やけん",
+            "translation": "stray dog",
+            "type": "n"
+          }
+        ],
+        "id": "216",
+        "char": "犬",
+        "meaning": "dog",
+        "on": "ケン",
+        "kun": "いぬ,いぬ-"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "理",
+            "kana": "り",
+            "translation": "reason",
+            "type": "n"
+          },
+          {
+            "kanji": "料理",
+            "kana": "りょうり",
+            "translation": "cooking, cuisine",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "物理",
+            "kana": "ぶつり",
+            "translation": "physics",
+            "type": "n"
+          },
+          {
+            "kanji": "地理",
+            "kana": "ちり",
+            "translation": "geography",
+            "type": "n"
+          },
+          {
+            "kanji": "真理",
+            "kana": "しんり",
+            "translation": "truth",
+            "type": "n"
+          }
+        ],
+        "id": "217",
+        "char": "理",
+        "meaning": "logic, reason, justice",
+        "on": "リ",
+        "kun": "ことわり,あや,おさむ,さと,さとる,ただ,ただし,とおる,に,のり,ひ,まこと,まさ,まさし,まろ,みち,よし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "産業",
+            "kana": "さんぎょう",
+            "translation": "industry",
+            "type": "n"
+          },
+          {
+            "kanji": "不動産",
+            "kana": "ふどうさん",
+            "translation": "real estate",
+            "type": "n"
+          },
+          {
+            "kanji": "産む",
+            "kana": "うむ",
+            "translation": "to give birth, to produce",
+            "type": "u-v"
+          }
+        ],
+        "id": "218",
+        "char": "産",
+        "meaning": "products, give birth",
+        "on": "サン",
+        "kun": "う.む,う.まれる,うぶ-,む.す,もと"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "用",
+            "kana": "よう",
+            "translation": "task, business, use",
+            "type": "n"
+          },
+          {
+            "kanji": "信用",
+            "kana": "しんよう",
+            "translation": "confidence",
+            "type": ""
+          },
+          {
+            "kanji": "起用",
+            "kana": "きよう",
+            "translation": "appointment, promotion",
+            "type": "n"
+          },
+          {
+            "kanji": "用地",
+            "kana": "ようち",
+            "translation": "site",
+            "type": "n"
+          },
+          {
+            "kanji": "用紙",
+            "kana": "ようし",
+            "translation": "blank form",
+            "type": "n"
+          }
+        ],
+        "id": "219",
+        "char": "用",
+        "meaning": "use, employ, utilise",
+        "on": "ヨウ",
+        "kun": "もち.いる,たから"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "田",
+            "kana": "た",
+            "translation": "rice field",
+            "type": "n"
+          },
+          {
+            "kanji": "新田",
+            "kana": "しんでん",
+            "translation": "a new rice field",
+            "type": "n"
+          }
+        ],
+        "id": "220",
+        "char": "田",
+        "meaning": "rice field, rice paddy",
+        "on": "デン",
+        "kun": "た,いなか,おか,たん,で,とう,や"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "町",
+            "kana": "まち",
+            "translation": "town, street, road",
+            "type": "n"
+          },
+          {
+            "kanji": "町中",
+            "kana": "まちなか",
+            "translation": "downtown",
+            "type": "n"
+          }
+        ],
+        "id": "221",
+        "char": "町",
+        "meaning": "town, village, town",
+        "on": "チョウ",
+        "kun": "まち"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "映画",
+            "kana": "えいが",
+            "translation": "movie, film",
+            "type": "n"
+          },
+          {
+            "kanji": "計画",
+            "kana": "けいかく",
+            "translation": "plan, schedule",
+            "type": "n"
+          },
+          {
+            "kanji": "画家",
+            "kana": "がか",
+            "translation": "painter, artist",
+            "type": "n"
+          },
+          {
+            "kanji": "映画館",
+            "kana": "えいがかん",
+            "translation": "cinema, movie theatre",
+            "type": "n"
+          },
+          {
+            "kanji": "区画",
+            "kana": "くかく",
+            "translation": "division, section",
+            "type": "n"
+          }
+        ],
+        "id": "222",
+        "char": "画",
+        "meaning": "brush stroke, picture",
+        "on": "ガ,カク,エ,カイ",
+        "kun": "えが.く,かく.する,かぎ.る,はかりごと,はか.る"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "世界",
+            "kana": "せかい",
+            "translation": "world",
+            "type": "n"
+          },
+          {
+            "kanji": "学界",
+            "kana": "がっかい",
+            "translation": "academic world",
+            "type": "n"
+          },
+          {
+            "kanji": "外界",
+            "kana": "がいかい",
+            "translation": "physical world, the externals",
+            "type": "n"
+          }
+        ],
+        "id": "223",
+        "char": "界",
+        "meaning": "world",
+        "on": "カイ",
+        "kun": ""
+      },
+      {
+        "compound": [
+          {
+            "kanji": "病院",
+            "kana": "びょういん",
+            "translation": "hospital",
+            "type": "n"
+          },
+          {
+            "kanji": "病気",
+            "kana": "びょうき",
+            "translation": "sick",
+            "type": "n"
+          },
+          {
+            "kanji": "病死",
+            "kana": "びょうし",
+            "translation": "(dying a) natural death",
+            "type": "n,p-suru"
+          },
+          {
+            "kanji": "病人",
+            "kana": "びょうにん",
+            "translation": "sick person",
+            "type": "n"
+          }
+        ],
+        "id": "224",
+        "char": "病",
+        "meaning": "ill, sick",
+        "on": "ビョウ,ヘイ",
+        "kun": "や.む,やまい"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "発表",
+            "kana": "はっぴょう",
+            "translation": "announcement, publication",
+            "type": "n,p-suru"
+          },
+          {
+            "kanji": "発言",
+            "kana": "はつげん",
+            "translation": "proposal, speech",
+            "type": "n"
+          },
+          {
+            "kanji": "発",
+            "kana": "はつ",
+            "translation": "counter for gunshots",
+            "type": "n-suf"
+          },
+          {
+            "kanji": "出発",
+            "kana": "しゅっぱつ",
+            "translation": "departure",
+            "type": "n,p-suru"
+          },
+          {
+            "kanji": "発見",
+            "kana": "はっけん",
+            "translation": "discovery, detection",
+            "type": "n,p-suru"
+          }
+        ],
+        "id": "225",
+        "char": "発",
+        "meaning": "departure, emit, disclose",
+        "on": "ハツ,ホツ",
+        "kun": "た.つ,あば.く,おこ.る,つか.わす,はな.つ,ば,わ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "県",
+            "kana": "けん",
+            "translation": "prefecture",
+            "type": "n"
+          },
+          {
+            "kanji": "県内",
+            "kana": "けんない",
+            "translation": "within the prefecture",
+            "type": "n"
+          },
+          {
+            "kanji": "県外",
+            "kana": "けんがい",
+            "translation": "outside the prefecture",
+            "type": "n"
+          }
+        ],
+        "id": "226",
+        "char": "県",
+        "meaning": "prefecture",
+        "on": "ケン",
+        "kun": "か.ける,あがた,がた"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "写真",
+            "kana": "しゃしん",
+            "translation": "photograph",
+            "type": "n"
+          },
+          {
+            "kanji": "真中",
+            "kana": "まんなか",
+            "translation": "centre, mid-way",
+            "type": "n"
+          },
+          {
+            "kanji": "真理",
+            "kana": "しんり",
+            "translation": "truth",
+            "type": "n"
+          },
+          {
+            "kanji": "真っ白",
+            "kana": "まっしろ",
+            "translation": "pure white",
+            "type": "na-adj,n"
+          }
+        ],
+        "id": "227",
+        "char": "真",
+        "meaning": "true, reality",
+        "on": "シン",
+        "kun": "ま,ま-,まこと,さな,さね,ただ,ただし,なお,のり,まあ,まこ,まさ,まっ,まど,まな,まゆ,みち,も"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "着る",
+            "kana": "きる",
+            "translation": "to wear",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "着く",
+            "kana": "つく",
+            "translation": "to arrive",
+            "type": "u-v"
+          },
+          {
+            "kanji": "着物",
+            "kana": "きもの",
+            "translation": "kimono (Japanese-style dress)",
+            "type": "n"
+          },
+          {
+            "kanji": "下着",
+            "kana": "したぎ",
+            "translation": "underwear",
+            "type": "n"
+          }
+        ],
+        "id": "228",
+        "char": "着",
+        "meaning": "arrive, wear",
+        "on": "チャク,ジャク",
+        "kun": "き.る,き.せる,つ.く,つ.ける"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "知る",
+            "kana": "しる",
+            "translation": "to know",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "知恵",
+            "kana": "ちえ",
+            "translation": "wisdom, wit",
+            "type": ""
+          },
+          {
+            "kanji": "知らせる",
+            "kana": "しらせる",
+            "translation": "to notice, to advise",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "知らせ",
+            "kana": "しらせ",
+            "translation": "notice",
+            "type": "n"
+          },
+          {
+            "kanji": "人見知り",
+            "kana": "ひとみしり",
+            "translation": "shyness",
+            "type": "n"
+          }
+        ],
+        "id": "229",
+        "char": "知",
+        "meaning": "know, wisdom",
+        "on": "チ",
+        "kun": "し.る,し.らせる,さと,さとる,しり,しれ,とも,のり"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "短い",
+            "kana": "みじかい",
+            "translation": "short",
+            "type": "adj"
+          },
+          {
+            "kanji": "短気",
+            "kana": "たんき",
+            "translation": "short temper",
+            "type": "n"
+          }
+        ],
+        "id": "230",
+        "char": "短",
+        "meaning": "short, fault, defect",
+        "on": "タン",
+        "kun": "みじか.い"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "研究",
+            "kana": "けんきゅう",
+            "translation": "research",
+            "type": "n,p-suru"
+          },
+          {
+            "kanji": "研究者",
+            "kana": "けんきゅうしゃ",
+            "translation": "researcher",
+            "type": "n"
+          },
+          {
+            "kanji": "研ぐ",
+            "kana": "とぐ",
+            "translation": "to sharpen, to grind",
+            "type": "u-v"
+          }
+        ],
+        "id": "231",
+        "char": "研",
+        "meaning": "polish, sharpen, study",
+        "on": "ケン",
+        "kun": "と.ぐ,のり"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "私",
+            "kana": "わたし",
+            "translation": "Me, I",
+            "type": "n"
+          },
+          {
+            "kanji": "私学",
+            "kana": "しがく",
+            "translation": "private school",
+            "type": "n"
+          },
+          {
+            "kanji": "私服",
+            "kana": "しふく",
+            "translation": "plain clothes",
+            "type": "n"
+          },
+          {
+            "kanji": "私見",
+            "kana": "しけん",
+            "translation": "personal opinion",
+            "type": "n"
+          }
+        ],
+        "id": "232",
+        "char": "私",
+        "meaning": "private, I, me",
+        "on": "シ",
+        "kun": "わたくし,わたし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "秋",
+            "kana": "あき",
+            "translation": "autumn",
+            "type": "n"
+          },
+          {
+            "kanji": "秋風",
+            "kana": "あきかぜ",
+            "translation": "autumn breeze",
+            "type": "n"
+          },
+          {
+            "kanji": "春秋",
+            "kana": "しゅんじゅう",
+            "translation": "spring and autumn",
+            "type": "n"
+          }
+        ],
+        "id": "233",
+        "char": "秋",
+        "meaning": "autumn",
+        "on": "シュウ",
+        "kun": "あき,とき,あい"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "研究",
+            "kana": "けんきゅう",
+            "translation": "research, study",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "学究",
+            "kana": "がっきゅう",
+            "translation": "scholar",
+            "type": "n"
+          },
+          {
+            "kanji": "究明",
+            "kana": "きゅうめい",
+            "translation": "scientific investigation",
+            "type": "n"
+          },
+          {
+            "kanji": "研究員",
+            "kana": "けんきゅういん",
+            "translation": "researcher",
+            "type": "n"
+          }
+        ],
+        "id": "234",
+        "char": "究",
+        "meaning": "research, study",
+        "on": "キュウ,ク",
+        "kun": "きわ.める,きゅ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "答え",
+            "kana": "こたえ",
+            "translation": "answer",
+            "type": "n"
+          },
+          {
+            "kanji": "問答",
+            "kana": "もんどう",
+            "translation": "questions and answers",
+            "type": "n"
+          },
+          {
+            "kanji": "口答え",
+            "kana": "くちごたえ",
+            "translation": "retort",
+            "type": "n,p-suru"
+          }
+        ],
+        "id": "235",
+        "char": "答",
+        "meaning": "solution, answer",
+        "on": "トウ",
+        "kun": "こた.える,こた.え,どう"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "紙",
+            "kana": "かみ",
+            "translation": "paper",
+            "type": "n"
+          },
+          {
+            "kanji": "手紙",
+            "kana": "てがみ",
+            "translation": "letter",
+            "type": "n"
+          },
+          {
+            "kanji": "用紙",
+            "kana": "ようし",
+            "translation": "blank form, answer sheet",
+            "type": "n"
+          }
+        ],
+        "id": "236",
+        "char": "紙",
+        "meaning": "paper",
+        "on": "シ",
+        "kun": "かみ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "終わる",
+            "kana": "おわる",
+            "translation": "to finish, to close",
+            "type": "n"
+          },
+          {
+            "kanji": "終わり",
+            "kana": "おわり",
+            "translation": "the end",
+            "type": "n"
+          },
+          {
+            "kanji": "始終",
+            "kana": "しじゅう",
+            "translation": "from beginning to end",
+            "type": "n"
+          }
+        ],
+        "id": "237",
+        "char": "終",
+        "meaning": "end, finish",
+        "on": "シュウ",
+        "kun": "お.わる,おわ.る,お.える,つい,つい.に,ばて"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "習う",
+            "kana": "ならう",
+            "translation": "to learn",
+            "type": "u-v"
+          },
+          {
+            "kanji": "教習",
+            "kana": "きょうしゅう",
+            "translation": "training, instruction",
+            "type": "n"
+          },
+          {
+            "kanji": "見習う",
+            "kana": "みならう",
+            "translation": "to follow another's example",
+            "type": "u-v"
+          }
+        ],
+        "id": "238",
+        "char": "習",
+        "meaning": "learn",
+        "on": "シュウ,ジュ",
+        "kun": "なら.う,なら.い"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "考える",
+            "kana": "かんがえる",
+            "translation": "to think, to consider",
+            "type": "u-v"
+          },
+          {
+            "kanji": "考え",
+            "kana": "かんがえ",
+            "translation": "thought, idea",
+            "type": "n"
+          },
+          {
+            "kanji": "考え方",
+            "kana": "かんがえかた",
+            "translation": "way of thinking",
+            "type": "n"
+          }
+        ],
+        "id": "239",
+        "char": "考",
+        "meaning": "consider, think over",
+        "on": "コウ",
+        "kun": "かんが.える,かんが.え,たか"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "者",
+            "kana": "もの",
+            "translation": "person",
+            "type": "n"
+          },
+          {
+            "kanji": "業者",
+            "kana": "ぎょうしゃ",
+            "translation": "trader, merchant",
+            "type": "n"
+          },
+          {
+            "kanji": "死者",
+            "kana": "ししゃ",
+            "translation": "casualty, deceased (person)",
+            "type": "n"
+          },
+          {
+            "kanji": "医者",
+            "kana": "いしゃ",
+            "translation": "doctor",
+            "type": "n"
+          },
+          {
+            "kanji": "科学者",
+            "kana": "かがくしゃ",
+            "translation": "scientist",
+            "type": "n"
+          }
+        ],
+        "id": "240",
+        "char": "者",
+        "meaning": "somone, person",
+        "on": "シャ",
+        "kun": "もの"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "肉",
+            "kana": "にく",
+            "translation": "meat",
+            "type": "n"
+          },
+          {
+            "kanji": "牛肉",
+            "kana": "ぎゅうにく",
+            "translation": "beef",
+            "type": "n"
+          },
+          {
+            "kanji": "肉親",
+            "kana": "にくしん",
+            "translation": "blood relative",
+            "type": "n"
+          },
+          {
+            "kanji": "肉屋",
+            "kana": "にくや",
+            "translation": "butcher",
+            "type": "n"
+          }
+        ],
+        "id": "241",
+        "char": "肉",
+        "meaning": "meat",
+        "on": "ニク",
+        "kun": "しし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "自分",
+            "kana": "じぶん",
+            "translation": "oneself",
+            "type": "n"
+          },
+          {
+            "kanji": "自動",
+            "kana": "じどう",
+            "translation": "automatic",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "自転車",
+            "kana": "じてんしゃ",
+            "translation": "bicycle",
+            "type": "n"
+          },
+          {
+            "kanji": "自国",
+            "kana": "じこく",
+            "translation": "one's home country",
+            "type": "n"
+          }
+        ],
+        "id": "242",
+        "char": "自",
+        "meaning": "oneself",
+        "on": "ジ,シ",
+        "kun": "みずか.ら,おの.ずから,おの.ずと,より"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "色",
+            "kana": "いろ",
+            "translation": "colour",
+            "type": "n"
+          },
+          {
+            "kanji": "特色",
+            "kana": "とくしょく",
+            "translation": "characteristic",
+            "type": "n"
+          },
+          {
+            "kanji": "黄色",
+            "kana": "きいろ",
+            "translation": "yellow",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "色々",
+            "kana": "いろいろ",
+            "translation": "various",
+            "type": "na-adj,n,adv"
+          }
+        ],
+        "id": "243",
+        "char": "色",
+        "meaning": "colour",
+        "on": "ショク,シキ",
+        "kun": "いろ,しか,しこ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "英語",
+            "kana": "えいご",
+            "translation": "the English language",
+            "type": "n"
+          },
+          {
+            "kanji": "英文",
+            "kana": "えいぶん",
+            "translation": "sentence in English",
+            "type": "n"
+          },
+          {
+            "kanji": "英明",
+            "kana": "えいめい",
+            "translation": "intelligent, wise, bright",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "英知",
+            "kana": "えいち",
+            "translation": "intelligence",
+            "type": "n"
+          }
+        ],
+        "id": "244",
+        "char": "英",
+        "meaning": "England, english",
+        "on": "エイ",
+        "kun": "はなぶさ,あ,あい,え,すぐる,はな,ひ,ひで,よし,ら"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "お茶",
+            "kana": "おちゃ",
+            "translation": "(green) tea",
+            "type": "n"
+          },
+          {
+            "kanji": "茶色",
+            "kana": "ちゃいろ",
+            "translation": "brown",
+            "type": "n"
+          },
+          {
+            "kanji": "茶道",
+            "kana": "さどう",
+            "translation": "Tea Ceremony",
+            "type": ""
+          }
+        ],
+        "id": "245",
+        "char": "茶",
+        "meaning": "tea",
+        "on": "チャ,サ",
+        "kun": "ちや"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "野菜",
+            "kana": "やさい",
+            "translation": "vegetables",
+            "type": "n"
+          },
+          {
+            "kanji": "白菜",
+            "kana": "はくさい",
+            "translation": "Chinese cabbage, white rape",
+            "type": "n"
+          },
+          {
+            "kanji": "菜食",
+            "kana": "さいしょく",
+            "translation": "vegetable diet",
+            "type": "n"
+          }
+        ],
+        "id": "246",
+        "char": "菜",
+        "meaning": "vegetable, greens",
+        "on": "サイ",
+        "kun": "な,よう"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "薬",
+            "kana": "くすり",
+            "translation": "medicine, pharmaceuticals",
+            "type": "n"
+          },
+          {
+            "kanji": "火薬",
+            "kana": "かやく",
+            "translation": "gun powder",
+            "type": "n"
+          },
+          {
+            "kanji": "薬学",
+            "kana": "やくがく",
+            "translation": "study of pharmacy",
+            "type": "n"
+          }
+        ],
+        "id": "247",
+        "char": "薬",
+        "meaning": "medicine",
+        "on": "ヤク",
+        "kun": "くすり,み"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "親",
+            "kana": "おや",
+            "translation": "parents",
+            "type": "n"
+          },
+          {
+            "kanji": "両親",
+            "kana": "りょうしん",
+            "translation": "parents",
+            "type": "n"
+          },
+          {
+            "kanji": "親しい",
+            "kana": "したしい",
+            "translation": "intimate, close (eg friend)",
+            "type": "adj"
+          },
+          {
+            "kanji": "親切",
+            "kana": "しんせつ",
+            "translation": "kindness, gentleness",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "親友",
+            "kana": "しんゆう",
+            "translation": "close friend",
+            "type": "n"
+          }
+        ],
+        "id": "248",
+        "char": "親",
+        "meaning": "parent, relative, intimacy",
+        "on": "シン",
+        "kun": "おや,おや-,した.しい,した.しむ,ぎ,ちか,のり"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "計画",
+            "kana": "けいかく",
+            "translation": "plan, project, program",
+            "type": "n"
+          },
+          {
+            "kanji": "時計",
+            "kana": "とけい",
+            "translation": "watch, clock",
+            "type": "n"
+          },
+          {
+            "kanji": "計る",
+            "kana": "はかる",
+            "translation": "to measure",
+            "type": "u-v"
+          },
+          {
+            "kanji": "計り知れない",
+            "kana": "はかりしれない",
+            "translation": "immeasurable, inestimable",
+            "type": "adj,expr"
+          }
+        ],
+        "id": "249",
+        "char": "計",
+        "meaning": "plot, plan, scheme, measure",
+        "on": "ケイ",
+        "kun": "はか.る,はか.らう,え,かず,け"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "試合",
+            "kana": "しあい",
+            "translation": "match",
+            "type": "n"
+          },
+          {
+            "kanji": "試験",
+            "kana": "しけん",
+            "translation": "exam, test",
+            "type": "n"
+          },
+          {
+            "kanji": "試み",
+            "kana": "こころみ",
+            "translation": "trial, experiment",
+            "type": "n"
+          },
+          {
+            "kanji": "試食",
+            "kana": "ししょく",
+            "translation": "sampling food",
+            "type": "n"
+          }
+        ],
+        "id": "250",
+        "char": "試",
+        "meaning": "test, try, attempt",
+        "on": "シ",
+        "kun": "こころ.みる,ため.す"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "説明",
+            "kana": "せつめい",
+            "translation": "explanation",
+            "type": "n,p-suru"
+          },
+          {
+            "kanji": "小説",
+            "kana": "しょうせつ",
+            "translation": "novel, short story",
+            "type": "n"
+          },
+          {
+            "kanji": "説",
+            "kana": "せつ",
+            "translation": "theory",
+            "type": "n,n-suf"
+          },
+          {
+            "kanji": "学説",
+            "kana": "がくせつ",
+            "translation": "theory",
+            "type": "n"
+          }
+        ],
+        "id": "251",
+        "char": "説",
+        "meaning": "rumour, opinion, theory",
+        "on": "セツ,ゼイ",
+        "kun": "と.く,さとし,とき"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "貸す",
+            "kana": "かす",
+            "translation": "to lend",
+            "type": "u-v"
+          },
+          {
+            "kanji": "貸し",
+            "kana": "かし",
+            "translation": "loan",
+            "type": ""
+          }
+        ],
+        "id": "252",
+        "char": "貸",
+        "meaning": "lend",
+        "on": "タイ",
+        "kun": "か.す,か.し-,かし-"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "質",
+            "kana": "しつ",
+            "translation": "quality",
+            "type": "n"
+          },
+          {
+            "kanji": "質問",
+            "kana": "しつもん",
+            "translation": "question, inquiry",
+            "type": "n"
+          },
+          {
+            "kanji": "水質",
+            "kana": "すいしつ",
+            "translation": "water quality",
+            "type": "n"
+          },
+          {
+            "kanji": "悪質",
+            "kana": "あくしつ",
+            "translation": "bad quality, malignant",
+            "type": "na-adj,n"
+          }
+        ],
+        "id": "253",
+        "char": "質",
+        "meaning": "substance, quality, matter",
+        "on": "シツ,シチ,チ",
+        "kun": "たち,ただ.す,もと,わりふ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "赤い",
+            "kana": "あかい",
+            "translation": "red",
+            "type": "n"
+          },
+          {
+            "kanji": "赤ちゃん",
+            "kana": "あかちゃん",
+            "translation": "baby",
+            "type": "n"
+          },
+          {
+            "kanji": "赤道",
+            "kana": "せきどう",
+            "translation": "equator",
+            "type": "n"
+          }
+        ],
+        "id": "254",
+        "char": "赤",
+        "meaning": "red",
+        "on": "セキ,シャク",
+        "kun": "あか,あか-,あか.い,あか.らむ,あか.らめる,あ,あこ,あま"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "走る",
+            "kana": "はしる",
+            "translation": "to run",
+            "type": "u-v"
+          },
+          {
+            "kanji": "走り書き",
+            "kana": "はしりがき",
+            "translation": "scribble",
+            "type": "n"
+          }
+        ],
+        "id": "255",
+        "char": "走",
+        "meaning": "run",
+        "on": "ソウ",
+        "kun": "はし.る,はしり"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "起きる",
+            "kana": "おきる",
+            "translation": "to wake up",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "起こる",
+            "kana": "おこる",
+            "translation": "to occur, to happen",
+            "type": "u-v"
+          }
+        ],
+        "id": "256",
+        "char": "起",
+        "meaning": "wake, get up",
+        "on": "キ",
+        "kun": "お.きる,お.こる,お.こす,おこ.す,た.つ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "転じる",
+            "kana": "てんじる",
+            "translation": "to turn, to shift",
+            "type": "ru-v"
+          },
+          {
+            "kanji": "自転車",
+            "kana": "じてんしゃ",
+            "translation": "bicycle",
+            "type": "n"
+          },
+          {
+            "kanji": "転ぶ",
+            "kana": "ころぶ",
+            "translation": "to fall down, to fall over",
+            "type": "u-v"
+          },
+          {
+            "kanji": "転売",
+            "kana": "てんばい",
+            "translation": "resale",
+            "type": "n"
+          }
+        ],
+        "id": "257",
+        "char": "転",
+        "meaning": "revolve, turn around, change",
+        "on": "テン",
+        "kun": "ころ.がる,ころ.げる,ころ.がす,ころ.ぶ,まろ.ぶ,うたた,うつ.る,くる.めく"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "軽い",
+            "kana": "かるい",
+            "translation": "light, non-serious",
+            "type": "adj"
+          },
+          {
+            "kanji": "手軽",
+            "kana": "てがる",
+            "translation": "easy, simple, informal",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "気軽",
+            "kana": "きがる",
+            "translation": "cheerful, lighthearted",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "軽々",
+            "kana": "かるがる",
+            "translation": "lightly, easily",
+            "type": "adv"
+          },
+          {
+            "kanji": "軽口",
+            "kana": "かるくち",
+            "translation": "talkative, loose-lipped",
+            "type": "na-adj, n"
+          },
+          {
+            "kanji": "軽音楽",
+            "kana": "けいおんがく",
+            "translation": "light music",
+            "type": "n"
+          }
+        ],
+        "id": "258",
+        "char": "軽",
+        "meaning": "light, unimportant",
+        "on": "ケイ",
+        "kun": "かる.い,かろ.やか,かろ.んじる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "近い",
+            "kana": "ちかい",
+            "translation": "near, close by",
+            "type": "adj"
+          },
+          {
+            "kanji": "近所",
+            "kana": "きんじょ",
+            "translation": "neighbourhood",
+            "type": "n"
+          },
+          {
+            "kanji": "近道",
+            "kana": "ちかみち",
+            "translation": "shortcut, short way",
+            "type": "n"
+          }
+        ],
+        "id": "259",
+        "char": "近",
+        "meaning": "near",
+        "on": "キン,コン",
+        "kun": "ちか.い,おう,おお,この"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "送る",
+            "kana": "おくる",
+            "translation": "to send, to see off (person)",
+            "type": "u-v"
+          },
+          {
+            "kanji": "先送り",
+            "kana": "さきおくり",
+            "translation": "postpone",
+            "type": "n"
+          },
+          {
+            "kanji": "送電",
+            "kana": "そうでん",
+            "translation": "electric supply",
+            "type": "n"
+          },
+          {
+            "kanji": "送別",
+            "kana": "そうべつ",
+            "translation": "farewell, send off",
+            "type": "n"
+          }
+        ],
+        "id": "260",
+        "char": "送",
+        "meaning": "send",
+        "on": "ソウ",
+        "kun": "おく.る"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "通う",
+            "kana": "かよう",
+            "translation": "to commute, to go back and forth",
+            "type": "u-v"
+          },
+          {
+            "kanji": "通る",
+            "kana": "とおる",
+            "translation": "to pass by, to walk along",
+            "type": "u-v"
+          },
+          {
+            "kanji": "通い",
+            "kana": "かよい",
+            "translation": "coming and going, commuting",
+            "type": "n"
+          },
+          {
+            "kanji": "通す",
+            "kana": "とおす",
+            "translation": "to let pass, to overlook",
+            "type": "u-v"
+          },
+          {
+            "kanji": "通信社",
+            "kana": "つうしんしゃ",
+            "translation": "newsagency",
+            "type": "n"
+          }
+        ],
+        "id": "261",
+        "char": "通",
+        "meaning": "pass through, commute",
+        "on": "ツウ,ツ",
+        "kun": "とお.る,とお.り,とお.す,とお.し,かよ.う,とん,どうし,どおり,みち"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "進む",
+            "kana": "すすむ",
+            "translation": "to make progress",
+            "type": "u-v"
+          },
+          {
+            "kanji": "進歩",
+            "kana": "しんぽ",
+            "translation": "progress, development",
+            "type": "n, p-suru"
+          }
+        ],
+        "id": "262",
+        "char": "進",
+        "meaning": "advance, proceed, progress",
+        "on": "シン",
+        "kun": "すす.む,すす.める,のぶ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "運",
+            "kana": "うん",
+            "translation": "fortune, luck, (運がいい=to have good luck)",
+            "type": "n"
+          },
+          {
+            "kanji": "運ぶ",
+            "kana": "はこぶ",
+            "translation": "to transport",
+            "type": "u-v"
+          },
+          {
+            "kanji": "運動",
+            "kana": "うんどう",
+            "translation": "exercise",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "運転",
+            "kana": "うんてん",
+            "translation": "driving, motion",
+            "type": "n, p-suru"
+          }
+        ],
+        "id": "263",
+        "char": "運",
+        "meaning": "transport, progress, luck, fate",
+        "on": "ウン",
+        "kun": "はこ.ぶ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "遠い",
+            "kana": "とおい",
+            "translation": "far, distant",
+            "type": "adj"
+          },
+          {
+            "kanji": "遠足",
+            "kana": "えんそく",
+            "translation": "trip, hike, picnic",
+            "type": "n"
+          },
+          {
+            "kanji": "遠まわし",
+            "kana": "とおまわし",
+            "translation": "indirect (roundabout) expression",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "遠心力",
+            "kana": "えんしんりょく",
+            "translation": "centrifugal force",
+            "type": "n"
+          }
+        ],
+        "id": "264",
+        "char": "遠",
+        "meaning": "distant, far",
+        "on": "エン,オン",
+        "kun": "とお.い,お,おに,ど,どお"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "都",
+            "kana": "みやこ",
+            "translation": "capital",
+            "type": "n"
+          },
+          {
+            "kanji": "京都",
+            "kana": "きょうと",
+            "translation": "Kyoto (city)",
+            "type": "n"
+          },
+          {
+            "kanji": "都会",
+            "kana": "とかい",
+            "translation": "city",
+            "type": "n"
+          }
+        ],
+        "id": "265",
+        "char": "都",
+        "meaning": "metropolis, capital",
+        "on": "ト,ツ",
+        "kun": "みやこ,くに,ず,ち,づめ,みや"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "重い",
+            "kana": "おもい",
+            "translation": "heavy",
+            "type": "adj"
+          },
+          {
+            "kanji": "重ねる",
+            "kana": "かさねる",
+            "translation": "to pile up, to heap",
+            "type": "u-v"
+          },
+          {
+            "kanji": "重大",
+            "kana": "じゅうだい",
+            "translation": "serious, important, grave",
+            "type": "na-adj,n"
+          },
+          {
+            "kanji": "体重",
+            "kana": "たいじゅう",
+            "translation": "one's body weight",
+            "type": "n"
+          },
+          {
+            "kanji": "重さ",
+            "kana": "おもさ",
+            "translation": "weight",
+            "type": "n"
+          }
+        ],
+        "id": "266",
+        "char": "重",
+        "meaning": "heavy, pile up",
+        "on": "ジュウ,チョウ",
+        "kun": "え,おも.い,おも.り,おも.なう,かさ.ねる,かさ.なる,おも,さね,しげ,しげる"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "野菜",
+            "kana": "やさい",
+            "translation": "vegetable",
+            "type": "n"
+          },
+          {
+            "kanji": "野生",
+            "kana": "やせい",
+            "translation": "wild",
+            "type": "n"
+          },
+          {
+            "kanji": "野鳥",
+            "kana": "やちょう",
+            "translation": "(wild) bird",
+            "type": ""
+          },
+          {
+            "kanji": "野外",
+            "kana": "やがい",
+            "translation": "suburbs, outskirts",
+            "type": "n"
+          }
+        ],
+        "id": "267",
+        "char": "野",
+        "meaning": "plains, field, civilian life",
+        "on": "ヤ,ショ",
+        "kun": "の,の-,ずけ,つけ,ぬ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "銀行",
+            "kana": "ぎんこう",
+            "translation": "bank",
+            "type": "n"
+          },
+          {
+            "kanji": "銀色",
+            "kana": "ぎんいろ",
+            "translation": "silver",
+            "type": "n"
+          },
+          {
+            "kanji": "水銀",
+            "kana": "すいぎん",
+            "translation": "mercury",
+            "type": "n"
+          }
+        ],
+        "id": "268",
+        "char": "銀",
+        "meaning": "silver",
+        "on": "ギン",
+        "kun": "しろがね,うん,かな,かね"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "門",
+            "kana": "もん",
+            "translation": "gate",
+            "type": "n"
+          },
+          {
+            "kanji": "門下",
+            "kana": "もんか",
+            "translation": "one's pupil or follower",
+            "type": "n"
+          },
+          {
+            "kanji": "門外漢",
+            "kana": "もんがいかん",
+            "translation": "amateur, outsider, layman",
+            "type": "n"
+          },
+          {
+            "kanji": "入門",
+            "kana": "にゅうもん",
+            "translation": "primer, manual",
+            "type": "n"
+          }
+        ],
+        "id": "269",
+        "char": "門",
+        "meaning": "gates",
+        "on": "モン",
+        "kun": "かど,と,じょう,も,と,ゆき"
+      },
+      {
+        "compound": {
+          "kanji": "開く",
+          "kana": "あく",
+          "translation": "to open",
+          "type": "u-v"
+        },
+        "id": "270",
+        "char": "開",
+        "meaning": "open, unseal",
+        "on": "カイ",
+        "kun": "ひら.く,ひら.き,ひら.ける,あ.く,あ.ける,はる,か,ひらき"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "病院",
+            "kana": "びょういん",
+            "translation": "hospital",
+            "type": "n"
+          },
+          {
+            "kanji": "学院",
+            "kana": "がくいん",
+            "translation": "institute, academy",
+            "type": "n"
+          },
+          {
+            "kanji": "大学院",
+            "kana": "だいがくいん",
+            "translation": "graduate school",
+            "type": "n"
+          },
+          {
+            "kanji": "入院",
+            "kana": "にゅういん",
+            "translation": "hospital admission",
+            "type": "n,p-suru"
+          }
+        ],
+        "id": "271",
+        "char": "院",
+        "meaning": "institution, school",
+        "on": "イン",
+        "kun": ""
+      },
+      {
+        "compound": [
+          {
+            "kanji": "集める",
+            "kana": "あつめる",
+            "translation": "to gather, to assemble",
+            "type": "ru-v, trans-verb"
+          },
+          {
+            "kanji": "集まる",
+            "kana": "あつまる",
+            "translation": "to gather, to assemble",
+            "type": "u-v, intrans-verb"
+          },
+          {
+            "kanji": "集中",
+            "kana": "しゅうちゅう",
+            "translation": "concentration",
+            "type": "n, p-suru"
+          },
+          {
+            "kanji": "集",
+            "kana": "しゅう",
+            "translation": "collection",
+            "type": "n"
+          }
+        ],
+        "id": "272",
+        "char": "集",
+        "meaning": "gather, meet, congregate",
+        "on": "シュウ",
+        "kun": "あつ.まる,あつ.める,つど.う,あつまり,ず"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "青",
+            "kana": "あお",
+            "translation": "blue",
+            "type": "n"
+          },
+          {
+            "kanji": "青空",
+            "kana": "あおぞら",
+            "translation": "blue sky",
+            "type": "n"
+          }
+        ],
+        "id": "273",
+        "char": "青",
+        "meaning": "blue, green",
+        "on": "セイ,ショウ",
+        "kun": "あお,あお-,あお.い,お"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "音楽",
+            "kana": "おんがく",
+            "translation": "music",
+            "type": "n"
+          },
+          {
+            "kanji": "音",
+            "kana": "おと",
+            "translation": "sound",
+            "type": "n"
+          },
+          {
+            "kanji": "音質",
+            "kana": "おんしつ",
+            "translation": "tone quality",
+            "type": "n"
+          },
+          {
+            "kanji": "足音",
+            "kana": "あしおと",
+            "translation": "sound of footsteps",
+            "type": "n"
+          },
+          {
+            "kanji": "物音",
+            "kana": "ものおと",
+            "translation": "sounds",
+            "type": "n"
+          }
+        ],
+        "id": "274",
+        "char": "音",
+        "meaning": "sound, noise",
+        "on": "オン,イン",
+        "kun": "おと,ね,お,と"
+      },
+      {
+        "compound": {
+          "kanji": "頭",
+          "kana": "あたま",
+          "translation": "head",
+          "type": "n"
+        },
+        "id": "275",
+        "char": "頭",
+        "meaning": "head, chief, top",
+        "on": "トウ,ズ,ト",
+        "kun": "あたま,かしら,かぶり,かみ,がみ,ちゃん,つむり,づ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "問題",
+            "kana": "もんだい",
+            "translation": "problem, question",
+            "type": "n"
+          },
+          {
+            "kanji": "宿題",
+            "kana": "しゅくだい",
+            "translation": "homework",
+            "type": "n"
+          }
+        ],
+        "id": "276",
+        "char": "題",
+        "meaning": "topic, subject",
+        "on": "ダイ",
+        "kun": ""
+      },
+      {
+        "compound": [
+          {
+            "kanji": "顔",
+            "kana": "かお",
+            "translation": "face (person)",
+            "type": "n"
+          },
+          {
+            "kanji": "笑顔",
+            "kana": "えがお",
+            "translation": "smiling face",
+            "type": "n"
+          },
+          {
+            "kanji": "顔色",
+            "kana": "かおいろ",
+            "translation": "complexion, expression",
+            "type": "n"
+          },
+          {
+            "kanji": "新顔",
+            "kana": "しんがお",
+            "translation": "newcomer, new face",
+            "type": "n"
+          }
+        ],
+        "id": "277",
+        "char": "顔",
+        "meaning": "face, expression",
+        "on": "ガン",
+        "kun": "かお"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "風",
+            "kana": "かぜ",
+            "translation": "wind",
+            "type": "n"
+          },
+          {
+            "kanji": "台風",
+            "kana": "たいふう",
+            "translation": "typhoon",
+            "type": "n"
+          },
+          {
+            "kanji": "洋風",
+            "kana": "ようふう",
+            "translation": "western style",
+            "type": "na-adj"
+          },
+          {
+            "kanji": "風習",
+            "kana": "ふうしゅう",
+            "translation": "custom",
+            "type": "n"
+          }
+        ],
+        "id": "278",
+        "char": "風",
+        "meaning": "wind, manner",
+        "on": "フウ,フ",
+        "kun": "かぜ,かざ-,い,え"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "赤飯",
+            "kana": "せきはん",
+            "translation": "red rice",
+            "type": "n"
+          },
+          {
+            "kanji": "夕飯",
+            "kana": "ゆうはん",
+            "translation": "evening meal",
+            "type": "n"
+          },
+          {
+            "kanji": "ご飯",
+            "kana": "ごはん",
+            "translation": "meal, rice",
+            "type": "n"
+          },
+          {
+            "kanji": "朝ご飯",
+            "kana": "あさごはん",
+            "translation": "breakfast",
+            "type": "n"
+          }
+        ],
+        "id": "279",
+        "char": "飯",
+        "meaning": "food",
+        "on": "ハン",
+        "kun": "めし,い,いい,いり,え"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "図書館",
+            "kana": "としょかん",
+            "translation": "library",
+            "type": "n"
+          },
+          {
+            "kanji": "旅館",
+            "kana": "りょかん",
+            "translation": "Japanese-style inn",
+            "type": "n"
+          },
+          {
+            "kanji": "映画館",
+            "kana": "えいがかん",
+            "translation": "cinema, movie theatre",
+            "type": "n"
+          },
+          {
+            "kanji": "本館",
+            "kana": "ほんかん",
+            "translation": "main building",
+            "type": "n"
+          }
+        ],
+        "id": "280",
+        "char": "館",
+        "meaning": "large building, palace",
+        "on": "カン",
+        "kun": "やかた,たて,たち"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "首",
+            "kana": "くび",
+            "translation": "neck",
+            "type": "n"
+          },
+          {
+            "kanji": "足首",
+            "kana": "あしくび",
+            "translation": "ankle",
+            "type": "n"
+          },
+          {
+            "kanji": "手首",
+            "kana": "てくび",
+            "translation": "wrist",
+            "type": "n"
+          },
+          {
+            "kanji": "自首",
+            "kana": "じしゅ",
+            "translation": "to surrender, to give oneself up",
+            "type": "n,p-suru"
+          }
+        ],
+        "id": "281",
+        "char": "首",
+        "meaning": "neck",
+        "on": "シュ",
+        "kun": "くび,おびと,こべ,す"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "試験",
+            "kana": "しけん",
+            "translation": "test, exam",
+            "type": "n"
+          },
+          {
+            "kanji": "体験",
+            "kana": "たいけん",
+            "translation": "personal experience",
+            "type": "n,p-suru"
+          }
+        ],
+        "id": "282",
+        "char": "験",
+        "meaning": "verify, test",
+        "on": "ケン,ゲン",
+        "kun": "あかし,しるし,ため.す,ためし"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "鳥",
+            "kana": "とり",
+            "translation": "bird",
+            "type": "n"
+          },
+          {
+            "kanji": "小鳥",
+            "kana": "ことり",
+            "translation": "small bird",
+            "type": "n"
+          },
+          {
+            "kanji": "野鳥",
+            "kana": "やちょう",
+            "translation": "wild bird",
+            "type": "n"
+          },
+          {
+            "kanji": "一石二鳥",
+            "kana": "いっせきにちょう",
+            "translation": "two birds with one stone",
+            "type": "expr"
+          }
+        ],
+        "id": "283",
+        "char": "鳥",
+        "meaning": "bird",
+        "on": "チョウ",
+        "kun": "とり,か,と,とっ"
+      },
+      {
+        "compound": [
+          {
+            "kanji": "黒",
+            "kana": "くろ",
+            "translation": "black",
+            "type": "n"
+          },
+          {
+            "kanji": "黒字",
+            "kana": "くろじ",
+            "translation": "to be in the black",
+            "type": "n"
+          },
+          {
+            "kanji": "白黒",
+            "kana": "しろくろ",
+            "translation": "black and white",
+            "type": "n"
+          },
+          {
+            "kanji": "黒っぽい",
+            "kana": "くろっぽい",
+            "translation": "dark, blackish",
+            "type": "adj"
+          }
+        ],
+        "id": "284",
+        "char": "黒",
+        "meaning": "black",
+        "on": "コク",
+        "kun": "くろ,くろ.ずむ,くろ.い"
+      }
+    ],
+    "level": "n4"
+  }
+}

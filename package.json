@@ -16,10 +16,12 @@
     "glob": "^10.3.10",
     "jszip": "^3.10.1",
     "svg-parser": "^2.0.4",
+    "svg-path-bounds": "^1.0.2",
     "svgson": "^5.3.1",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
-    "@types/svg-parser": "^2.0.6"
+    "@types/svg-parser": "^2.0.6",
+    "@types/svg-path-bounds": "^1.0.2"
   }
 }

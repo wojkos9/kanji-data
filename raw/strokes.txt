@@ -1,0 +1,19 @@
+{
+  "SWZ": {
+    "Z": "left"
+  },
+  "regular": {
+    "B": "flat",
+    "D": "dot",
+    "G": "hook",
+    "H": "horizontal",
+    "N": "right-falling",
+    "P": "left-falling",
+    "Q": "circle",
+    "S": "vertical",
+    "T": "rising",
+    "W": "curved",
+    "X": "slanted",
+    "Z": "bent"
+  }
+}

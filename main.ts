@@ -4,81 +4,114 @@ import { INode, parseSync } from 'svgson'
 import JSZip from "jszip";
 import * as fs from 'fs'
 import { readFile } from 'fs/promises';
+import getBounds from 'svg-path-bounds';
+const strokes: Record<string, string> = require('./data/strokes.json')
+const radicals: Record<string, RadicalDesc> = require('./data/radicals.json')
 
 const zip = new JSZip();
-
-
-const rad = JSON.parse(fs.readFileSync('r3.json', 'utf8'))
-
-const strokes = '㇀㇁㇂㇄㇅㇆㇇㇈㇉㇋㇏㇐㇑㇒㇓㇔㇕㇖㇗㇙㇚㇛㇜㇞㇟㇡６'
 
 enum KVG {
   E = "kvg:element",
   P = "kvg:position",
   PT = "kvg:part",
-  T = "kvg:type"
+  T = "kvg:type",
+  PATH = "d"
 }
 
 interface WalkOptions {
   radicalsOnly?: boolean
+  includeChars?: boolean
+}
+
+function kanjiBounds(k: INode): number[] {
+  const maybePath = k.attributes["d"]
+  let bounds: number[] | undefined
+  if (maybePath) {
+    bounds = getBounds(maybePath)
+  } else {
+    for (const c of k.children) {
+      const nb = kanjiBounds(c)
+      if (!nb) continue
+      if (!bounds) {
+        bounds = nb
+      } else {
+        for (let i = 0; i < 4; i++) {
+          bounds[i] = (i < 2 ? Math.min : Math.max)(bounds[i], nb[i])
+        }
+      }
+    }
+  }
+  return bounds!.map(b => Math.floor(b))
 }
 
 function _walk(k: INode, level: number, opts: WalkOptions): string[] {
   const e = k.attributes[KVG.E]
   const s = k.attributes[KVG.T]?.substring(0, 1)
-  if (rad[e]) {
-    return [`${rad[e]} (${e})`]
+  let ret: string[] = []
+  if (radicals[e]) {
+    let part = radicals[e].t
+    if (opts.includeChars) {
+      part += ` (${e})`
+    }
+    ret.push(part+",")
   } else if (level > 0 && !opts.radicalsOnly && e) {
-    return [e]
-  } else if (strokes.includes(s)) {
-    return [`stroke ${s}`]
+    ret.push(e)
+  } else if (strokes[s]) {
+    let part = strokes[s]+" stroke"
+    if (opts.includeChars) {
+      part += ` (${s})`
+    }
+    ret.push(part+",")
   } else {
-    let s: string[] = []
     for (let c of k.children) {
       if (parseInt(c.attributes[KVG.PT]) > 1) {
         continue
       }
       const pos = c.attributes[KVG.P]
       const rest = _walk(c, level+1, opts)
-      s.push(pos)
+
       if (rest.length > 1) {
-        s.push("block", ...rest, "end")
+        if (pos) {
+          ret.push(pos)
+        } else {
+          const b = kanjiBounds(c)
+          ret.push(b.toString())
+        }
+        ret.push(`block:`, ...rest, `end-block,`)
       } else {
-        s.push(rest[0])
+        if (pos) {
+          ret.push(pos+":")
+        }
+        ret.push(rest[0])
       }
     }
-    return s
   }
+  return ret
 }
 
 function walk(e: INode, opts: WalkOptions) {
   const s = _walk(e, 0, opts)
-  return s.filter(_ => _).join(" ")
+  const desc = s.filter(_ => _).join(" ")
+  return desc.substring(0, desc.length - 1)
 }
 
 async function kanjiDesc(f: JSZip, i: string, { radicalsOnly = true }: WalkOptions = {}) {
   const u = i.charCodeAt(0).toString(16).padStart(5, "0")
   const x = await f.file(`kanji/${u}.svg`)?.async("string")!
-  console.log(u)
   const b = parseSync(x)
   const k = b.children[0].children[0]
-  return walk(k, { radicalsOnly })
+  return walk(k, { radicalsOnly, includeChars: true })
 }
 
 async function main() {
 
   const f = await zip.loadAsync(readFile("kanjivg.zip"))
 
-  const joyo = fs.readFileSync('joyo.txt', 'utf8').split(" ")
-
-  for (let j of joyo) {
+  const joyo = fs.readFileSync('./data/joyo.txt', 'utf8').split(" ")
+  const start = 900
+  for (let j of joyo.slice(start, start+10)) {
     const desc = await kanjiDesc(f, j)
-    const desc2 = await kanjiDesc(f, j, { radicalsOnly: false })
-    if (desc2.length < desc.length) {
-      console.log(j, desc, "SHORT", desc2)
-    } else {
-      console.log(j, desc)
-    }
+    console.log(j, desc)
   }
 }
 
