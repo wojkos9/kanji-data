@@ -1,5 +1,3 @@
-// import { parse, ElementNode } from 'svg-parser'
-import { xml2js } from 'xml-js'
 import { INode, parseSync } from 'svgson'
 import JSZip from "jszip";
 import * as fs from 'fs'
@@ -8,6 +6,8 @@ import getBounds from 'svg-path-bounds';
 import { invPos, joinBounds, makeGrid } from './utils';
 const strokes: Record<string, string> = require('./data/strokes.json')
 const radicals: Record<string, RadicalDesc> = require('./data/radicals.json')
+import jlpt from './data/jlpt'
+import { Argument, Command } from 'commander';
 
 const zip = new JSZip();
 
@@ -43,23 +43,10 @@ function kanjiBounds(k: INode): number[] {
   return bounds!.map(b => Math.floor(b))
 }
 
-function pointInt(pt: number[], bb: Bounds) {
-  const [l, t, r, b] = bb
-  const [x, y] = pt
-  const res = l <= x && x <= r && t <= y && y <= b
-  return res
-}
-
-function points(bb: Bounds) {
-  const [l, t, r, b] = bb
-  return [[l, t], [l, b], [r, t], [r, b]]
-}
-
 function intersects(bb1: Bounds, bb2: Bounds): boolean {
   const [l1, t1, r1, b1] = bb1
   const [l2, t2, r2, b2] = bb2
   return l1 <= r2 && r1 >= l2 && t1 <= b2 && b1 >= t2
-  // return points(bb1).some(pt => pointInt(pt, bb2)) || points(bb2).some(pt => pointInt(pt, bb1))
 }
 
 const dict = {
@@ -118,14 +105,14 @@ function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions)
   // const k = new Kanji(i)
   let ret: string[] = []
   function add(p: string, type?: string, char?: string) {
-    let desc = type ? `${p} ${type}` : p
+    let desc = type ? `${type} ${p}` : p
     if (opts.includeChars) {
       desc += ` (${char})`
     }
     ret.push(desc)
   }
   if (k.radical) {
-    add(k.radical.t, undefined, k.e)
+    add(k.radical.t, "radical", k.e)
   } else if (k.stroke) {
     add(k.stroke, "stroke", k.s)
   } else {
@@ -146,11 +133,12 @@ function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions)
         ret.push(pos+":")
       }
       lastPos = pos
-      
-      const bName = block ? pos ? `${pos}-block` : 'block' : ""
+
+      const tBlock = "block"
+      const bName = block ? pos ? `${pos} ${tBlock}` : tBlock : ""
       if (block) ret.push(bName+":")
       ret.push(...rest)
-      if (block) ret.push(`end-${bName}`)
+      if (block) ret.push(`end ${bName}`)
     }
   }
   return ret
@@ -159,7 +147,22 @@ function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions)
 function walk(e: INode, opts: WalkOptions) {
   const b = kanjiBounds(e)
   const s = _walk(new Kanji(e), 0, b, opts)
-  const desc = s.filter(_ => _).join(" ")
+  let descs = s.filter(_ => _).map(x => x.endsWith(":") ? x : x+",")
+  let endCnt = 0
+  for (let i = descs.length - 1; i >= 0; i--) {
+    if (descs[i].startsWith("end")) {
+      endCnt++
+    } else {
+      break
+    }
+  }
+  if (endCnt > 0) {
+    descs = descs.slice(0, descs.length - endCnt)
+  }
+  let desc = descs.join(" ")
+  if (desc[desc.length - 1] == ",") {
+    desc = desc.substring(0, desc.length - 1)
+  }
   return desc
 }
 
@@ -168,18 +171,32 @@ async function kanjiDesc(f: JSZip, i: string, { radicalsOnly = true }: WalkOptio
   const x = await f.file(`kanji/${u}.svg`)?.async("string")!
   const b = parseSync(x)
   const k = b.children[0].children[0]
-  return walk(k, { radicalsOnly, includeChars: true })
+  return walk(k, { radicalsOnly, includeChars: false })
+}
+
+async function getDesc(chars: string[]): Promise<Record<string, string>> {
+  const f = await zip.loadAsync(readFile("kanjivg.zip"))
+  const futureEntries = chars.map(async k => [k, await kanjiDesc(f, k)])
+  return Object.fromEntries(await Promise.all(futureEntries))
 }
 
 async function main() {
+  const program = new Command()
 
-  const f = await zip.loadAsync(readFile("kanjivg.zip"))
+  program
+    .addArgument(new Argument("<level>").choices(Object.keys(jlpt)))
+    .arguments("<range>")
 
-  const joyo = fs.readFileSync('./data/joyo.txt', 'utf8').split(" ")
-  const start = 1250
-  for (let j of joyo.slice(start, start+10)) {
-    const desc = await kanjiDesc(f, j)
-    console.log(j, desc+"\n")
+  const cmd = program.parse()
+  const [ vlv, range ] = cmd.args;
+  const level = vlv as keyof typeof jlpt
+  const [ a, b ] = range.split("-").map(x => parseInt(x))
+  const list = jlpt[level].kanjilist.kanji
+  const kanjis = list.slice(a+1, b == null ? a+2 : isNaN(b) ? undefined : b+2)
+  const chars = kanjis.map(k => k.char)
+  const desc = await getDesc(chars)
+  for (const [i, k] of kanjis.entries()) {
+    console.log(k.char, desc[k.char])
   }
 }
 
