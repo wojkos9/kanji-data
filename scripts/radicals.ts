@@ -19,7 +19,7 @@ for (const row of table.split("\n")) {
   const chars2 = /\((.*)\)/.exec(e[1])?.[1].split(",").map(c => c.trim())
 
   const chars = chars2 ? [char, ...chars2] : [char]
-  const trans = overrides[char] ?? /([a-z ]+)(?:(?: \()|[,;])/.exec(e[3])![1]
+  const trans = overrides[char] ?? /([a-z ']+)(?:(?: \()|[,;])/.exec(e[3])![1]
   const read = /([あ-ん]+), ([^ ),]*)/.exec(e[3])![1]
   const gs = groups.filter(g => chars.some(c => g.includes(c))).sort((a, b) => b.length - a.length)
   // if (gs.length > 1) {

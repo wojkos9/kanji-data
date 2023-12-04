@@ -14,7 +14,7 @@ function makeGrid(bb: Bounds, n: number) {
   const [gx, gy] = [subgrid(l, r), subgrid(t, b)]
   for (let i = 0; i < n; i++) {
     for (let j = 0; j < n; j++) {
-      const [g1, g2] = [gx[i], gy[j]]
+      const [g1, g2] = [gx[j], gy[i]]
       grid.push([g1[0], g2[0], g1[1], g2[1]])
     }
   }
@@ -58,4 +58,4 @@ function relPos(bb1: Bounds, bb2: Bounds, invChecked = false): Pos | undefined {
 }
 
 
-export { makeGrid, joinBounds }
+export { makeGrid, joinBounds, invPos }

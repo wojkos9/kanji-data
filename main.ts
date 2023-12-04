@@ -5,7 +5,7 @@ import JSZip from "jszip";
 import * as fs from 'fs'
 import { readFile } from 'fs/promises';
 import getBounds from 'svg-path-bounds';
-import { joinBounds, makeGrid } from './utils';
+import { invPos, joinBounds, makeGrid } from './utils';
 const strokes: Record<string, string> = require('./data/strokes.json')
 const radicals: Record<string, RadicalDesc> = require('./data/radicals.json')
 
@@ -46,7 +46,8 @@ function kanjiBounds(k: INode): number[] {
 function pointInt(pt: number[], bb: Bounds) {
   const [l, t, r, b] = bb
   const [x, y] = pt
-  return l <= x && x <= r && t <= y && y <= b
+  const res = l <= x && x <= r && t <= y && y <= b
+  return res
 }
 
 function points(bb: Bounds) {
@@ -54,18 +55,47 @@ function points(bb: Bounds) {
   return [[l, t], [l, b], [r, t], [r, b]]
 }
 
-function intersects(bb1: Bounds, bb2: Bounds) {
-  const pts = points(bb1)
-  return pts.every(pt => pointInt(pt, bb2))
+function intersects(bb1: Bounds, bb2: Bounds): boolean {
+  const [l1, t1, r1, b1] = bb1
+  const [l2, t2, r2, b2] = bb2
+  return l1 <= r2 && r1 >= l2 && t1 <= b2 && b1 >= t2
+  // return points(bb1).some(pt => pointInt(pt, bb2)) || points(bb2).some(pt => pointInt(pt, bb1))
 }
 
-const ltr = "abcdefghi".split("")
+const dict = {
+  "left": [17, 18, 44],
+  "top": [13, 16, 22],
+  "top-left": [11, 12, 14, 15],
+  "top-right": [23, 26, 33, 36],
+  "right": [29, 39],
+  "bottom": [49, 79],
+  "bottom-left": [48, 77, 78, 47],
+  "bottom-right": [59, 89, 99, 69],
+  "middle": [28],
+  "middle-row": [46],
+  "center": [55],
+  "center-top": [25],
+  "center-bottom": [58],
+  "center-left": [45],
+  "center-right": [56]
+}
+
+function dictLookup(posNum: string) {
+  const n = parseInt(posNum)
+  return Object.entries(dict).find(([k, v]) => v.includes(n))?.[0]
+}
 
 function getGrid(b: Bounds, pb: Bounds) {
   const grid = makeGrid(pb, 3)
-  const r = grid.map((g, i) => intersects(b, g) ? ltr[i] : null).filter(_ => _).join("")
-  console.log(b, pb, r)
-  return r
+  const r = grid.map((g, i) => intersects(b, g) ? (i+1).toString() : null).filter(_ => _)
+  const rl = r.length
+  switch (rl) {
+    case 0:
+    case 9:
+      return null
+    default:
+      return r[0]! + r[rl-1]
+  }
 }
 
 class Kanji {
@@ -82,26 +112,45 @@ class Kanji {
   bounds() { return kanjiBounds(this.k) }
 }
 
+const ltr = "abcdefgh"
+
 function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions): string[] {
   // const k = new Kanji(i)
   let ret: string[] = []
-  function add(p: string, type?: string) {
-    ret.push(type ? `${p} ${type}` : p)
+  function add(p: string, type?: string, char?: string) {
+    let desc = type ? `${p} ${type}` : p
+    if (opts.includeChars) {
+      desc += ` (${char})`
+    }
+    ret.push(desc)
   }
-  if (k.radical){
-    add(k.radical.t)
+  if (k.radical) {
+    add(k.radical.t, undefined, k.e)
   } else if (k.stroke) {
-    add(k.stroke, "stroke")
+    add(k.stroke, "stroke", k.s)
   } else {
     const bounds = k.bounds()
+    let lastPos: string | null = null
     for (const ch of k.children) {
-      let pos = getGrid(ch.bounds(), bounds)
+      if (ch.part > 1) {
+        continue
+      }
+      let pos = ch.pos || getGrid(ch.bounds(), bounds)
+      pos = pos && dictLookup(pos) || pos
       const rest = _walk(ch, level + 1, bounds, opts)
       const block = rest.length > 1
-      ret.push(pos)
-      if (block) ret.push("block")
+      if (!pos && lastPos) {
+        pos = invPos(lastPos as Pos)
+      }
+      if (!block && pos) {
+        ret.push(pos+":")
+      }
+      lastPos = pos
+      
+      const bName = block ? pos ? `${pos}-block` : 'block' : ""
+      if (block) ret.push(bName+":")
       ret.push(...rest)
-      if (block) ret.push("end-block")
+      if (block) ret.push(`end-${bName}`)
     }
   }
   return ret
@@ -111,7 +160,7 @@ function walk(e: INode, opts: WalkOptions) {
   const b = kanjiBounds(e)
   const s = _walk(new Kanji(e), 0, b, opts)
   const desc = s.filter(_ => _).join(" ")
-  return desc.substring(0, desc.length - 1)
+  return desc
 }
 
 async function kanjiDesc(f: JSZip, i: string, { radicalsOnly = true }: WalkOptions = {}) {
@@ -127,10 +176,10 @@ async function main() {
   const f = await zip.loadAsync(readFile("kanjivg.zip"))
 
   const joyo = fs.readFileSync('./data/joyo.txt', 'utf8').split(" ")
-  const start = 1900
+  const start = 1250
   for (let j of joyo.slice(start, start+10)) {
     const desc = await kanjiDesc(f, j)
-    console.log(j, desc)
+    console.log(j, desc+"\n")
   }
 }
 
