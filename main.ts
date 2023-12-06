@@ -1,13 +1,13 @@
 import { INode, parseSync } from 'svgson'
 import JSZip from "jszip";
-import * as fs from 'fs'
 import { readFile } from 'fs/promises';
-import getBounds from 'svg-path-bounds';
-import { invPos, joinBounds, makeGrid } from './utils';
-const strokes: Record<string, string> = require('./data/strokes.json')
-const radicals: Record<string, RadicalDesc> = require('./data/radicals.json')
+import { intersects, invPos, kanjiBounds, logTable, makeGrid } from './utils';
 import jlpt from './data/jlpt'
 import { Argument, Command } from 'commander';
+import { posDict, terms } from './constants';
+
+const strokes: Record<string, string> = require('./data/strokes.json')
+const radicals: Record<string, RadicalDesc> = require('./data/radicals.json')
 
 const zip = new JSZip();
 
@@ -24,52 +24,10 @@ interface WalkOptions {
   includeChars?: boolean
 }
 
-function kanjiBounds(k: INode): number[] {
-  const maybePath = k.attributes["d"]
-  let bounds: number[] | undefined
-  if (maybePath) {
-    bounds = getBounds(maybePath)
-  } else {
-    for (const c of k.children) {
-      const nb = kanjiBounds(c)
-      if (!nb) continue
-      if (!bounds) {
-        bounds = nb
-      } else {
-        bounds = joinBounds(bounds, nb)
-      }
-    }
-  }
-  return bounds!.map(b => Math.floor(b))
-}
-
-function intersects(bb1: Bounds, bb2: Bounds): boolean {
-  const [l1, t1, r1, b1] = bb1
-  const [l2, t2, r2, b2] = bb2
-  return l1 <= r2 && r1 >= l2 && t1 <= b2 && b1 >= t2
-}
-
-const dict = {
-  "left": [17, 18, 44],
-  "top": [13, 16, 22],
-  "top-left": [11, 12, 14, 15],
-  "top-right": [23, 26, 33, 36],
-  "right": [29, 39],
-  "bottom": [49, 79],
-  "bottom-left": [48, 77, 78, 47],
-  "bottom-right": [59, 89, 99, 69],
-  "middle": [28],
-  "middle-row": [46],
-  "center": [55],
-  "center-top": [25],
-  "center-bottom": [58],
-  "center-left": [45],
-  "center-right": [56]
-}
 
 function dictLookup(posNum: string) {
   const n = parseInt(posNum)
-  return Object.entries(dict).find(([k, v]) => v.includes(n))?.[0]
+  return Object.entries(posDict).find(([k, v]) => v.includes(n))?.[0]
 }
 
 function getGrid(b: Bounds, pb: Bounds) {
@@ -99,10 +57,7 @@ class Kanji {
   bounds() { return kanjiBounds(this.k) }
 }
 
-const ltr = "abcdefgh"
-
 function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions): string[] {
-  // const k = new Kanji(i)
   let ret: string[] = []
   function add(p: string, type?: string, char?: string) {
     let desc = type ? `${type} ${p}` : p
@@ -112,9 +67,9 @@ function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions)
     ret.push(desc)
   }
   if (k.radical) {
-    add(k.radical.t, "radical", k.e)
+    add(k.radical.t, terms.radical, k.e)
   } else if (k.stroke) {
-    add(k.stroke, "stroke", k.s)
+    add(k.stroke, terms.stroke, k.s)
   } else {
     const bounds = k.bounds()
     let lastPos: string | null = null
@@ -133,12 +88,10 @@ function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions)
         ret.push(pos+":")
       }
       lastPos = pos
-
-      const tBlock = "block"
-      const bName = block ? pos ? `${pos} ${tBlock}` : tBlock : ""
+      const bName = block ? pos ? `${pos} ${terms.block}` : terms.block : ""
       if (block) ret.push(bName+":")
       ret.push(...rest)
-      if (block) ret.push(`end ${bName}`)
+      if (block) ret.push(`${terms.end} ${bName}`)
     }
   }
   return ret
@@ -166,17 +119,17 @@ function walk(e: INode, opts: WalkOptions) {
   return desc
 }
 
-async function kanjiDesc(f: JSZip, i: string, { radicalsOnly = true }: WalkOptions = {}) {
+async function kanjiDesc(f: JSZip, i: string, opts: WalkOptions) {
   const u = i.charCodeAt(0).toString(16).padStart(5, "0")
   const x = await f.file(`kanji/${u}.svg`)?.async("string")!
   const b = parseSync(x)
   const k = b.children[0].children[0]
-  return walk(k, { radicalsOnly, includeChars: false })
+  return walk(k, opts)
 }
 
-async function getDesc(chars: string[]): Promise<Record<string, string>> {
+async function getDesc(chars: string[], opts: WalkOptions = {}): Promise<Record<string, string>> {
   const f = await zip.loadAsync(readFile("kanjivg.zip"))
-  const futureEntries = chars.map(async k => [k, await kanjiDesc(f, k)])
+  const futureEntries = chars.map(async k => [k, await kanjiDesc(f, k, opts)])
   return Object.fromEntries(await Promise.all(futureEntries))
 }
 
@@ -186,18 +139,26 @@ async function main() {
   program
     .addArgument(new Argument("<level>").choices(Object.keys(jlpt)))
     .arguments("<range>")
+    .option("-c --chars", "include chars", false)
 
   const cmd = program.parse()
-  const [ vlv, range ] = cmd.args;
-  const level = vlv as keyof typeof jlpt
+  const { chars: includeChars } = cmd.opts()
+  const [ lvl, range ] = cmd.args;
+  const level = lvl as keyof typeof jlpt
   const [ a, b ] = range.split("-").map(x => parseInt(x))
+
   const list = jlpt[level].kanjilist.kanji
   const kanjis = list.slice(a+1, b == null ? a+2 : isNaN(b) ? undefined : b+2)
   const chars = kanjis.map(k => k.char)
-  const desc = await getDesc(chars)
+  const desc = await getDesc(chars, { includeChars })
+
+  const lines = []
   for (const [i, k] of kanjis.entries()) {
-    console.log(k.char, desc[k.char])
+    const mean = k.meaning.split(", ")[0]
+    const read = k.on.split(", ")[0]
+    lines.push([k.char, `(${mean}, ${read})`, desc[k.char]])
   }
+  logTable(lines)
 }
 
 main()

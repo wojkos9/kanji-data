@@ -1,3 +1,6 @@
+import { INode } from "svgson"
+import getBounds from 'svg-path-bounds';
+
 function makeGrid(bb: Bounds, n: number) {
   const [l, t, r, b] = bb
   function subgrid(l: number, r: number) {
@@ -57,5 +60,44 @@ function relPos(bb1: Bounds, bb2: Bounds, invChecked = false): Pos | undefined {
   }
 }
 
+function kanaLength(t: string) {
+  return t.match(/[ア-ン]/gu)?.length ?? 0
+}
 
-export { makeGrid, joinBounds, invPos }
+function logTable(data: string[][]) {
+  const lens: number[] = []
+  for (let i = 0; i < data[0].length; i++) {
+    lens.push(Math.max(...data.map(t => t[i].length + kanaLength(t[i]) )))
+  }
+  for (const t of data) {
+    const padded = t.map((c, i) => i == t.length - 1 ? c : c.padStart(lens[i] - kanaLength(c), " "))
+    console.log(...padded)
+  }
+}
+
+function kanjiBounds(k: INode): number[] {
+  const maybePath = k.attributes["d"]
+  let bounds: number[] | undefined
+  if (maybePath) {
+    bounds = getBounds(maybePath)
+  } else {
+    for (const c of k.children) {
+      const nb = kanjiBounds(c)
+      if (!nb) continue
+      if (!bounds) {
+        bounds = nb
+      } else {
+        bounds = joinBounds(bounds, nb)
+      }
+    }
+  }
+  return bounds!.map(b => Math.floor(b))
+}
+
+function intersects(bb1: Bounds, bb2: Bounds): boolean {
+  const [l1, t1, r1, b1] = bb1
+  const [l2, t2, r2, b2] = bb2
+  return l1 <= r2 && r1 >= l2 && t1 <= b2 && b1 >= t2
+}
+
+export { makeGrid, joinBounds, invPos, logTable, kanjiBounds, intersects }
