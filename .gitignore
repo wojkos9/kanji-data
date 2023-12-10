@@ -3,4 +3,5 @@
 node_modules/
 kanji/
 *.zip
-*.mp3
+*.wav
+voice/

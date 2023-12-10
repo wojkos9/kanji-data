@@ -16,17 +16,17 @@ const posDict = {
   "center-right": [56]
 }
 
-const posWords = [
-  "bottom",
-  "kamae",
-  "left",
-  "nyo",
-  "nyoc",
-  "right",
-  "tare",
-  "tarec",
-  "top"
-]
+const posWords = {
+  "bottom": "bottom",
+  "kamae": "kamae",
+  "left": "left",
+  "nyo": "nyo",
+  "nyoc": "nyoc",
+  "right": "right",
+  "tare": "tare",
+  "tarec": "tarec",
+  "top": "top"
+}
 
 const terms = {
   block: "block",
@@ -34,5 +34,7 @@ const terms = {
   radical: "radical",
   stroke: "stroke"
 }
+
+export type AllPos = keyof typeof posDict | keyof typeof posWords
 
 export { posDict, posWords, terms }

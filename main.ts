@@ -4,7 +4,8 @@ import { readFile } from 'fs/promises';
 import { intersects, invPos, kanjiBounds, logTable, makeGrid } from './utils';
 import jlpt from './data/jlpt'
 import { Argument, Command } from 'commander';
-import { posDict, terms } from './constants';
+import { AllPos, posDict, posWords, terms } from './constants';
+import player from 'play-sound'
 
 const strokes: Record<string, string> = require('./data/strokes.json')
 const radicals: Record<string, RadicalDesc> = require('./data/radicals.json')
@@ -24,10 +25,9 @@ interface WalkOptions {
   includeChars?: boolean
 }
 
-
 function dictLookup(posNum: string) {
   const n = parseInt(posNum)
-  return Object.entries(posDict).find(([k, v]) => v.includes(n))?.[0]
+  return Object.entries(posDict).find(([k, v]) => v.includes(n))?.[0] as (AllPos | undefined)
 }
 
 function getGrid(b: Bounds, pb: Bounds) {
@@ -48,7 +48,7 @@ class Kanji {
   get a() { return this.k.attributes }
   get e() { return this.a[KVG.E] }
   get s() { return this.a[KVG.T]?.substring(0, 1) }
-  get pos() { return this.a[KVG.P] }
+  get pos() { return this.a[KVG.P] as AllPos }
   get part() { return parseInt(this.a[KVG.PT]) }
   get radical() { return radicals[this.e] }
   get stroke() { return strokes[this.s] }
@@ -57,69 +57,72 @@ class Kanji {
   bounds() { return kanjiBounds(this.k) }
 }
 
-function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions): string[] {
-  let ret: string[] = []
-  function add(p: string, type?: string, char?: string) {
-    let desc = type ? `${type} ${p}` : p
-    if (opts.includeChars) {
-      desc += ` (${char})`
-    }
-    ret.push(desc)
-  }
+function _walk(k: Kanji, level: number, parentBounds: Bounds, opts: WalkOptions): Token[] {
+  let tok: Token[] = []
+
   if (k.radical) {
-    add(k.radical.t, terms.radical, k.e)
+    tok.push(new Radical(k.radical, k.e))
   } else if (k.stroke) {
-    add(k.stroke, terms.stroke, k.s)
+    tok.push(new Stroke(k.stroke, k.s))
   } else {
     const bounds = k.bounds()
-    let lastPos: string | null = null
+    let lastPos: string | undefined
     for (const ch of k.children) {
       if (ch.part > 1) {
         continue
       }
-      let pos = ch.pos || getGrid(ch.bounds(), bounds)
-      pos = pos && dictLookup(pos) || pos
+      let pos: AllPos | undefined = ch.pos
+      if (!pos) {
+        const gridPos = getGrid(ch.bounds(), bounds)
+        if (gridPos) {
+          pos = dictLookup(gridPos)
+        }
+      }
       const rest = _walk(ch, level + 1, bounds, opts)
-      const block = rest.length > 1
+      const isBlock = rest.length > 1
       if (!pos && lastPos) {
         pos = invPos(lastPos as Pos)
       }
-      if (!block && pos) {
-        ret.push(pos+":")
+      if (!isBlock && pos) {
+        tok.push(new Position(pos))
       }
       lastPos = pos
-      const bName = block ? pos ? `${pos} ${terms.block}` : terms.block : ""
-      if (block) ret.push(bName+":")
-      ret.push(...rest)
-      if (block) ret.push(`${terms.end} ${bName}`)
+      const blockStart = new BlockStart(pos)
+      if (isBlock) tok.push(blockStart)
+      tok.push(...rest)
+      if (isBlock) tok.push(new BlockEnd(blockStart))
     }
   }
-  return ret
+  return tok
 }
 
-function walk(e: INode, opts: WalkOptions) {
+function walk(e: INode, opts: WalkOptions): KanjiDesc {
   const b = kanjiBounds(e)
-  const s = _walk(new Kanji(e), 0, b, opts)
-  let descs = s.filter(_ => _).map(x => x.endsWith(":") ? x : x+",")
+  const tok = _walk(new Kanji(e), 0, b, opts)
   let endCnt = 0
-  for (let i = descs.length - 1; i >= 0; i--) {
-    if (descs[i].startsWith("end")) {
+  for (let i = tok.length - 1; i >= 0; i--) {
+    if (tok[i] instanceof BlockEnd) {
       endCnt++
     } else {
       break
     }
   }
   if (endCnt > 0) {
-    descs = descs.slice(0, descs.length - endCnt)
+    tok.splice(tok.length - endCnt)
   }
-  let desc = descs.join(" ")
-  if (desc[desc.length - 1] == ",") {
-    desc = desc.substring(0, desc.length - 1)
+
+  return {
+    str: tok2str(tok),
+    tok
   }
-  return desc
 }
 
-async function kanjiDesc(f: JSZip, i: string, opts: WalkOptions) {
+interface KanjiDesc {
+  str: string
+  tok: Token[]
+}
+
+async function kanjiDesc(f: JSZip, i: string, opts: WalkOptions): Promise<KanjiDesc> {
   const u = i.charCodeAt(0).toString(16).padStart(5, "0")
   const x = await f.file(`kanji/${u}.svg`)?.async("string")!
   const b = parseSync(x)
@@ -127,10 +130,19 @@ async function kanjiDesc(f: JSZip, i: string, opts: WalkOptions) {
   return walk(k, opts)
 }
 
-async function getDesc(chars: string[], opts: WalkOptions = {}): Promise<Record<string, string>> {
+async function getDesc(chars: string[], opts: WalkOptions = {}): Promise<Record<string, KanjiDesc>> {
   const f = await zip.loadAsync(readFile("kanjivg.zip"))
   const futureEntries = chars.map(async k => [k, await kanjiDesc(f, k, opts)])
   return Object.fromEntries(await Promise.all(futureEntries))
+}
+
+import { concatAudio } from './cc';
+import { Token, Radical, Stroke, Position, BlockStart, BlockEnd, tok2str } from './token';
+
+async function getAudio(tok: Token[]) {
+  const files = tok.reduce((a: string[], b) => [...a, ...b.toAudio()], []).map(a => `voice/${a}.wav`)
+  concatAudio(files, "res.wav")
+  player({ player: 'play' }).play('res.wav')
 }
 
 async function main() {
@@ -152,13 +164,16 @@ async function main() {
   const chars = kanjis.map(k => k.char)
   const desc = await getDesc(chars, { includeChars })
 
-  const lines = []
-  for (const [i, k] of kanjis.entries()) {
-    const mean = k.meaning.split(", ")[0]
-    const read = k.on.split(", ")[0]
-    lines.push([k.char, `(${mean}, ${read})`, desc[k.char]])
-  }
-  logTable(lines)
+  // const lines = []
+  // for (const [i, k] of kanjis.entries()) {
+  //   const mean = k.meaning.split(", ")[0]
+  //   const read = k.on.split(", ")[0]
+  //   lines.push([k.char, `(${mean}, ${read})`, desc[k.char]])
+  // }
+  // logTable(lines)
+  const { tok } = desc[chars[0]]
+  console.log(chars[0], tok2str(tok, true))
+  getAudio(tok)
 }
 
 main()
