@@ -1,5 +1,5 @@
 import JSZip from 'jszip';
-import n2 from './data/jlpt/n2.json'
+import n2 from '../data/jlpt/n2.json'
 import getBounds from 'svg-path-bounds'
 import { INode, parseSync } from 'svgson';
 import { readFile } from 'fs/promises';

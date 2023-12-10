@@ -1,4 +1,4 @@
-import { AllPos, posDict, posWords, terms } from "./constants"
+import { AllPos, terms } from "./constants"
 
 export abstract class Token {
   abstract toString(verbose?: boolean): string

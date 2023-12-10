@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from "fs";
+import { readFileSync } from "fs";
 import { globSync } from "glob";
 import { INode, parseSync } from "svgson";
 

@@ -1,5 +1,5 @@
-import radicals from './data/radicals.json'
-import strokes from './data/strokes.json'
+import radicals from '../data/radicals.json'
+import strokes from '../data/strokes.json'
 import { posDict, posWords, terms } from './constants'
 import * as cp from 'child_process'
 import * as util from 'util'

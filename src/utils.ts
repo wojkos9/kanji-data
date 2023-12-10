@@ -45,21 +45,6 @@ function invPos(pos: Pos): Pos {
   }
 }
 
-function relPos(bb1: Bounds, bb2: Bounds, invChecked = false): Pos | undefined {
-  const [l1, t1, r1, b1] = bb1
-  const [l2, t2, r2, b2] = bb2
-  const [l, t, r, b] = joinBounds(bb1, bb2)
-  const [w, h] = [r - l, b - t]
-  if (l1 < l2 && r1 - l2 < 0.1 * w) {
-    return "left"
-  } else if (t1 < t2 && b1 - t2 < 0.1 * h) {
-    return "top"
-  } else if (!invChecked) {
-    const pos2 = relPos(bb2, bb1, true)
-    if (pos2) return invPos(pos2)
-  }
-}
-
 function kanaLength(t: string) {
   return t.match(/[ア-ン]/gu)?.length ?? 0
 }
